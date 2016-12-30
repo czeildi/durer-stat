@@ -1,7 +1,7 @@
 shinyUI(fluidPage(
     title = "durer stats",
-    navbarPage(
-        '',
+    tabsetPanel(
+        selected = 'maps',
         tabPanel(
             'scores',
             selectInput(
