@@ -14,4 +14,13 @@ shinyServer(function(input, output) {
             classDataForTeams() %>% 
             plotEffectOfClass()
     })
+    
+    output$participants <- renderLeaflet({
+        leaflet() %>% 
+            addTiles() %>% 
+            addMarkers(lng = 19, lat = 47.5) %>% 
+            addMarkers(lng = 23.62, lat = 46.77) %>% 
+            addMarkers(lng = 17.8, lat = 46.36) %>% 
+            addMarkers(lng = 20.78, lat = 48.1)
+    })
 })
