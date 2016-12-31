@@ -1,8 +1,10 @@
+# install.packages(c('data.table', 'magrittr', 'ggplot2', 'leaflet', 'stringr', 'maps', 'RSQLite'))
 library(data.table)
 library(magrittr)
 library(ggplot2)
 library(leaflet)
 library(stringr)
+library(RSQLite)
 
 invisible(sapply(list.files('src', full.names = TRUE), source))
 source('scripts/prepare.R')
