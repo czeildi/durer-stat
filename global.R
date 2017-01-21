@@ -1,4 +1,4 @@
-# source('scripts/install_used_packages.R')
+# on first run: source('scripts/install_used_packages.R')
 library("tidyverse")
 library("stringr")
 library("data.table")

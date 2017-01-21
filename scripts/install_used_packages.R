@@ -1,8 +1,7 @@
 install.packages(c(
-    'data.table',
     'tidyverse',
+    'data.table',
     'leaflet',
-    'stringr',
     'maps',
     'RSQLite',
     'shiny'

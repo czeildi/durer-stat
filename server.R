@@ -27,15 +27,7 @@ shinyServer(function(input, output) {
             unlist() %>% 
             unique() %>% 
             tolower() %>% 
-            str_replace_all('á', 'a') %>% 
-            str_replace_all('é', 'e') %>% 
-            str_replace_all('í', 'i') %>% 
-            str_replace_all('ú', 'u') %>% 
-            str_replace_all('ü', 'u') %>% 
-            str_replace_all('ű', 'u') %>% 
-            str_replace_all('ó', 'o') %>% 
-            str_replace_all('ö', 'o') %>%  
-            str_replace_all('ő', 'o')
+            stringi::stri_trans_general("latin-ascii")
         
         maps::world.cities %>% 
             data.table() %>% 
