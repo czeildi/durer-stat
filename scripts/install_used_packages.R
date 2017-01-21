@@ -1,11 +1,9 @@
 install.packages(c(
     'data.table',
-    'magrittr',
-    'ggplot2',
+    'tidyverse',
     'leaflet',
     'stringr',
     'maps',
     'RSQLite',
-    'shiny',
-    'tidyr'
+    'shiny'
 ))

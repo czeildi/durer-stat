@@ -6,7 +6,7 @@ shinyUI(fluidPage(
             'scores',
             selectInput(
                 'raw_data', label = 'select data',
-                choices = c(file.path('data', '9H-cdfk-scores.csv'),'bagoly')
+                choices = file.path('data', str_c(8:9, 'H-cdfk-scores.csv'))
             ),
             radioButtons(
                 'category', 'Select category', choices = c('C', 'D', 'F', 'K'), inline = T
