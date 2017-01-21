@@ -13,12 +13,12 @@ translateColName <- function(df) {
         c("school", "city", "region")
     )
     
-    rename_(dt, paste0('X', 1:5, '..feladat'), paste0('problem_', 1:5))    
-    rename_(dt, paste0('X', 1:5), paste0('problem_', 1:5))    
+    rename_(dt, paste0(1:5, '. feladat'), paste0('problem_', 1:5))    
+    rename_(dt, as.character(1:5), paste0('problem_', 1:5))    
     rename_(dt, c("Összesen"), c("total"))
     
     rename_(dt,
-        c("Felkészítő.tanárok", "Megjegyzés"),
+        c("Felkészítő tanárok", "Megjegyzés"),
         c("teachers", "note")
     )
     dt
