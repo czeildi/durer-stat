@@ -63,7 +63,7 @@ Harázi Abigél","9. o.
 9. o.
 10. o.","Burom Mária
 Ernyi Anikó
-Barabás Zoltán",Egi Szilágyi Erzsébet Gimnázium és Kollégium,Eger,ÉM,,0,5,0,1,6
+Barabás Zoltán",Egri Szilágyi Erzsébet Gimnázium és Kollégium,Eger,ÉM,,0,5,0,1,6
 Szeged,C,ATE,"Fenyvesi Abigél
 Böröc Tamás
 Szögi Evelin","10. o.
@@ -144,7 +144,7 @@ Ari László
 Molnár Roland","9. o.
 10. o.
 10. o.","Báthori Éva
-Bors Violetta",Ady Endre Elméleti Líceum,Nagyvarad,Ht,4,1,0,,,5
+Bors Violetta",Ady Endre Elméleti Líceum,Nagyvárad,Ht,4,1,0,,,5
 Budapest (BPG),C,DeMoRi,"Moró Balázs
 Rikk Borbála
 Drexler Konrád","10. o.
@@ -164,7 +164,7 @@ Pécs,C,Egy-Ketted,"Újvári Dániel
 Kovács Patrik
 Tiegelmann Rebecca","9. o.
 9. o.
-9. o.",Kovács Ágnes,Leőwey Klára Gimnázium Pécs,Pécs,DD,1,0,10,0,1,12
+9. o.",Kovács Ágnes,Leőwey Klára Gimnázium,Pécs,DD,1,0,10,0,1,12
 Kecskemét,C,Eszes Matekosok,"Török Ábel
 Zsigó Fanni
 Simon Dániel Gábor","9. o.
@@ -465,13 +465,13 @@ Eger,C,Szeg9c,"Veres Dàvid
 Kaló Áron
 Soós Eszter","9. o.
 9. o.
-9. o.",Bìró Bàlint,Szilàgyi Erzsébet Gimnàzium,Eger,ÉM,1,0,,,,1
+9. o.",Bìró Bàlint,Szilágyi Erzsébet Gimnázium és Kollégium,Eger,ÉM,1,0,,,,1
 Nyíregyháza,C,Szinuszminusz,"Kovács Eszter Gizella
 Csapó Márton
 Manger Bence","9. o.
 9. o.
 10. o.","Istvánné Gál Krisztina
-Orosz Erzsébet","Szent Imre Katolikus Gimnázium, Ált. Isk., Koll., Óv. és AMI",Nyíregyháza,ÉA,6,7,10,2,,25
+Orosz Erzsébet","Szent Imre Katolikus Gimnázium",Nyíregyháza,ÉA,6,7,10,2,,25
 Debrecen,C,szükgyök.ce,"Dudás Zoltán
 Szűcs Dorka
 Budai Éva","10. o.
@@ -581,7 +581,7 @@ Nagyvárad,C,Tudosok,"Sandor Henrietta Bernadett
 Lengyel Renata Gabriella
 Kristofi Janos Mihaly","10. o.
 10. o.
-9. o.",Bathori Eva,Ady Endre Elméleti Líceum,Nagyvarad,Ht,1,7,0,3,0,11
+9. o.",Bathori Eva,Ady Endre Elméleti Líceum,Nagyvárad,Ht,1,7,0,3,0,11
 Budapest (BPG),C,Útépítők,"Kasza Péter
 Zsilinszky Mózes
 Szabadkai Anna","9. o.
@@ -591,7 +591,7 @@ Budapest (BPG),C,VMG 9.d2,"Kalóczkai Lili
 Tímár Bendegúz
 Horváth Aurél","9. o.
 9. o.
-9. o.","Kertai Helga, Madas Pál, Szabó Szabolcs",Váromajori Gimnázium,Budapest,BP,2,0,0,0,0,2
+9. o.","Kertai Helga, Madas Pál, Szabó Szabolcs",Városmajori Gimnázium,Budapest,BP,2,0,0,0,0,2
 Budapest (BPG),C,VMG 9.d3,"Bhudia Shayam Nitin
 Deák Zsófia
 Békési Bulcsú","9. o.
@@ -707,7 +707,7 @@ Szabó Csenge
 Csoknyay Zoltán","12. o.
 11. o.
 11. o.","Szoldatics József
-Laczkó László",Budapesti Fazekas Mihály Általános Iskola és Gimnázium,Budapest,BP,10,10,5,5,0,30
+Laczkó László",Budapesti Fazekas Mihály Gyakorló Általános Iskola és Gimnázium,Budapest,BP,10,10,5,5,0,30
 Budapest (BPG),D,Flödszömdöför,"Varga Dominika
 Üveges Elina
 Gyurkó Bátor","11. o.
@@ -732,7 +732,7 @@ Debrecen,D,Gyermekláncfűrész,"Vinis Vivien
 Székely Dávid
 Papp Attila","11. o.
 12. o.
-12. o.",Poorné Tassi Ildikó,Karcagi Nagykun Református Gimnázium és Egészségügyi Szakközépiskola,Karcag,ÉA,0,0,0,0,0,0
+12. o.",Poorné Tassi Ildikó,Karcagi Nagykun Református Gimnázium,Karcag,ÉA,0,0,0,0,0,0
 Miskolc,D,Gyökerek,"Molnár Máté Lajos
 Gonda Iván
 Juhász Katalin","12. o.
@@ -800,7 +800,7 @@ Eger,D,Mogadishu,"Ráki Dániel
 Seres Zsófi
 Körmöczi Dávid","11. o.
 12. o.
-11. o.",Burom Mária,Egri Szilágyi Erzsébet Gimnázium És Gimnázium,Eger,ÉM,2,0,,4,10,16
+11. o.",Burom Mária,Egri Szilágyi Erzsébet Gimnázium És Kollégium,Eger,ÉM,2,0,,4,10,16
 Budapest (SZIG),D,Naplopók,"Szlachányi Tádé
 Farkas Viktória 
 Domán Dániel","11. o.
@@ -977,7 +977,7 @@ Miskolc,D,Vesztettem!,"Tari Balázs
 Porupsánszki István
 Birinyi Anna","12. o.
 12. o.
-11. o.","Kovács Attiláné, Vass Iván, Veres Pál",Földes Ferenc Gimnázium,Msikolc,ÉM,9,,10,10,8,37
+11. o.","Kovács Attiláné, Vass Iván, Veres Pál",Földes Ferenc Gimnázium,Miskolc,ÉM,9,,10,10,8,37
 Szombathely,D,WWW,"Bauer Márton
 Nagy Zsófia
 Pukler Márton","11. o.
@@ -1012,7 +1012,7 @@ Szombathely,F,Jurisich_nagy,"Fehér Áron
 Marton Levente
 Bognár Gabriella","12. o.
 11. o.
-12. o.",Mátrai István,Jurisich Miklós Gimnázium,Kőszeg,NyD,2,17,5,2,0,26
+12. o.",Mátrai István,Jurisich Miklós Gimnázium és Kollégium,Kőszeg,NyD,2,17,5,2,0,26
 Miskolc,F,Kapanyányimonyók,"Varga Lilla Luca
 Hornyák Szabolcs
 Plaszkó Noel","12. o.
