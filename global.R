@@ -3,6 +3,7 @@ library("tidyverse")
 library("stringr")
 library("data.table")
 library("leaflet")
+library("DBI")
 library("RSQLite")
 
 invisible(sapply(list.files('src', full.names = TRUE), source))
