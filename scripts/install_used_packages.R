@@ -1,1 +1,11 @@
-install.packages(c('data.table', 'tidyr', 'dplyr', 'ggplot2', 'shiny'))
+install.packages(c(
+    'data.table',
+    'magrittr',
+    'ggplot2',
+    'leaflet',
+    'stringr',
+    'maps',
+    'RSQLite',
+    'shiny',
+    'tidyr'
+))

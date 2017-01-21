@@ -1,5 +1,5 @@
-# install.packages(c('data.table', 'magrittr', 'ggplot2', 'leaflet', 'stringr', 'maps', 'RSQLite'))
-library(data.table)
+# source('scripts/install_used_packages.R')
+suppressPackageStartupMessages(library(data.table))
 library(magrittr)
 library(ggplot2)
 library(leaflet)

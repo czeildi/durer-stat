@@ -12,11 +12,19 @@ translateColName <- function(df) {
         c("Iskola", "Város", "Régió"),
         c("school", "city", "region")
     )
-    setnames(
-        dt,
-        paste0('X', 1:5, '..feladat'),
-        paste0('problem_', 1:5)
-    )    
+    if ('X1..feladat' %in% names(dt)) {
+        setnames(
+            dt,
+            paste0('X', 1:5, '..feladat'),
+            paste0('problem_', 1:5)
+        )    
+    } else {
+        setnames(
+            dt,
+            paste0('X', 1:5),
+            paste0('problem_', 1:5)
+        )    
+    }
     setnames(
         dt,
         c("Összesen"),
@@ -24,8 +32,11 @@ translateColName <- function(df) {
     )
     setnames(
         dt,
-        c("Felkészítő.tanárok", "Megjegyzés"),
-        c("teachers", "note")
+        c("Felkészítő.tanárok"),
+        c("teachers")
     )
+    if ('Megjegyzés' %in% names(dt)) {
+        setnames(dt, 'Megjegyzés', 'note')
+    }   
     dt
 }

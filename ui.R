@@ -16,6 +16,7 @@ shinyUI(fluidPage(
         ),
         tabPanel(
             'maps',
+            numericInput('year_for_map', 'Select competition: ', min = 1, max = 10, value = 9),
             leafletOutput('participants', height = 600)
         )
     )

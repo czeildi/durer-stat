@@ -20,7 +20,7 @@ shinyServer(function(input, output) {
             'Hungary', 'Croatia', 'Austria', 'Ukraine', 'Slovakia',
             'Slovenia', 'Romania', 'Serbia and Montenegro'
         )
-        cities_9 <- 'data/9H-cdfk-scores.csv' %>% 
+        cities <- str_c('data/', input$year_for_map, 'H-cdfk-scores.csv') %>% 
             fread() %>% 
             .[, city] %>% 
             str_split(', |; ') %>% 
@@ -39,7 +39,7 @@ shinyServer(function(input, output) {
         
         maps::world.cities %>% 
             data.table() %>% 
-            .[country.etc %in% participating_countries & tolower(name) %in% cities_9] %>% 
+            .[country.etc %in% participating_countries & tolower(name) %in% cities] %>% 
             leaflet() %>%
             addTiles() %>% 
             addMarkers(~ long, ~ lat, popup = ~ htmltools::htmlEscape(name))
