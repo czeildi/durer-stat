@@ -33,7 +33,7 @@ Mütyűrök,A,"Seszták Anna
 Simkó Gergő
 Oláh Marcell","6.
 5.
-6.",Fényi Gyula Jezsuita Gimnázium,Miskolc,Németh Anna,Miskolc,46,
+6.","Fényi Gyula Jezsuita Gimnázium és Kollégium, Miskolc",Miskolc,Németh Anna,Miskolc,46,
 FEJTÖRŐK,A,"Janik Balázs László
 Kucsma Lehel Péter
 Fónagy Fanni","6.
@@ -60,7 +60,7 @@ Vár-Ady-ZRN,A,"Erdei Roland
 Árva Norbert
 Kohán Zsófia","6.
 5.
-6.","Ady Endre Gimnázium, Nagyvárad",Nagyvárad,"Bődi János
+6.",Ady Endre Elméleti Líceum,Nagyvárad,"Bődi János
 Ridi Enikő",Külső,42,
 Kicsik,A,"Galgóczy Gábor
 Karsai János
@@ -76,18 +76,18 @@ Vár-Ady-PPR,A,"Csányi Patrick
 Csongvay Réka
 Szabó Patricia","6.
 5.
-6.","Ady Endre Gimnázium, Nagyvárad",Nagyvárad,Bődi János,Külső,37,
+6.",Ady Endre Elméleti Líceum,Nagyvárad,Bődi János,Külső,37,
 Mignonok,A,"Bakondi Gábor
 Németh Luca
 Spekker Dorina","6.
 5.
-6.",Fényi Gyula Jezsuita Gimnázium,Miskolc,Németh Anna,Miskolc,37,
+6.","Fényi Gyula Jezsuita Gimnázium és Kollégium, Miskolc",Miskolc,Németh Anna,Miskolc,37,
 ALFA,A,"Mészáros Regő
 Ványi Bence
 Mészáros Bori Anna","6.
 6.
 5.","Szent Imre Katolikus Gimnázium, Általános Iskola, Kollégium, Óvoda és Alapfokú Művészeti Iskola",Nyíregyháza,Szaplonczay Mihályné Orosz Erzsébet,Nyíregyháza,34,
-SZIPORKÁK ,A,"Motkó Bence
+SZIPORKÁK,A,"Motkó Bence
 Tóth Anita
 Pásztor Levente","5.
 6.
@@ -156,7 +156,7 @@ Susogós Mackók,A,"Kovác József
 Majoros Gréta
 Hámori Mátyás","6.
 5.
-6.",Fényi Gyula Jezsuita Gimnázium,Miskolc,"Németh Anna
+6.","Fényi Gyula Jezsuita Gimnázium és Kollégium, Miskolc",Miskolc,"Németh Anna
 Mozgó Endre",Miskolc,24,
 Delfin,A,"Rák Eszter
 Ladics Laura
@@ -167,12 +167,12 @@ Menőmanók,A,"Turóczi Gergely
 Papp Szabolcs
 Kisfalusi Terézia","6.
 5.
-6.",Fényi Gyula Jezsuita Gimnázium,Miskolc,Németh Anna,Miskolc,19,
+6.","Fényi Gyula Jezsuita Gimnázium és Kollégium, Miskolc",Miskolc,Németh Anna,Miskolc,19,
 Fényesek,A,"László Hunor
 Nagy Laura
 Szabó Dominik","6.
 5.
-6.",Fényi Gyula Jezsuita Gimnázium,Miskolc,"Németh Anna
+6.","Fényi Gyula Jezsuita Gimnázium és Kollégium, Miskolc",Miskolc,"Németh Anna
 Mozgó Endre",Miskolc,19,
 Gepárd,A,"Dékány Csanád
 Pallagi Máté Bence
@@ -208,7 +208,7 @@ Tojások,B,"Gáspár Attila
 Debreczeni Ákos
 Szász Eszter","8.
 8.
-7.",Földes Ferenc Gimnázium,Miskolc,"Kovács Attiláné,
+7.","Földes Ferenc Gimnázium, Miskolc",Miskolc,"Kovács Attiláné,
 Győry Ákos,
 Dr. Szabadfalviné Kormányos Anikó",Miskolc,62,igen
 X Faktoriális,B,"Felföldi Áron György
@@ -226,7 +226,7 @@ Csordás Péter",Külső,52,igen
 Vadon Enikő
 Illés Dorottya Lilla","8.
 8.
-7.",Földes Ferenc Gimnázium,Miskolc,"Dr. Szabadfalviné Kormányos Anikó
+7.","Földes Ferenc Gimnázium, Miskolc",Miskolc,"Dr. Szabadfalviné Kormányos Anikó
 Kovács Attiláné
 Győry Ákos",Miskolc,47,
 Triász,B,"Dósa Attila
@@ -248,7 +248,7 @@ Mini Einsteinek,B,"Soós Gergely
 Kovács Zsófia
 Leskó Laura","8.
 8.
-7.",Földes Ferenc Gimnázium,Miskolc,"Kovács Attiláné Ősz Anna, Győry Ákos, Dr. Szabadfalviné Kormányos Anikó",Miskolc,43,
+7.","Földes Ferenc Gimnázium, Miskolc",Miskolc,"Kovács Attiláné Ősz Anna, Győry Ákos, Dr. Szabadfalviné Kormányos Anikó",Miskolc,43,
 Matuk,B,"Végső Marcell
 Rendes Fanni
 Buzga Levente","7.
@@ -258,17 +258,17 @@ Nekem8,B,"Kádár Bálint
 Mócz Márton
 Bíró Hanna","8.
 8.
-7.",Földes Ferenc Gimnàzium,Miskolc,,Miskolc,40,
+7.","Földes Ferenc Gimnázium, Miskolc",Miskolc,,Miskolc,40,
 Törpokosok,B,"Poncsák Ákos
 Vass Lívia
 Almássy Tekla","8.
 7.
-8.",Földes Ferenc Gimnázium,Miskolc,"Kovács Attiláné, Győry Ákos, Dr.Szabadfalviné Kormányos Anikó",Miskolc,39,
+8.","Földes Ferenc Gimnázium, Miskolc",Miskolc,"Kovács Attiláné, Győry Ákos, Dr.Szabadfalviné Kormányos Anikó",Miskolc,39,
 Pikácsú,B,"Lakatos Levente
 Soós Antónia
 Vitelki Balázs","8.
 7.
-8.",Herman Ottó Gimnázium,Miskolc,Kóródi Zoltán,Miskolc,39,
+8.","Herman Ottó Gimnázium, Miskolc",Miskolc,Kóródi Zoltán,Miskolc,39,
 KJG 2,B,"Nagy Virág
 Pottondi Csaba Tamás
 Kovács Marcell","8.
@@ -278,12 +278,12 @@ Tetraéder,B,"Tóth Ádám
 Szász Kristóf
 Nagy Klaudia","7.
 7.
-8.",Földes Ferenc Gimnázium,Miskolc,Kovács Attiláné; Győry Ákos; Dr. Szabadfalviné Kormányos Anikó,Miskolc,38,
+8.","Földes Ferenc Gimnázium, Miskolc",Miskolc,Kovács Attiláné; Győry Ákos; Dr. Szabadfalviné Kormányos Anikó,Miskolc,38,
 Tippszmix,B,"Bertóti Laura
 Pólik Ádám
 Kondor Máté","7.
 8.
-8.",Herman Ottó Gimnázium,Miskolc,Kóródi Zoltán,Miskolc,38,
+8.","Herman Ottó Gimnázium, Miskolc",Miskolc,Kóródi Zoltán,Miskolc,38,
 Észbontó,B,"Mészáros Lili
 Lovász Péter
 Kovács Evelin","8.
@@ -318,12 +318,12 @@ Weinhardt-Kovács Ádám","8.
 Tamás Bence
 Koleszár Panna","8.
 8.
-7.",Herman Ottó Gimnázium,Miskolc,Kóródi Zoltán,Miskolc,32,
+7.","Herman Ottó Gimnázium, Miskolc",Miskolc,Kóródi Zoltán,Miskolc,32,
 Hermatek,B,"Balla Bence Máté
 Kardos Martin
 Csák Anna","7.
 7.
-7.",Herman Ottó Gimnázium,Miskolc,Kóródi Zoltán,Miskolc,32,
+7.","Herman Ottó Gimnázium, Miskolc",Miskolc,Kóródi Zoltán,Miskolc,32,
 Névtelenek,B,"Dévényi Kristóf
 Szatmári Péter
 Matics Bianka","7.
@@ -339,7 +339,7 @@ Delta,B,"Debreceni Eszter
 Kövessy Péter
 Németh Csenge","8.
 7.
-8.",Fényi Gyula Jezsuita Gimnázium,Miskolc,Németh Anna,Miskolc,30,
+8.","Fényi Gyula Jezsuita Gimnázium és Kollégium, Miskolc",Miskolc,Németh Anna,Miskolc,30,
 IQLiga,B,"Farkas Norbert
 Nagy Kitti Orsolya
 Burai Ádám","7.
@@ -354,17 +354,17 @@ A Herma bajnokai,B,"Lovas Petra
 Nagy Zsombor
 Schupler Bendegúz","8.
 7.
-7.",Herman Ottó Gimnázium,Miskolc,Kóródi Zoltán,Miskolc,28,
+7.","Herman Ottó Gimnázium, Miskolc",Miskolc,Kóródi Zoltán,Miskolc,28,
 Matherman,B,"Nagy Liliána
 Farkas Patrik
 Halász Szilárd","7.
 8.
-8.",Herman Ottó Gimnázium,Miskolc,Kóródi Zoltán,Miskolc,28,
+8.","Herman Ottó Gimnázium, Miskolc",Miskolc,Kóródi Zoltán,Miskolc,28,
 Izé,B,"Koleszár Panna
 Papp Marcell
 Tamás Bence Beneke","7.
 8.
-8.",Herman Ottó Gimnázium,Miskolc,Kóródi Zoltán,Miskolc,28,Izé = Ikozaéderek ?
+8.","Herman Ottó Gimnázium, Miskolc",Miskolc,Kóródi Zoltán,Miskolc,28,Izé = Ikozaéderek ?
 Széchenyi,B,"Pöstényi Márk
 Torma Márton
 Molnár Tímea","8.
@@ -375,7 +375,7 @@ Dózsa Imre",Tiszaújváros,28,
 Varga Dániel Jonatán
 Horváth Panna","7.
 7.
-7.",Herman Ottó Gimnázium,Miskolc,Kóródi Zoltán,Miskolc,27,
+7.","Herman Ottó Gimnázium, Miskolc",Miskolc,Kóródi Zoltán,Miskolc,27,
 A-team,B,"Dékány Kolos
 Sipos Balázs
 Klima Odett","7.
@@ -390,12 +390,12 @@ Bélások,B,"Szilágyi Gergő
 Bogos Dorina
 Huszár Olívia Mária","7.
 7.
-7.",Bajai III.Béla Gimnázim,Baja,Egyed László,Külső,26,
+7.",Bajai III. Béla Gimnázium,Baja,Egyed László,Külső,26,
 ITTVAGUNKMI_GPF,B,"Kiss Tamás
 Nagy Bernadett
 Fabók Bence Emil","7.
 7.
-7.",Földes Ferenc Gimnázium,Miskolc,,Miskolc,25,
+7.","Földes Ferenc Gimnázium, Miskolc",Miskolc,,Miskolc,25,
 Pálmák,B,"Molnár Dénes Dominik
 Dódi Zsanett
 Molnár András Imre","8.
@@ -411,7 +411,7 @@ Anonymusok,B,"Sallai Dóra
 Tóth Dávid Simon
 Révai Orsolya","8.
 7.
-8.",Herman Ottó Gimnázium,Miskolc,Kóródi Zoltán,Miskolc,23,
+8.","Herman Ottó Gimnázium, Miskolc",Miskolc,Kóródi Zoltán,Miskolc,23,
 Matekmix,B,"Tómács Renáta 
 Bali Dániel
 Bárdos Krisztián","7.
@@ -421,12 +421,12 @@ Számoló Kommandó,B,"Weisz Kiara
 Vásári Ronett
 Roboz Alexandra","7.
 7.
-7.",Bajai III Béla Gimnázium,Baja,Egyed László,Külső,21,
+7.",Bajai III. Béla Gimnázium,Baja,Egyed László,Külső,21,
 pingWIN,B,"Czipa Anett
 Kiss Dorina
 Fedor Fanni","7.
 8.
-7.",Földes Ferenc Gimnázium,Miskolc,"Dr. Szabadfalviné Kormányos Anikó, Kovács Attiláné",Miskolc,20,
+7.","Földes Ferenc Gimnázium, Miskolc",Miskolc,"Dr. Szabadfalviné Kormányos Anikó, Kovács Attiláné",Miskolc,20,
 Petőfisek,B,"Ágfalvi Marcell
 Sárkány Alex
 Csiklya Boglárka","8.
@@ -436,7 +436,7 @@ Bermuda,B,"Kakuk Zita
 Bodnár Benedek
 Ötvös Anna","8.
 7.
-8.",Fényi Gyula Jezsuita Gimnázium és Kollégium,Miskolc,Németh Anna,Miskolc,19,
+8.","Fényi Gyula Jezsuita Gimnázium és Kollégium, Miskolc",Miskolc,Németh Anna,Miskolc,19,
 TRIPLA,B,"Kiss Apollónia
 Fónagy András
 Pekk Nikolett","7.

@@ -5,7 +5,7 @@ collectSchoolNames <- function() {
       ~ {
           suppressMessages(dt <- read_csv(.))
           if ('Iskola' %in% names(dt)) {
-              school_names <<- unique(c(school_names, dt$Iskola))
+              school_names <<- sort(c(school_names, dt$Iskola))
           } else {
               print(.)
           }

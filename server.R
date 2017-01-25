@@ -36,4 +36,35 @@ shinyServer(function(input, output) {
             addTiles() %>% 
             addMarkers(~ long, ~ lat, popup = ~ htmltools::htmlEscape(name))
     })
+    
+    school_ids <- reactive({
+        school_names <- collectSchoolNames()
+        data.table(
+            name = school_names
+        ) %>% 
+            .[, .(num = .N), by = 'name'] %>% 
+            .[, id := 1:.N]
+    })
+    
+    output$school_ids <- renderDataTable({
+        school_ids()
+    })
+    
+    renameSchool <- eventReactive(input$submit, {
+        from <- input$school_name_to_change 
+        to <- school_ids()[id == input$target_name_id, name]
+        walk(
+            list.files('raw_data', full.names = TRUE),
+            ~ {
+                suppressMessages(dt <- read_csv(.))
+                dt <- data.table(dt)
+                dt[Iskola == from, Iskola := to]
+                fwrite(dt, .)
+            }
+        )
+    })
+    
+    output$dummy_submit <- renderUI({
+        renameSchool()
+    })
 })

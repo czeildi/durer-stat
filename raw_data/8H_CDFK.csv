@@ -89,7 +89,7 @@ Balassagyarmat,C,BáNiKa,"Oczot Nikolett
 Tupcsa Kamilla
 Gáspár Bálint","9. o.
 9. o.
-9. o.",Hegedűs Csaba,Balassagyarmati Balassi Bálint Gimnázium,Balassagyarmat,ÉM,8,0,0,6,0,14
+9. o.",Hegedűs Csaba,Balassagyarmati Balassagyarmati Balassi Bálint Gimnázium,Balassagyarmat,ÉM,8,0,0,6,0,14
 Nyíregyháza,C,Besisek,"Győry Balázs
 Molnár József
 Lipécz Ákos","9. o.
@@ -154,7 +154,7 @@ Miskolc,C,Döbeszt,"Kmetz Fanni
 Estók Sándor
 Lukács Miklós Ágoston","10. o.
 10. o.
-9. o.","Petercsák Kitti, Győry Ákos, Fejér Szabolcs",Földes Ferenc Gimnázium,Miskolc,ÉM,5,0,3,5,6,19
+9. o.","Petercsák Kitti, Győry Ákos, Fejér Szabolcs","Földes Ferenc Gimnázium, Miskolc",Miskolc,ÉM,5,0,3,5,6,19
 Budapest (BPG),C,Dömper,"Nagy Salamon
 Nagy Roland
 Zaszlavik Sára","10. o.
@@ -196,17 +196,17 @@ Kovács Zsófia
 Gáspár Attila","9. o.
 9. o.
 10. o.","Kovács Attiláné
-Győry Ákos",Földes Ferenc Gimnázium,Miskolc,ÉM,10,10,10,9,10,49
+Győry Ákos","Földes Ferenc Gimnázium, Miskolc",Miskolc,ÉM,10,10,10,9,10,49
 Miskolc,C,Földes urak és egy Hölgy,"Martos Letícia
 SzabadfalviDániel
 Bodolai Előd","9. o.
 10. o.
-10. o.","Fejér Szabolcs, Gulyás Tibor, Győry Ákos",Földes Ferenc Gimnázium,Miskolc,ÉM,10,10,10,0,0,30
+10. o.","Fejér Szabolcs, Gulyás Tibor, Győry Ákos","Földes Ferenc Gimnázium, Miskolc",Miskolc,ÉM,10,10,10,0,0,30
 Miskolc,C,Függöny,"Soós Attila Bálint
 Lakatos Levente
 Vincze Noémi","9. o.
 9. o.
-9. o.",Kóródi Zoltán,Herman Ottó Gimnázium,Miskolc,ÉM,,0,0,9,0,9
+9. o.",Kóródi Zoltán,"Herman Ottó Gimnázium, Miskolc",Miskolc,ÉM,,0,0,9,0,9
 Szombathely,C,Függvény,"Bartalis Zoltán
 Szimandel Eszter
 Marosits Ádám","10. o.
@@ -255,7 +255,7 @@ Somosi Fanni Luca","9. o.
 9. o.
 9. o.","Gulyás Tibor
 Győri Ákos
-Kovács Atilláné",Földes Ferenc Gimnázium,Miskolc,ÉM,9,7,10,1,7,34
+Kovács Atilláné","Földes Ferenc Gimnázium, Miskolc",Miskolc,ÉM,9,7,10,1,7,34
 Budapest (SZIG),C,I Pad,"Adorján Dániel
 Bodnár Anna
 Tímár Paula","10. o.
@@ -282,7 +282,7 @@ Juhász Áron
 Papp Marcell","10. o.
 9. o.
 10. o.","Pilzné Nagylaki Tünde
-Kóródi Zoltán",Herman Ottó Gimnázium,Miskolc,ÉM,2,5,10,5,,22
+Kóródi Zoltán","Herman Ottó Gimnázium, Miskolc",Miskolc,ÉM,2,5,10,5,,22
 Fonyód,C,Kasztília serege,"Sefcsik Márk
 Horváth Ádám
 Németh Dorina","10. o.
@@ -322,7 +322,7 @@ Benkő Glória","9. o.
 10. o.
 10. o.","Gulyás Tibor
 Győry Ákos
-Kovács Attiláné",Földes Ferenc Gimnázium,Miskolc,ÉM,5,10,10,5,0,30
+Kovács Attiláné","Földes Ferenc Gimnázium, Miskolc",Miskolc,ÉM,5,10,10,5,0,30
 Pécs,C,MATBAB,"Pál Gergő
 Radnai Barna
 Bobula Dalma","10. o.
@@ -359,7 +359,7 @@ Miskolc,C,Megnyerjük,"Kalmár Péter
 Tóth Gergely György
 Lovas Petra","10. o.
 10. o.
-9. o.",Kóródi Zoltán,Herman Ottó Gimnázium,Miskolc,ÉM,4,2,9,3,,18
+9. o.",Kóródi Zoltán,"Herman Ottó Gimnázium, Miskolc",Miskolc,ÉM,4,2,9,3,,18
 Baja,C,Méhecskék,"Kincse Csongor
 Szabó Mária Laura
 Sipos Gábor","9. o.
@@ -576,7 +576,7 @@ Rákóczi Dominik
 Pap Luca","9. o.
 10. o.
 10. o.","Hegedűs Csaba
-Grallert Krisztina",Balassagyarmati Balassi Bálint Gimnázium,Balassagyarmat,ÉM,6,0,10,,,16
+Grallert Krisztina",Balassagyarmati Balassagyarmati Balassi Bálint Gimnázium,Balassagyarmat,ÉM,6,0,10,,,16
 Nagyvárad,C,Tudosok,"Sandor Henrietta Bernadett
 Lengyel Renata Gabriella
 Kristofi Janos Mihaly","10. o.
@@ -679,7 +679,7 @@ Eger,D,DerékSZEG,"Fehét Balázs
 Kozák Ágota
 Kaló Ádám","12. o.
 11. o.
-12. o.",Bíró Bálint,Egri Szilágyi Erzsébet Gimnázium és kollégium,Eger,ÉM,,0,0,,,0
+12. o.",Bíró Bálint,Egri Szilágyi Erzsébet Gimnázium és Kollégium,Eger,ÉM,,0,0,,,0
 Budapest (SZIG),D,Dorzintor,"Tamás Gergely
 Ngnuyen Hai Yen
 Kovács Balázs Marcell","12. o.
@@ -707,7 +707,7 @@ Szabó Csenge
 Csoknyay Zoltán","12. o.
 11. o.
 11. o.","Szoldatics József
-Laczkó László",Budapesti Fazekas Mihály Általános Iskola és Gimnázium,Budapest,BP,10,10,5,5,0,30
+Laczkó László",Budapesti Fazekas Mihály Gyakorló Általános Iskola és Gimnázium,Budapest,BP,10,10,5,5,0,30
 Budapest (BPG),D,Flödszömdöför,"Varga Dominika
 Üveges Elina
 Gyurkó Bátor","11. o.
@@ -737,7 +737,7 @@ Miskolc,D,Gyökerek,"Molnár Máté Lajos
 Gonda Iván
 Juhász Katalin","12. o.
 12. o.
-11. o.","Kovács Attiláné, Fejér Szabolcs, Gulyás Tibor, Vass Iván",Földes Ferenc Gimnázium,Miskolc,ÉM,6,0,3,,,9
+11. o.","Kovács Attiláné, Fejér Szabolcs, Gulyás Tibor, Vass Iván","Földes Ferenc Gimnázium, Miskolc",Miskolc,ÉM,6,0,3,,,9
 Budapest (BPG),D,Harcos Pandák,"Szőke Georgina
 Horváth Csilla
 Horváth Milán","11. o.
@@ -779,7 +779,7 @@ Miskolc,D,Ki az az Adorján?,"Kulcsár Zsuzsa
 Gergely Dominik Brúnó
 Kaposvári Péter","12. o.
 11. o.
-11. o.",Gulyásné Nemes Katalin,Herman Ottó Gimnázium,Miskolc,ÉM,8,10,10,2,9,39
+11. o.",Gulyásné Nemes Katalin,"Herman Ottó Gimnázium, Miskolc",Miskolc,ÉM,8,10,10,2,9,39
 Szombathely,D,Koszinusz,"Horváth Gábor
 Király Bianka
 Koltai Kadosa Márton","11. o.
@@ -800,7 +800,7 @@ Eger,D,Mogadishu,"Ráki Dániel
 Seres Zsófi
 Körmöczi Dávid","11. o.
 12. o.
-11. o.",Burom Mária,Egri Szilágyi Erzsébet Gimnázium És Gimnázium,Eger,ÉM,2,0,,4,10,16
+11. o.",Burom Mária,Egri Szilágyi Erzsébet Gimnázium és Kollégium,Eger,ÉM,2,0,,4,10,16
 Budapest (SZIG),D,Naplopók,"Szlachányi Tádé
 Farkas Viktória 
 Domán Dániel","11. o.
@@ -821,7 +821,7 @@ Balassagyarmat,D,NKMF,"Gombolai Dávid
 Vasas Bálint
 Gombolai Dorina","11. o.
 11. o.
-11. o.",Grallert Krisztina,Balassagyarmati Balassi Bálint Gimnázium,Balassagyarmat,ÉM,4,6,0,1,4,15
+11. o.",Grallert Krisztina,Balassagyarmati Balassagyarmati Balassi Bálint Gimnázium,Balassagyarmat,ÉM,4,6,0,1,4,15
 Szombathely,D,nlgx,"Horváth Ádám
 Fáró Borbála
 Márton Gergely","12. o.
@@ -836,7 +836,7 @@ Miskolc,D,Omega,"Szőke Tamás
 Szabó Dániel
 Drótos Annamária","12. o.
 12. o.
-11. o.","dr. Szabadfalviné Kormányos Anikó, Gulyás Tibor, Veres Pál, Vass Iván, Győry Ákos, Marosszéky Gábor",Földes Ferenc Gimnázium,Miskolc,ÉM,8,10,10,10,9,47
+11. o.","dr. Szabadfalviné Kormányos Anikó, Gulyás Tibor, Veres Pál, Vass Iván, Győry Ákos, Marosszéky Gábor","Földes Ferenc Gimnázium, Miskolc",Miskolc,ÉM,8,10,10,10,9,47
 Budapest (BPG),D,Páratlan hármas,"Szopkó Rebeka
 Dornai Zsófia
 Kiss Benjamin","11. o.
@@ -864,7 +864,7 @@ Kulcsár Zsuzsa","11. o.
 12. o.","Pilzné Nagylaki Tünde
 Gulyásné Nemes Katalin
 Körei Attila
-Madarász Péter",Herman Ottó Gimnázium,Miskolc,ÉM,,0,,,,0
+Madarász Péter","Herman Ottó Gimnázium, Miskolc",Miskolc,ÉM,,0,,,,0
 Fonyód,D,Prímek,"Proity Zsombor
 Göncz Emma
 Papp Zsombor","11. o.
@@ -894,7 +894,7 @@ Szeged,D,Sunshine,"Jójárt Alexandra
 Sebők Attila
 Bálint Karola","12. o.
 12. o.
-12. o.",Fehér József,Batsányi János Gimnázium,Csongrád,DA,5,3,5,0,,13
+12. o.",Fehér József,Batsányi János Gimnázium és Kollégium,Csongrád,DA,5,3,5,0,,13
 Budapest (BPG),D,Számháború,"Dabis Fruzsina
 Nagyistók Laura
 Koji Melinda","11. o.
@@ -955,7 +955,7 @@ Eger,D,TompaSZEG,"Csapó Balázs
 Pintér Eszter
 Orosz Bálint","11. o.
 12. o.
-12. o.",Bíró Bálint,Egri Szilágyi Erzsébet Gimnázium és kollégium,Eger,ÉM,5,0,,0,,5
+12. o.",Bíró Bálint,Egri Szilágyi Erzsébet Gimnázium és Kollégium,Eger,ÉM,5,0,,0,,5
 Pécs,D,Töprengők,"Holczer András
 Klász Viktória
 Fekete Panna","12. o.
@@ -977,7 +977,7 @@ Miskolc,D,Vesztettem!,"Tari Balázs
 Porupsánszki István
 Birinyi Anna","12. o.
 12. o.
-11. o.","Kovács Attiláné, Vass Iván, Veres Pál",Földes Ferenc Gimnázium,Msikolc,ÉM,9,,10,10,8,37
+11. o.","Kovács Attiláné, Vass Iván, Veres Pál","Földes Ferenc Gimnázium, Miskolc",Msikolc,ÉM,9,,10,10,8,37
 Szombathely,D,WWW,"Bauer Márton
 Nagy Zsófia
 Pukler Márton","11. o.
@@ -992,7 +992,7 @@ Balassagyarmat,F,csillámpónik,"Hegedűs Eszter
 Farkas Veronika
 Szarvas Dóra","12. o.
 11. o.
-12. o.",Balázs Péter,Balassagyarmati Balassi Bálint Gimnázium,Balassagyarmat,ÉM,0,15,0,5,0,20
+12. o.",Balázs Péter,Balassagyarmati Balassagyarmati Balassi Bálint Gimnázium,Balassagyarmat,ÉM,0,15,0,5,0,20
 Kecskemét,F,Deltacsillag,"Nagy Péter
 Szipli Szabolcs
 Farkas Lili","11. o.
@@ -1017,7 +1017,7 @@ Miskolc,F,Kapanyányimonyók,"Varga Lilla Luca
 Hornyák Szabolcs
 Plaszkó Noel","12. o.
 12. o.
-11. o.","Pál Mihály, Zámborszky Ferenc, Bíró István",Földes Ferenc Gimnázium,Miskolc,ÉM,15,15,20,17,2,69
+11. o.","Pál Mihály, Zámborszky Ferenc, Bíró István","Földes Ferenc Gimnázium, Miskolc",Miskolc,ÉM,15,15,20,17,2,69
 Budapest (SZIG),F,Kucu,"Csurgai-Horváth Bálint
 K. Szabó András Miklós
 Vanderer Edina","11. o.
@@ -1028,7 +1028,7 @@ Miskolc,F,Kvadrupólmomentum,"Tompa Tamás Lajos
 Osztermann Anna
 Kiss László","10. o.
 10. o.
-10. o.","Zámborszky Ferenc, Kovács Benedek",Földes Ferenc Gimnázium,Miskolc,ÉM,19,14,13,18,9,73
+10. o.","Zámborszky Ferenc, Kovács Benedek","Földes Ferenc Gimnázium, Miskolc",Miskolc,ÉM,19,14,13,18,9,73
 Szombathely,F,Maxwell,"Sinkó Sára
 Tóth Dávid
 Balhási Zalán","10. o.
@@ -1053,7 +1053,7 @@ Balassagyarmat,F,Pokolgép,"Péter Kristóf
 Vidó Kinga
 Dax József","12. o.
 11. o.
-12. o.",Balázs Péter,Balassagyarmati Balassi Bálint Gimnázium,Balassagyarmat,ÉM,2,3,0,7,,12
+12. o.",Balázs Péter,Balassagyarmati Balassagyarmati Balassi Bálint Gimnázium,Balassagyarmat,ÉM,2,3,0,7,,12
 Szeged,F,Radnóti,"Kohlmann Dániel
 Maronka Áron
 Széles Katalin","11. o.
@@ -1078,7 +1078,7 @@ Miskolc,K,4everKémia,"Sajgó Mátyás
 Novák Márk
 Szaniszló Brigitta","9. o.
 10. o.
-11. o.","Endrész Gyöngyi, Kenéz Erika",Földes Ferenc Gimnázium,Miskolc,ÉM,19,2,7,13.5,10,51.5
+11. o.","Endrész Gyöngyi, Kenéz Erika","Földes Ferenc Gimnázium, Miskolc",Miskolc,ÉM,19,2,7,13.5,10,51.5
 Kecskemét,K,Akarokegyunikornist,"Kirják Bence
 Kiss Mátyás
 Zala Noémi","10. o.
@@ -1134,7 +1134,7 @@ Németh Réka
 Kiss Fanni","12. o.
 11. o.
 10. o.","Nagyné Dakos Tímea
-Ó. Szabó Sándor",Bocskai István Gimnázium,Hajdúböszörmény,ÉA,0,2,2,3.5,6,13.5
+Ó. Szabó Sándor",Bocskai István Katolikus Gimnázium,Hajdúböszörmény,ÉA,0,2,2,3.5,6,13.5
 Kaposvár,K,E.D.J,"Lukics Dalma
 Müller Eszter
 Radics Júlia Natasa","9. o.

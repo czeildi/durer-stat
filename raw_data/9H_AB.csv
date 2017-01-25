@@ -53,7 +53,7 @@ Helyi,9,LOGIQS,A kategória,Eger,"Kocsik Eszter
 Lengyel Dániel
 Kovács Kristóf","5
 6
-6",Eszterházy Károly  Gyakorló  Iskola,Eger,Garbaczné Olasz Andrea,3,2,3,1,4,3,0,4,5,0,0,3,0,0,0,28
+6","Eszterházy Károly Gyakorló Iskola, Eger",Eger,Garbaczné Olasz Andrea,3,2,3,1,4,3,0,4,5,0,0,3,0,0,0,28
 Helyi,9,Paksi atomerőmű,A kategória,Eger,"Garbacz Máté Soma
 Morales Carlos Magor
 Petrus Petra","6
@@ -68,7 +68,7 @@ Helyi,9,PING WIN,A kategória,Eger,"Kóró Emese
 Hoffmann Szabolcs
 Kovács Ádám","6
 6
-5",Eszterházy Károly  Gyakorló  Iskola,Eger,Garbaczné Olasz Andrea,3,2,3,3,4,4,3,4,5,0,0,5,0,0,0,36
+5","Eszterházy Károly Gyakorló Iskola, Eger",Eger,Garbaczné Olasz Andrea,3,2,3,3,4,4,3,4,5,0,0,5,0,0,0,36
 Helyi,9,Pizzák,A kategória,Eger,"Gyetvai Márk
 Holló Gergő
 Rozsnaki Alexa","5
@@ -83,7 +83,7 @@ Helyi,9,Titok nyitók,A kategória,Eger,"Murányi Lili
 Murányi Réka
 Tóth Marina","5
 5
-6",Eszterházy Károly  Gyakorló  Iskola,Eger,"Garbaczné Olasz Andrea
+6","Eszterházy Károly Gyakorló Iskola, Eger",Eger,"Garbaczné Olasz Andrea
 Tamasiné Veres Zsuzsanna",3,2,3,3,4,4,3,4,5,3,0,5,0,0,,39
 Helyi,9,Tudorkák,A kategória,Eger,"Papp Georgina
 Mocsári Anna
@@ -120,12 +120,12 @@ Helyi,9,4XÉSZ,B kategória,Eger,"Kocsik Nóra
 Fónagy Fanni
 Komlósi Márk","8
 8
-7",Eszterházy Károly  Gyakorló  Iskola,Eger,Garbaczné Olasz Andrea,3,3,3,1,4,4,0,4,5,5,0,0,,,,32
+7","Eszterházy Károly Gyakorló Iskola, Eger",Eger,Garbaczné Olasz Andrea,3,3,3,1,4,4,0,4,5,5,0,0,,,,32
 Helyi,9,ALZEBRA,B kategória,Eger,"Rottenstein Orsolya
 Fábián Bálint
 Szabó Péter Krisztián","7
 7
-7",Eszterházy Károly  Gyakorló  Iskola,Eger,Garbaczné Olasz Andrea,2,3,0,0,0,0,0,0,3,0,0,4,,,,12
+7","Eszterházy Károly Gyakorló Iskola, Eger",Eger,Garbaczné Olasz Andrea,2,3,0,0,0,0,0,0,3,0,0,4,,,,12
 Helyi,9,Barnák,B kategória,Eger,"Kerekes Máté
 Hudi Rebeka
 Molnár László","7
@@ -164,13 +164,13 @@ Helyi,9,Lányész,B kategória,Eger,"Gruber Anna
 Sánta Helga Laura
 Zvara Dorka","7
 8
-8",Budaipest II. Kerületi II. Rákóczi Ferenc Gimnázium,Budapest,"Biborka Gyöngyvér
+8",Budapest II. Kerületi II. Rákóczi Ferenc Gimnázium,Budapest,"Biborka Gyöngyvér
 Csútor Csilla",1,3,3,0,2,0,0,3,0,0,0,0,0,,,12
 Helyi,9,Logisztori,B kategória,Eger,"Janik Balázs
 Szauer András
 Koczka Szófia Csenge","8
 8
-7",Eszterházy Károly  Gyakorló  Iskola,Eger,Garbaczné Olasz bAndrea,3,3,2,3,3,0,0,4,0,0,0,0,,,,18
+7","Eszterházy Károly Gyakorló Iskola, Eger",Eger,Garbaczné Olasz bAndrea,3,3,2,3,3,0,0,4,0,0,0,0,,,,18
 Helyi,9,MeNők,B kategória,Eger,"Tietze Hanna
 Szilágyi Eszter
 Harján Rebeka","8
@@ -212,7 +212,7 @@ Seres Fanni
 Szeidl Gergő","8
 8
 7",Budapest II. Kerületi II. Rákóczi Ferenc Gimnázium,Budapest,"Dr. Huszákné Miklós Dóra
-Völgyi Beatrix ",3,3,0,0,3,2,0,3,4,5,5,0,,,,28
+Völgyi Beatrix",3,3,0,0,3,2,0,3,4,5,5,0,,,,28
 Helyi,9,PVG 1,B kategória,Eger,"Nagy Kincső
 Gavallér Dávid
 Kis Erhard","8
@@ -304,7 +304,7 @@ Helyi,9,3 az 1-ben,A kategória,Miskolc,"Palocsai Ákos
 Nagy Vencel
 Varga Réka","6
 6
-5",Fényi Gyula Jezsuita Gimnázium,Miskolc,"Tóth Tibor
+5","Fényi Gyula Jezsuita Gimnázium és Kollégium, Miskolc",Miskolc,"Tóth Tibor
 Németh Anna",3,3,3,3,4,4,0,3,5,0,0,5,0,0,,33
 Helyi,9,Együtt6ó,A kategória,Miskolc,"Suhajda Vanda
 Fehér Flóra Mariann
@@ -316,7 +316,7 @@ Helyi,9,Fényesek,A kategória,Miskolc,"Fogarasi Levente
 Bolgogh Benedek
 Barati Aliza","6
 6
-5",Fényi Gyula Jezsuita Gimnázium,Miskolc,"Tóth Tibor
+5","Fényi Gyula Jezsuita Gimnázium és Kollégium, Miskolc",Miskolc,"Tóth Tibor
 Németh Anna",3,3,3,1,4,3,2,4,3,0,0,5,0,0,0,31
 Helyi,9,Kakaóscsigák,A kategória,Miskolc,"Koleszár Domonkos
 Bányai Kristóf
@@ -328,7 +328,7 @@ Helyi,9,Kovavá,A kategória,Miskolc,"Vargay András Dániel
 Várkonyi Dóra
 Kovács Kende","6
 6
-5",Fényi Gyula Jezsuita Gimnázium és Kollégium,Miskolc,Tóth Tibor,3,3,3,2,4,4,4,4,5,4,5,5,6,0,0,52
+5","Fényi Gyula Jezsuita Gimnázium és Kollégium, Miskolc",Miskolc,Tóth Tibor,3,3,3,2,4,4,4,4,5,4,5,5,6,0,0,52
 Helyi,9,Máté angyalai,A kategória,Miskolc,"Seregi Ernő
 Gál Máté
 Szabó Enikő Lilla","6
@@ -339,7 +339,7 @@ Helyi,9,matekolók,A kategória,Miskolc,"Németh Mária
 Fojtán Szabolcs
 Bodnár Norbert","6
 6
-5",Fényi Gyula Jezsuita Gimnázium és Kollégium,Miskolc,Tóth Tibor,3,2,3,2,3,4,0,3,5,0,0,0,0,0,0,25
+5","Fényi Gyula Jezsuita Gimnázium és Kollégium, Miskolc",Miskolc,Tóth Tibor,3,2,3,2,3,4,0,3,5,0,0,0,0,0,0,25
 Helyi,9,Mazsolák,A kategória,Miskolc,"Havasi Marcell Milán
 Espán Gergely
 Katona Veronika","5
@@ -373,7 +373,7 @@ Helyi,9,Öcsisajt,A kategória,Miskolc,"Dunai Zsolt
 Csurilla Bertalan
 Köcski Nikoletta","6
 6
-5",Fényi Gyula Jezsuita Gimnázium,Miskolc,"Ambrus Judit
+5","Fényi Gyula Jezsuita Gimnázium és Kollégium, Miskolc",Miskolc,"Ambrus Judit
 Németh Anna",3,2,3,1,4,4,4,0,0,0,0,3,0,0,0,24
 Helyi,9,Palpigradi,A kategória,Miskolc,"Szabó Eszter
 Tánczos-Szabó Csenge
@@ -394,7 +394,7 @@ Helyi,9,Betonrépák,B kategória,Miskolc,"Purzsa Aletta
 Ivacs Laura
 Takács Emília Polett","8
 8
-7",Földes Ferenc Gimnázium,Miskolc,"dr. Szabadfalviné Kormányos Anikó
+7","Földes Ferenc Gimnázium, Miskolc",Miskolc,"dr. Szabadfalviné Kormányos Anikó
 Marosszéky Gábor",3,3,2,3,4,0,0,4,5,0,0,0,0,,,24
 Helyi,9,Bölcs-Észek,B kategória,Miskolc,"Espán Márton
 Katona Áron
@@ -405,25 +405,25 @@ Helyi,9,Earthy spec,B kategória,Miskolc,"Keresztesi Zsombor
 Bendicskó Laura
 Purgel Dóra","7
 8
-8",Földes Ferenc Gimnázium,Miskolc,"Vass Iván
+8","Földes Ferenc Gimnázium, Miskolc",Miskolc,"Vass Iván
 Marosszéky Gábor
 Dr. Szabadfalviné Kormányos Anikó",3,3,3,2,4,0,0,4,4,4,,,,,,27
 Helyi,9,Elfelejtettem,B kategória,Miskolc,"Dexter Áron
 Magyar Kata
 Hallai Gréta","7
 8
-8",Földes Ferenc Gimnázium,Miskolc,"Dr. Szabadfalviné Kormányos Anikó
+8","Földes Ferenc Gimnázium, Miskolc",Miskolc,"Dr. Szabadfalviné Kormányos Anikó
 Marosszéky Gábor",3,1,3,2,2,3,0,4,5,0,0,,,,,23
 Helyi,9,Elit alakulat,B kategória,Miskolc,"Oláh Benedek
 Galgóczy Gábor
 Varga Jázmin","7
 7
-7",Herman Ottó Gimnázium,Miskolc,Pilzné Nagylaki Tünde,2,3,3,0,4,0,0,0,,,,,,,,12
+7","Herman Ottó Gimnázium, Miskolc",Miskolc,Pilzné Nagylaki Tünde,2,3,3,0,4,0,0,0,,,,,,,,12
 Helyi,9,észbontók,B kategória,Miskolc,"Kornidesz Máté
 Valter Vanda
 Szecskás János","7
 7
-7",Herman Ottó gimnázium,Miskolc,Pilzné Nagylaki Tünde,3,3,3,2,4,0,0,0,4,0,,0,,,,19
+7","Herman Ottó Gimnázium, Miskolc",Miskolc,Pilzné Nagylaki Tünde,3,3,3,2,4,0,0,0,4,0,,0,,,,19
 Helyi,9,Fantasztikus Hármas,B kategória,Miskolc,"Tölgyes Viktória
 Monoki Zsófia
 Kunsági Soma","8
@@ -433,7 +433,7 @@ Helyi,9,Gobblet,B kategória,Miskolc,"Bárczi Enikő Anna
 Antal Réka
 Győrffi Ádám György","8
 8
-7",Földes Ferenc Gimnázium,Miskolc,"dr. Szabadfalviné Kormányos Anikó, Marosszéky Gábor, Vass Iván",3,3,3,3,4,4,4,4,4,4,5,5,6,0,,52
+7","Földes Ferenc Gimnázium, Miskolc",Miskolc,"dr. Szabadfalviné Kormányos Anikó, Marosszéky Gábor, Vass Iván",3,3,3,3,4,4,4,4,4,4,5,5,6,0,,52
 Helyi,9,Hát nem tudom,B kategória,Miskolc,"Farkas Jázmin
 Apagyi Dávid
 Miszler Levente","7
@@ -448,34 +448,34 @@ Helyi,9,Krumplik,B kategória,Miskolc,"Ádám Kriston
 Jeddi Gábor
 Bújnoczki Alíz","7
 7
-8",Földes Ferenc Gimnázium,Miskolc,Dr. Szabadfalviné Kormányos Anikó,1,3,0,3,3,0,0,3,5,0,,,,,,18
+8","Földes Ferenc Gimnázium, Miskolc",Miskolc,Dr. Szabadfalviné Kormányos Anikó,1,3,0,3,3,0,0,3,5,0,,,,,,18
 Helyi,9,LeaKalappal,B kategória,Miskolc,"Fenyvesi Tamás Kornél
 Kiss Lea
 Szabó András","8
 7
-8",Földes Ferenc Gimnázium,Miskolc,"Dr. Szabadfalviné Kormányos Anikó
+8","Földes Ferenc Gimnázium, Miskolc",Miskolc,"Dr. Szabadfalviné Kormányos Anikó
 Petercsák Kitti",3,3,3,3,4,0,0,2,4,0,,,,,,22
 Helyi,9,Legendás SAS MESTER,B kategória,Miskolc,"Pap Arion
 Tálas Levente
 Fekete Boglárka","8
 8
-7","Földes Ferenc Gimnázium,Miskolc",Miskolc,Szabadfalviné Kormányos Anikó,2,3,3,3,4,0,0,0,5,0,0,,,,,20
+7","Földes Ferenc Gimnázium, Miskolc",Miskolc,Szabadfalviné Kormányos Anikó,2,3,3,3,4,0,0,0,5,0,0,,,,,20
 Helyi,9,Mandala,B kategória,Miskolc,"Leskó Eszter Rózsa
 Keresztes Kornél 
 Ézsöl András","8
 8
-7",Földes Ferenc Gimnázium,Miskolc,"Dr. Szabadfalviné Kormányos Anikó
+7","Földes Ferenc Gimnázium, Miskolc",Miskolc,"Dr. Szabadfalviné Kormányos Anikó
 Marosszéky gábor",3,3,3,2,3,4,0,0,3,5,,0,,,,26
 Helyi,9,Matekisták,B kategória,Miskolc,"Kozaróczy Csaba
 Farkas Bálint
 Bódis Vivien","7
 7
-7",Herman Ottó Gimnázium,Miskolc,Pilzné Nagylaki tünde,3,2,3,1,4,0,0,2,3,0,0,0,,,,18
+7","Herman Ottó Gimnázium, Miskolc",Miskolc,Pilzné Nagylaki tünde,3,2,3,1,4,0,0,2,3,0,0,0,,,,18
 Helyi,9,MBK- matekversenyeket bedőtő királyság,B kategória,Miskolc,"Karsai János
 Mezei András
 Barkai Hanga","7
 7
-7",Herman Ottó Gimnázium,Miskolc,Pilzné Nagylaki Tünde,3,3,3,3,4,0,4,3,5,4,0,,,,,32
+7","Herman Ottó Gimnázium, Miskolc",Miskolc,Pilzné Nagylaki Tünde,3,3,3,3,4,0,4,3,5,4,0,,,,,32
 Helyi,9,n!,B kategória,Miskolc,"Palencsár Enikő
 Szabó Barbara Noémi
 Ambrus Zsombor","8
@@ -495,19 +495,19 @@ Helyi,9,Optimatak,B kategória,Miskolc,"Tóth Kamilla
 Lovassy Kamilla
 Molnár Bálint","8
 8
-7",Földes Ferenc Gimnázium,Miskolc,Marosszéky Gábor,2,1,3,0,0,0,0,0,5,,,,,,,11
+7","Földes Ferenc Gimnázium, Miskolc",Miskolc,Marosszéky Gábor,2,1,3,0,0,0,0,0,5,,,,,,,11
 Helyi,9,puhatoll,B kategória,Miskolc,"Béres András
 Kiss Benjámin
 Tomori Lilla Boglárka","8
 8
-7",Földes Ferenc Gimnázium,Miskolc,"Dr. Szabadfalviné Kormányos Anikó
+7","Földes Ferenc Gimnázium, Miskolc",Miskolc,"Dr. Szabadfalviné Kormányos Anikó
 Vass Iván
 Marosszéky Gábor",3,3,3,0,4,0,4,0,0,5,,,,,,22
 Helyi,9,Szilvalekvár,B kategória,Miskolc,"Spekker Dorina
 Bakondi Gábor
 Gajdócsi András","8
 8
-7",Fényi Gyula Jezsuita Gimnázium,Miskolc,"Velkey Balázs
+7","Fényi Gyula Jezsuita Gimnázium és Kollégium, Miskolc",Miskolc,"Velkey Balázs
 Németh Anna",2,1,3,2,3,0,0,4,4,0,0,0,0,0,,19
 Helyi,9,Tetraéder,B kategória,Miskolc,"Majerusz Ádám
 Fodor Sarolta Katinka
@@ -523,13 +523,13 @@ Helyi,9,Tündérkék,B kategória,Miskolc,"Mérai Lili
 Oláh Marcell
 Mátraházi Krisztián","8
 8
-7",Fényi Gyula Jezsuita Gimnázium,Miskolc,"Mozgó Endréné
+7","Fényi Gyula Jezsuita Gimnázium és Kollégium, Miskolc",Miskolc,"Mozgó Endréné
 Németh Anna",3,3,3,1,4,0,0,4,5,0,,,,,,23
 Helyi,9,Ászok,A kategória,Nyíregyháza,"Bíró Bernadett
 Lajos Bernadett
 Guba Áron - Máté","6
 6
-5",Ady Endre Líceum,Nagyvárad,"Ridi Enikő
+5",Ady Endre Elméleti Líceum,Nagyvárad,"Ridi Enikő
 István Zoltán",2,2,3,3,3,4,0,4,5,0,0,0,0,0,,26
 Helyi,9,Böszi6,A kategória,Nyíregyháza,"Bőr Zsanett
 Dézsi Boglárka
@@ -562,7 +562,7 @@ Helyi,9,Matekzsenik,A kategória,Nyíregyháza,"Kürth - Varsóczky Réka
 Deli Attila
 Farkas Ábel","6
 6
-5",Ady Endre Líceum,Nagyvárad,"Vad Márta
+5",Ady Endre Elméleti Líceum,Nagyvárad,"Vad Márta
 István Zoltán",3,3,3,2,4,4,0,4,5,5,5,5,0,0,0,43
 Helyi,9,Szigma,A kategória,Nyíregyháza,"Bálint Lili
 Illés Dorina
@@ -603,7 +603,7 @@ Helyi,9,KES,B kategória,Nyíregyháza,"Kovács Eszter
 Kovács Sándor
 Pásztor Kristóf","7
 8
-8",Ady Endre Líceum,Nagyvárad,"Bődi János
+8",Ady Endre Elméleti Líceum,Nagyvárad,"Bődi János
 István Zoltán",3,3,3,2,4,0,2,0,4,0,0,0,0,0,0,21
 Helyi,9,LÁV FC,B kategória,Nyíregyháza,"Biró Ádám Márk
 Mészáros Viktória
@@ -621,7 +621,7 @@ Helyi,9,Vár-Ady-PRC,B kategória,Nyíregyháza,"Csányi Patrik
 Erdei Roland
 Tóth Csenge","8
 8
-7",Ady Endre Elméleti Gimnázium,Nagyvárad,Bődi János,3,3,3,2,4,0,4,2,5,0,5,0,,,,31
+7",Ady Endre Elméleti Líceum,Nagyvárad,Bődi János,3,3,3,2,4,0,4,2,5,0,5,0,,,,31
 Helyi,9,Alfa,A kategória,Sárospatak,"Tóbiás  Levente
 Krenyitzky Kristóf
 Kocsik Dóra Ágnes","5
@@ -767,7 +767,7 @@ Jászayné Deák Erzsébet",2,3,2,2,0,0,0,2,5,0,0,0,0,,,16
 Helyi,9,Észbontók,B kategória,Szerencs,"Baumel Rebeka
 Béni Roland
 Takács Hanga
- ","8
+","8
 7
 7",Bolyai János Katolikus Általános Iskola,Szerencs,"Jászayné Deák Erzsébet
 
