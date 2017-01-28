@@ -28,10 +28,10 @@ shinyUI(fluidPage(
             column(
                 4,
                 selectInput(
-                    'school_name_to_change', 'name to change:', choices = collectSchoolNames()
+                    'school_name_to_change', 'names to change:', choices = collectSchoolNames(), multiple = TRUE
                 ),
-                numericInput(
-                    'target_name_id', 'Target school name id:', value = 1
+                selectInput(
+                    'target_school_name', 'target name', choices = collectSchoolNames()
                 )
             ),
             column(

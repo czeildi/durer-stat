@@ -52,16 +52,17 @@ shinyServer(function(input, output) {
     
     renameSchool <- eventReactive(input$submit, {
         from <- input$school_name_to_change 
-        to <- school_ids()[id == input$target_name_id, name]
+        to <- input$target_school_name
         walk(
             list.files('raw_data', full.names = TRUE),
             ~ {
                 suppressMessages(dt <- read_csv(.))
                 dt <- data.table(dt)
-                dt[Iskola == from, Iskola := to]
+                dt[Iskola %in% from, Iskola := to]
                 fwrite(dt, .)
             }
         )
+        return(character(0))
     })
     
     output$dummy_submit <- renderUI({
