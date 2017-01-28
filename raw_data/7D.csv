@@ -23,7 +23,7 @@ A kategória,2x2néha5,Kossuth Lajos Magyar-Angol Két Tanítási Nyelvű Által
 A kategória,Kicsik,"Herman Ottó Gimnázium, Miskolc",Miskolc,"Galgóczy Gábor
  Karsai János
  Vater Vanda",Pilzné Nagylaki Tünde,51,27,78,
-A kategória,ALFA,Szent Imre Katolikus Gimn. Ált. Isk.,Nyíregyháza,"Mészáros Regő
+A kategória,ALFA,Szent Imre Katolikus Gimnázium,Nyíregyháza,"Mészáros Regő
  Ványi Bence
  Mészáros Bori Anna",Szaploczay Mihályné Orosz Erzsébet,49,23,72,
 A kategória,2x6+5,EKF Gyakorló Általános Iskola,Eger,"Kocsik Nóra
@@ -44,7 +44,7 @@ A kategória,Törtek,II. Rákóczi Ferenc Általános Iskola,Sárospatak,"Koncz 
 B kategória,Tojások,"Földes Ferenc Gimnázium, Miskolc",Miskolc,"Gáspár Attila
  Debreczeni Ákos
  Szász Eszter","Kovács Attiláné, Győry Ákos, Dr. Szabadfalviné Kormányos Anikó",72,66,,
-B kategória,X Faktoriális,"Szent Imre Katolikus Gimn. Ált. Isk., Kollégium, Óvoda és Alapfokú Műv. Isk",Nyíregyháza,"Felföldi Áron György
+B kategória,X Faktoriális,"Szent Imre Katolikus Gimnázium, Általános Iskola, Kollégium, Óvoda és Alapfokú Művészeti Iskola",Nyíregyháza,"Felföldi Áron György
  Szabó Csenge
  Havasi Gergely","Istvánné Gál Krisztina, Szaplonczay Mihályné",71,29,,
 B kategória,590x390x250 a köbgyökér alatt,"Földes Ferenc Gimnázium, Miskolc",Miskolc,"Tóth Tamás
@@ -71,7 +71,7 @@ B kategória,Törpokosok,"Földes Ferenc Gimnázium, Miskolc",Miskolc,"Poncsák 
 B kategória,Pikácsú,"Herman Ottó Gimnázium, Miskolc",Miskolc,"Lakatos Levente,
  Soós Antónia
  Vitelki Balázs",Kóródi Zoltán,42,18,,
-B kategória,KJG 2,Katona József Gimnázium,Kecskemét,"Nagy Virág
+B kategória,KJG 2,"Katona József Gimnázium, Kecskemét",Kecskemét,"Nagy Virág
  Pottondi Csaba Tamás
  Kovács Marcell",Csordás Péter,33,22,,
 B kategória,Tetraéder,"Földes Ferenc Gimnázium, Miskolc",Miskolc,"Tóth Ádám
@@ -92,7 +92,8 @@ B kategória,A-team,Árpád Vezér Gimnázium és Kollégium,Sárospatak,"Déká
 C kategória,eyjafjallajökull,Fazekas Mihály Gimnázium,Budapest,"Gulyás Claudia
  Bátorfi Botond Péter
  Kovács Benedek","Hujter Bálint, Kovács Kálmán, Fazakas Tönde, Szűcs Gábor",46,64,110,I. díj
-C kategória,Vajda-trió,Vajda János Gimnázium,Keszthely,"Németh Flóra
+C kategória,Vajda-trió,"Vajda János
+Gimnázium",Keszthely,"Németh Flóra
  Horváth Fanni
  Szántó Benedek",Fonyó Lajos,40,57,97,II. díj
 C kategória,A kocka el van vetve,Radnóti Miklós Gimnázium,Dunakeszi,"Cseh Noémi
@@ -113,7 +114,7 @@ C kategória,Exponenciálisok,Bornemisza Péter Gimnázium,Budapest,"Lakatos Jos
 C kategória,Földes urak és egy Hölgy,"Földes Ferenc Gimnázium, Miskolc",Miskolc,"Szabadfalvi Dániel
  Bodolai Enikő
  Osztermann Anna","Gulyás Tibor, Győry Ákos",38,35,73,
-C kategória,szigma,Szent István Gimnázium,Budapest,"Korom Gergely
+C kategória,szigma,"Szent István Gimnázium, Budapest",Budapest,"Korom Gergely
  Klapper Balázs
  Szécsi Dominika",Jeneiné Bicsák Krisztina,37,29,66,
 C kategória,PI-TEAM,"Földes Ferenc Gimnázium, Miskolc",Miskolc,"Benkő Glória
@@ -148,7 +149,7 @@ D kategória,Vesztettem!,"Földes Ferenc Gimnázium, Miskolc",Miskolc,"Gulyás E
 D kategória,"Pjorotkblkd öö, izé nem tudom elolvasni",Békásmegyeri Veres Péter Gimnázium,Budapest,"Pizág Levente
  Csilling Tamás
  Tatai Daniella","Simon János, Varga Mária, Tassy Gergely",55,31,86,
-D kategória,Balázs és az Eperfák,Szent István Gimánium,Budapest,"Gáti Balázs Antal
+D kategória,Balázs és az Eperfák,"Szent István Gimnázium, Budapest",Budapest,"Gáti Balázs Antal
  Ruszbánszki Nándor
  Koller Henrietta","Jeneiné Bicsák Krisztina, Halek Tamás, Magyar Zsolt, Kovács Péter",37,41,78,
 D kategória,Őrjöngő Magyar,Erdős Pál Matematikai Tehetséggondozó Iskola,Veszprém,"Kóródi Brúnó Zoltán
@@ -160,7 +161,7 @@ D kategória,Számtanúk,Bornemisza Péter Gimnázium,Budapest,"Horváth Áron
 D kategória,Dunakeszi Radnóti,Radnóti Miklós Gimnázium,Dunakeszi,"Kovács Márton
  Csépai András
  Kisrákói Andrea","Viczencz Katalin, Szoldatics József",51,9,60,
-D kategória,SZIGet,Szent István Gimnázium,Budapest,"Weisz Szilvia
+D kategória,SZIGet,"Szent István Gimnázium, Budapest",Budapest,"Weisz Szilvia
  Hartvig Áron
  Ruzicska György","Halek Tamás, Jeneiné Bicsák Krisztina",26,34,60,
 D kategória,kétszer kettő néha öt,Bornemisza Péter Gimnázium,Budapest,"Krisztián Jonatán
@@ -175,7 +176,7 @@ D kategória,Miért?,Bajai III. Béla Gimnázium,Baja,"Kertész Hanga
 F kategória,Heisenbergcsoport,Radnóti Miklós Gimnázium,Szeged,"Mező Judit
 Márton Boldizsár
 Géczi Péter",Dr. Mező Tamás,39,37,76,
-F kategória,Luxus moszkvics slusszkulcsok,Varga Katalin Gimnázium,Szolnok,"Csibi Levente
+F kategória,Luxus moszkvics slusszkulcsok,"Varga Katalin Gimnázium, Szolnok",Szolnok,"Csibi Levente
 Ladányi Zsuzsanna
 Tóth Márton",,38,30.5,68.5,
 F kategória,"Elnézést, tévedés történt",Békásmegyeri Veres Péter Gimnázium,Budapest,"Szanyi Erik
@@ -184,6 +185,6 @@ Wiand Bianka","Székely György, Erdősi Katalin, Csaba György",34,30,64,
 F kategória,Atomtengeralattjáró,Debreceni Református Kollégium Dóczy Gimnáziuma,Debrecen,"Csáky Pál
 Csathó Botond
 Csige Sára",Tófalusi Péter,24,37,61,
-F kategória,"Nincsen nekem olyanom, de várjál majd hozok",Szent István Gimnázium,Budapest,"Kálmán Botond
+F kategória,"Nincsen nekem olyanom, de várjál majd hozok","Szent István Gimnázium, Budapest",Budapest,"Kálmán Botond
 Sveiczer András
 Dénes Dorottya","Gyimesi Éva, Szabó Sándor",30,31,61,
