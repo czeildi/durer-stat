@@ -1,10 +1,10 @@
-read_csv("raw_data/9-cdfk-helyi-pontozo.csv") %>% 
+read_csv("raw_data/9H_CDFK.csv") %>% 
     translateColName() %>% 
     tidyr::separate(members, paste0('member_', 1:3), sep = '\n') %>% 
     tidyr::separate(class, paste0('class_', 1:3), sep = '\n') %>% 
     write_csv(file.path('data', '9H-cdfk-scores.csv'))
 
-read_csv("raw_data/8-cdfk-helyi-pontozo.csv") %>% 
+read_csv("raw_data/8H_CDFK.csv") %>% 
     translateColName() %>% 
     tidyr::separate(members, paste0('member_', 1:3), sep = '\n') %>% 
     tidyr::separate(class, paste0('class_', 1:3), sep = '\n') %>% 
