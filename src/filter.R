@@ -1,4 +1,4 @@
-filterForCategory <- function(scores, category) {
-    long_category_name <- paste(category, 'kategória')
-    scores[category %in% c(long_category_name, category), ]
+filterForCategory <- function(scores, category_param) {
+    long_category_name <- paste(category_param, 'kategória')
+    scores[category %in% c(long_category_name, category_param), ]
 }

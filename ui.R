@@ -1,7 +1,7 @@
 shinyUI(fluidPage(
     title = "durer stats",
     tabsetPanel(
-        selected = 'unify schools',
+        selected = 'scores',
         tabPanel(
             'scores',
             selectInput(

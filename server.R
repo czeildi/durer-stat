@@ -20,10 +20,13 @@ shinyServer(function(input, output) {
             'Hungary', 'Croatia', 'Austria', 'Ukraine', 'Slovakia',
             'Slovenia', 'Romania', 'Serbia and Montenegro'
         )
-        cities <- str_c('data/', input$data_for_map, '.csv') %>% 
-            fread() %>% 
-            .[, city] %>% 
-            str_split(', |; ') %>% 
+        prepared_dt <- fread(str_c('data/', input$data_for_map, '.csv'))
+        if ('city' %in% names(prepared_dt)) {
+            raw_cities <- prepared_dt[, city]
+        } else {
+            raw_cities <- 'Miskolc'
+        }
+        cities <- str_split(raw_cities, ', |; ') %>% 
             unlist() %>% 
             unique() %>% 
             tolower() %>% 

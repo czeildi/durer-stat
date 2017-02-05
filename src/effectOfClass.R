@@ -1,4 +1,7 @@
 classDataForTeams <- function(scores_in_category) {
+    if (!'class_1' %in% names(scores_in_category)) {
+        stop('Nincs évfolyam információ a választott adathalmazban.')
+    }
     scores_in_category %>% 
         melt(
             id.vars = c('team', 'total'),
@@ -6,7 +9,7 @@ classDataForTeams <- function(scores_in_category) {
             value.name = 'class'
         ) %>% 
          countMembersInLowerClass() %>% 
-        .[, .(total = mean(total)), by = c('team', 'num_member_in_lower_class')]
+        .[, .(total = mean(as.numeric(total))), by = c('team', 'num_member_in_lower_class')]
 } 
 
 plotEffectOfClass <- function(class_data) {
