@@ -6,7 +6,7 @@ translateColName <- function(df) {
         c("team", "category", "venue")
     )
     rename_(dt, "Tagok", "members")
-    rename_(dt, "Évf.", "class")
+    rename_(dt, "Évfolyam", "class")
     rename_(
         dt,
         c("Iskola", "Város", "Régió"),
