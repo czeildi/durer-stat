@@ -24,6 +24,22 @@ translateColName <- function(df) {
     dt
 }
 
+separateMembers <- function(dt) {
+    if ('members' %in% names(dt)) {
+        tidyr::separate(dt, members, paste0('member_', 1:3), sep = '\n')
+    } else {
+        dt
+    }
+}
+
+separateClasses <- function(dt) {
+    if ('class' %in% names(dt)) {
+        tidyr::separate(dt, class, paste0('class_', 1:3), sep = '\n')
+    } else {
+        dt
+    }
+}
+
 rename_ <- function(dt, from, to) {
     if (length(from) != length(to)) {
         stop('from and to must be vectors of the same length')
