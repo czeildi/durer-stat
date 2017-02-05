@@ -1,525 +1,525 @@
-Kategória,Csapatnév,Tagok,Évf.,Felkészítő tanárok,Iskola,Város,Helyszín,Pontszám,Helyezés (körzeten belül),Döntőbe jutott-e?,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
-A kategória,2+1,"Gál Olivér
-Takács Hanga
-Ajtai Janka","6. o.
-5. o.
-6. o.","Maczkóné Matlák Julianna
-Jászainé Deák Erzsébet",Bolyai János Katolikus Általános Iskola,Szerencs,Szerencs,22,3,,3,2,3,0,4,0,4,0,0,0,3,3,0,0,0
-A kategória,2x2néha5,"Biró Ádám Márk
-Nagy Sándor
-Spinou Heléna Laura","5. o.
-6. o.
-6. o.",Biróné Dragán Enikő,Kossuth Lajos Magyar-Angol Két Tanítási Nyelvű Általános Iskola,Mezőtúr,"Nyíregyháza
-(Külső)",53,2,igen,3,3,3,3,4,4,4,4,5,4,5,5,0,6,0
-A kategória,5b6a6dRefi,"Aczél-Szabó János
-Osztényi József
-Szabó Eszter","5. o.
-6. o.
-6. o.","Nayg Tibor; Brenyó Mihályné, Brenyó Mihály",Kecskeméti Református Általános Iskola,Kecskemét,"Miskolc 
-(Külső)",61,1,igen,3,3,3,2,4,4,4,4,5,5,4,5,5,6,4
+Kategória,Csapatnév,Tagok,Évfolyam,Felkészítő tanárok,Iskola,Város,Helyszín,Összesen,Helyezés (körzeten belül),Döntőbe jutott-e?,1. feladat,2. feladat,3. feladat,4. feladat,5. feladat,6. feladat,7. feladat,8. feladat,9. feladat,10. feladat,11. feladat,12. feladat,13. feladat,14. feladat,15. feladat
+B kategória,Hígagyúak,"Majer Bátor
+Kárpát Flóra Viktória
+Vincze Gergely","8
+8
+7",Dékány Krisztina,Budapest II. Kerületi II. Rákóczi Ferenc Gimnázium,Budapest,"Eger 
+(Külső)",30,1,igen,0,3,3,3,0,4,4,4,4,0,0,5,0,0,0
+B kategória,PI-lovagok,"Kiss Dénes Lóránt
+Kovács Zita Adrienn
+Takács Márton András","8
+8
+7",Dr. Huszákné Miklós Dóra,Budapest II. Kerületi II. Rákóczi Ferenc Gimnázium,Budapest,"Eger 
+(Külső)",11,7,,0,1,2,2,0,2,0,4,0,0,0,0,0,,
+B kategória,Szisztematikus Csirkék,"Kerti Rege
+Vinkó Bence
+Nagy Anna Viktória","8
+8
+7",Dékány Krisztina,Budapest II. Kerületi II. Rákóczi Ferenc Gimnázium,Budapest,"Eger 
+(Külső)",10,8,,0,3,1,2,0,0,0,4,0,0,0,0,0,0,0
 A kategória,Agytornászok,"Prokaj Máté
 Mezei Judit
-Zbiskó Ádám","6. o.
-6. o.
-5. o.","Ludányiné Bálint Judit
+Zbiskó Ádám","6
+6
+5","Ludányiné Bálint Judit
 dr. Nagyné Zsebe Alice",Egri Balassi Bálint Általános Iskola,Eger,Eger,17,13,,3,1,2,2,4,0,0,0,0,0,5,0,,,
-A kategória,baglyokosok,"Sütő Ágnes
-Török Karolina
-Turcsányi Hanna","5. o.
-5. o.
-5. o.",Gulyás Mónika,Egri Ward Mária Iskola,Eger,Eger,11,16,,3,0,3,3,2,0,0,0,0,0,,,,,
-A kategória,Barikák,"Tóth Dóra
-Molnár Gabriella
-Juhász Zoltán","5. o.
-5. o.
-5. o.",Németh Anna,"Fényi Gyula Jezsuita Gimnázium és Kollégium, Miskolc",Miskolc,Miskolc,30,3,,3,2,3,3,4,0,0,3,3,4,5,0,0,0,
-A kategória,Bolyai sereg,"Ocsenás Adrián
-Pál Mihály
-Korán Flóra","5. o.
-6. o.
-6. o.","Maczkóné Matlák Julianna
-Jászayné Deák Erzsébet",Bolyai János Katolikus Általános Iskola,Szerencs,Szerencs,15,6,,3,1,3,0,4,0,0,4,0,0,0,0,0,0,0
-A kategória,Bűvös hármas,"Ridzig Csenge
-Tóth Csongor
-Révay Gréta","5. o.
-6. o.
-6. o.",Laskovicsné Tóth Mária,Verpeléti Arany János Általános Iskola és Reményi Ede Alapfokú Művészeti Iskola,Verpelét,Eger,19,12,,3,2,3,3,2,2,0,0,4,0,0,,,,
-A kategória,Ceruza,"Sipos Erik
-Morales Carlos Magor
-Gyönki Katalin","6. o.
-6. o.
-5. o.",Thurzóné Mustos Ildikó,Egri BBÁI Tinódi Sebestyén Tagiskola,Eger,Eger,10,17,,3,2,0,1,4,0,0,0,,,,,,,
-A kategória,Cs: Go,"Erdélyi Kitti
-Mocsáry Anna
-Halász Dominik","6. o.
-5. o.
-5. o.",Thurzóné Mustos Ildikó,Egri BBÁI Tinódi Sebestyén Tagiskola,Eger,Eger,7,21,,3,0,2,0,2,0,0,0,0,,,,,,
-A kategória,Csincsilla,"Csurilla Bertalan
-Vladár Csilla
-Kovács András","5. o.
-5. o.
-5. o.",Németh Anna,"Fényi Gyula Jezsuita Gimnázium és Kollégium, Miskolc",Miskolc,Miskolc,"nem 
-jelent 
-meg",,,,,,,,,,,,,,,,,
-A kategória,cukrozott csibe,"Cseresznye Zita
-Tóth Erik
-Búza Balázs","6. o.
-5. o.
-6. o.","Lukács Sándorné
-Jobbágy Istvánné",Szerencsi Rákóczi Zsigmond Református Két Tanítási nyelvű Általános Iskola és A.M.I.,Szerencs,Szerencs,29,1,igen,3,3,3,3,4,4,4,0,5,0,0,,,,
-A kategória,Delfin,"Kiss Tamás
-Kajati Szabolcs
-Rák Eszter","6. o.
-6. o.
-5. o.","Bartus Györgyné, Géczi Tamásné",Sárospataki II. Rákóczi Ferenc Általános Iskola,Sárospatak,Sárospatak,35,3,igen,3,3,3,0,2,0,4,0,3,4,5,4,0,4,
-A kategória,Epszilon,"Mészáros Bori Anna
-Szalanics Tamás
-Dankó Csenge","6. o.
-6. o.
-5. o.","Szaplonczay Mihályné
-Kallós Béla","Szent Imre Katolikus Gimnázium, Általános Iskola, Kollégium, Óvoda és Alapfokú Művészeti Iskola",Nyíregyháza,Nyíregyháza,33,4,igen,3,3,3,0,4,2,0,3,5,0,5,5,0,,
-A kategória,Gepárd,"Pallagi Máté
-Kollár Máté
-Jaskó Emese","6. o.
-6. o.
-5. o.","Bartus Györgyné, Géczi Tamásné",Sárospataki II. Rákóczi Ferenc Általános Iskola,Sárospatak,Sárospatak,33,4,igen,2,3,3,2,2,0,0,4,0,4,5,4,0,0,4
-A kategória,Gesztenye,"Prokaj Dániel
-Nagy Kristóf
-Nagy Laura","6. o.
-6. o.
-5. o.",Thurzóné Mustos Ildikó,Egri BBÁI Tinódi Sebestyén Tagiskola,Eger,Eger,10,17,,3,1,3,0,3,0,0,0,0,0,0,,,,
-A kategória,Gumimacik,"Bak Viktória
-Nyikos Dániel
-Nagy Réka","6. o.
-6. o.
-5. o.",Thurzóné Mustos Ildikó,Egri BBÁI Tinódi Sebestyén Tagiskola,Eger,Eger,22,8,,3,2,3,3,4,0,3,0,4,0,,,,,
-A kategória,Gyümölcsök,"Bárdos Anna
-Tóth Balázs
-Szutor Luca","5. o.
-5. o.
-6. o.",Thurzóné Mustos Ildikó,Egri BBÁI Tinódi Sebestyén Tagiskola,Eger,Eger,"nem 
-jelent 
-meg",,,,,,,,,,,,,,,,,
-A kategória,Kisokosok,"Lajcsák Dominik
-Bukovenszki Liza
-Répási Réka","6. o.
-6. o.
-5. o.",Bukovenszkiné Bodnár Éva,Taktaharkányi Apáczai Csere János Általános Iskola,Taktaharkány,Szerencs,18,5,,3,1,3,0,3,2,3,0,0,0,0,3,0,0,0
-A kategória,Kisokosok,"Bodri Brigitta
-Kovács-Hagyó Dorina
-Gönczi Gabriella","6. o.
-6. o.
-5. o.","Hevesiné Cserés Margit
-Dózsa Imre",Tiszaújvárosi Általános Iskola és Alapfokú Művészeti Iskola,Tiszaújváros,Tiszaújváros,56,1,igen,3,3,3,2,3,4,4,4,5,5,5,5,5,0,5
-A kategória,Lendület,"Czegle Bendegúz
-Németh Mária
-Várkonyi Dóra","5. o.
-5. o.
-5. o.",Tóth Tibor,"Fényi Gyula Jezsuita Gimnázium és Kollégium, Miskolc",Miskolc,Miskolc,28,4,,3,3,0,3,4,0,3,4,3,0,5,,,,
-A kategória,Matek agyak 2000,"Béni Roland
-Váraljai István
-Balázsfalvi Barbara","5. o.
-6. o.
-6. o.","Maczkóné Matlák Julianna
-Jászayné Deák Erzsébet",Bolyai János Katolikus Általános Iskola,Szerencs,Szerencs,28,2,,3,3,3,0,4,0,3,4,0,0,3,5,0,,
 A kategória,Matek faktor,"Jávorszki-Farkas Zente
 Kiss Abigél
-Lezsák Benjámin","5. o.
-6. o.
-6. o.","Strider Lajosné
+Lezsák Benjámin","5
+6
+6","Strider Lajosné
 Ludvigné Fótos Erzsébet",Egri Balassi Bálint Általános Iskola,Eger,Eger,40,3,igen,3,3,3,3,2,3,4,4,0,5,5,0,0,5,0
 A kategória,Matek FC,"Hegyi Tamás
 Seres Bence
-Pap Éva","5. o.
-6. o.
-6. o.","Strider Lajosné
+Pap Éva","5
+6
+6","Strider Lajosné
 Ludvigné Fótos Erzsébet",Egri Balassi Bálint Általános Iskola,Eger,Eger,51,1,igen,3,3,3,3,3,4,4,4,3,0,5,5,6,5,0
-A kategória,matek-mágusok,"Fazekas Anna
-Dovák Szonja
-Pári Virág","5. o.
-5. o.
-5. o.",Gulyás Mónika,Egri Ward Mária Iskola,Eger,Eger,22,8,,3,2,3,1,4,0,4,0,5,0,,,,,
 A kategória,Matekfüggők,"Anga Tibor
 Kerekes Máté
-Mező Virág","5. o.
-6. o.
-6. o.","Ludvigné Fótos Erzsébet
+Mező Virág","5
+6
+6","Ludvigné Fótos Erzsébet
 dr. Nagyné Zsebe Alice",Egri Balassi Bálint Általános Iskola,Eger,Eger,21,10,,3,3,3,3,2,0,4,3,,,,,,,
-A kategória,Matekharcosok,"Barna Dániel
-Fülöp Patrik
-Szalai Petra","6. o.
-6. o.
-5. o.",Thurzóné Mustos Ildikó,Egri BBÁI Tinódi Sebestyén Tagiskola,Eger,Eger,10,17,,3,0,2,2,0,0,0,0,3,0,0,,,,
-A kategória,Matekmágusok,"Bukta Ádám
-Tóth Lívia
-Vass Roland","6. o.
-6. o.
-5. o.","Katona Zsolt 
-Kátai Zsolt",Egri BBÁI Tinódi Sebestyén Tagiskola,Eger,Eger,29,5,,3,3,3,1,4,0,4,3,3,0,5,0,0,,
-A kategória,Matekosok,"Zsóri Ádám
-Burján Sándor
-Baumgartner Leona","6. o.
-6. o.
-5. o.","Drotárné Tamás Hermina
-Berindzáné Répási Tünde",Tiszaújvárosi Általános Iskola és Alapfokú Művészeti Iskola,Tiszaújváros,Tiszaújváros,56,1,igen,3,3,3,3,4,2,4,4,4,5,5,5,5,6,0
-A kategória,Matekvadászok,"Stumpf Dénes
-Marczi Simon
-Ladics Laura","6. o.
-5. o.
-5. o.","Bartus Györgyné, Géczi Tamásné",Sárospataki II. Rákóczi Ferenc Általános Iskola,Sárospatak,Sárospatak,37,2,igen,3,3,3,2,4,2,4,3,4,0,4,5,0,,
-A kategória,MGV (matematikus gondolkodó vállalat),"Ferenczi Kristóf
-Ujjady Bálint
-Varga Gabriella","5. o.
-5. o.
-5. o.",Gulyás Mónika,Egri Ward Mária Iskola,Eger,Eger,15,14,,3,2,3,1,2,0,0,0,0,0,4,,,,
-A kategória,Momo,"Csurilla Bertalan
-Nagy-Csoma Sára
-Fogarasi Levente","5. o.
-5. o.
-5. o.",Németh Anna,"Fényi Gyula Jezsuita Gimnázium és Kollégium, Miskolc",Miskolc,Miskolc,25,5,,3,3,3,0,4,0,0,3,4,0,0,5,0,0,0
-A kategória,Mustár,"Feczkó Villő
-Nagy Vencel
-Beszterczey Kristóf","5. o.
-5. o.
-5. o.",Németh Anna,"Fényi Gyula Jezsuita Gimnázium és Kollégium, Miskolc",Miskolc,Miskolc,34,2,igen,3,3,3,0,4,0,3,0,3,5,5,5,0,0,0
-A kategória,No name,"Pozsonyi Petra
-Tóth Zoltán
-Motkó Bence","6. o.
-5. o.
-6. o.","Maczkóné Matlák Julianna
-Jászayné Deák Erzsébet",Bolyai János Katolikus Általános Iskola,Szerencs,Szerencs,19,4,,3,3,3,1,3,0,3,0,0,0,0,3,0,0,0
-A kategória,Number 3,"Somogyi Gergő
-Szabó András
-Balogh Noémi","5. o.
-6. o.
-6. o.",Keller Ágnes,Felsőtárkányi Általános Iskola és Alapfokú Művészeti Iskola,Felsőtárkány,Eger,40,3,igen,3,3,3,3,4,0,4,0,5,0,5,5,0,0,5
-A kategória,Omikron,"Kovács Bence
-Mihály Balázs
-Kovács Rebeka","6. o.
-6. o.
-5. o.","Szaplonczay Mihályné
-Kallós Béla","Szent Imre Katolikus Gimnázium, Általános Iskola, Kollégium, Óvoda és Alapfokú Művészeti Iskola",Nyíregyháza,Nyíregyháza,30,5,,3,2,3,2,4,4,3,4,0,0,5,,,,
-A kategória,Pí,"Fridrich Patrik
-Kovács Zsombor
-Gergácz Éva Emese","5. o.
-5. o.
-5. o.","Bartus Györgyné, Géczi Tamásné",Sárospataki II. Rákóczi Ferenc Általános Iskola,Sárospatak,Sárospatak,11,5,,3,3,3,0,2,0,0,0,0,0,,,,,
-A kategória,Sok kicsi sokra megy,"Kovács Péter
-Tóth Blanka
-Kovács Boglárka","6. o.
-6. o.
-5. o.","Lukács Sándorné
-Berki Beáta",Szerencsi Rákóczi Zsigmond Református Két Tanítási nyelvű Általános Iskola és A.M.I.,Szerencs,Szerencs,15,6,,3,0,3,2,3,0,4,0,0,0,0,,,,
-A kategória,számlovagok,"Hadobás András
-Pozsonyi Balázs
-Pető Tünde","5. o.
-5. o.
-5. o.",Gulyás Mónika,Egri Ward Mária Iskola,Eger,Eger,28,6,,3,3,3,0,4,2,4,0,4,0,5,0,0,,
-A kategória,Szigma,"Juhász Zsófia
-Bálint Lili
-Tóth Bence Gábor","6. o.
-6. o.
-5. o.","Szaplonczay Mihályné
-Kallós Béla","Szent Imre Katolikus Gimnázium, Általános Iskola, Kollégium, Óvoda és Alapfokú Művészeti Iskola",Nyíregyháza,Nyíregyháza,41,3,igen,3,3,3,3,4,2,4,4,5,0,5,5,0,,
-A kategória,Szögfelezők,"Horváth Gábor
-Nagy Kristóf
-Fige Lili","6. o.
-5. o.
-6. o.",Jobbágy Istvánné,Szerencsi Rákóczi Zsigmond Református Két Tanítási nyelvű Általános Iskola és A.M.I.,Szerencs,Szerencs,10,8,,3,3,3,1,0,0,0,0,0,0,,,,,
-A kategória,Tau,"Varga Viktória
-Fehér Sándor
-Kovács Miklós","6. o.
-6. o.
-5. o.","Szaplonczay Mihályné
-Kallós Béla","Szent Imre Katolikus Gimnázium, Általános Iskola, Kollégium, Óvoda és Alapfokú Művészeti Iskola",Nyíregyháza,Nyíregyháza,24,7,,3,3,3,2,0,0,4,0,5,0,4,0,,,
 A kategória,Terc,"Kovács Liliána
 Tomaschik Anna
-Nagy Máté","5. o.
-6. o.
-6. o.","dr. Nagyné Zsebe Alice
+Nagy Máté","5
+6
+6","dr. Nagyné Zsebe Alice
 Ludányiné Bálint Judit",Egri Balassi Bálint Általános Iskola,Eger,Eger,6,22,,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0
-A kategória,Théta,"Béres Tamás
-Illés Dorina
-Barátfalvi László Imre","6. o.
-6. o.
-5. o.","Szaplonczay Mihályné
-Kallós Béla","Szent Imre Katolikus Gimnázium, Általános Iskola, Kollégium, Óvoda és Alapfokú Művészeti Iskola",Nyíregyháza,Nyíregyháza,26,6,,3,3,3,0,3,0,4,2,5,0,0,3,,,
-A kategória,Törtecskék,"Fodor Laura
-Krinszki Gréta
-Szabó Patrik","6. o.
-5. o.
-5. o.",Thurzóné Mustos Ildikó,Egri BBÁI Tinódi Sebestyén Tagiskola,Eger,Eger,13,15,,2,3,0,0,4,0,4,0,0,0,0,0,0,0,0
-A kategória,Törtek,"Dékány Csanád
-Perényi Anna
-Hünlich Emma","6. o.
-6. o.
-5. o.","Bartus Györgyné, Géczi Tamásné",Sárospataki II. Rákóczi Ferenc Általános Iskola,Sárospatak,Sárospatak,41,1,igen,3,2,3,3,3,4,4,4,5,0,5,5,0,,
-A kategória,Törtetők,"Kovács Réka
-Herman Dorka
-Uzelman Sára","6. o.
-6. o.
-5. o.",Ivády Tamásné,Figedy János Általános Iskola,Noszvaj,Eger,47,2,igen,3,0,3,3,4,0,4,4,5,0,5,5,0,6,5
 A kategória,Tripla,"Cseh Patrik
 Kovács Bernadett
-Bozó Miklós","5. o.
-5. o.
-6. o.","dr. Nagyné Zsebe Alice
+Bozó Miklós","5
+5
+6","dr. Nagyné Zsebe Alice
 Ludvigné Fótos Erzsébet",Egri Balassi Bálint Általános Iskola,Eger,Eger,27,7,,3,2,3,2,3,2,3,0,0,0,5,4,0,0,
-A kategória,Tücskök,"Garai Balázs
-Pintér Márk
-Pálinkás Szonja","6. o.
-6. o.
-5. o.",Thurzóné Mustos Ildikó,Egri BBÁI Tinódi Sebestyén Tagiskola,Eger,Eger,8,20,,3,2,0,0,0,0,0,0,0,0,0,3,0,0,0
-A kategória,VÁR-ADY RAN,"Deli Attila Róbert
-Árva Norbert Ákos
-Kürth-Varsóczky Réka","5. o.
-5. o.
-6. o.","Ridi Enikő
-István Zoltán",Ady Endre Elméleti Líceum,Nagyvárad,"Nyíregyháza
-(Külső)",57,1,igen,3,3,3,2,4,3,4,4,5,5,5,5,5,6,0
-A kategória,Vár-Ady-DEKI,"Biró Bernadett
-Csongvay Réka
-Bődi Kincső Lilla","5. o.
-5. o.
-6. o.",Bődi János,Ady Endre Elméleti Líceum,Nagyvárad,"Nyíregyháza
-(Külső)",17,8,,3,2,3,1,4,4,0,0,0,0,0,0,0,,
-A kategória,Villám,"Vékony Benedek
-Feczkó Villő
-Boldogh Benedek","5. o.
-5. o.
-5. o.",Németh Anna,"Fényi Gyula Jezsuita Gimnázium és Kollégium, Miskolc",Miskolc,Miskolc,"nem 
-jelent 
-meg",,,,,,,,,,,,,,,,,
 A kategória,ZDG team,"Kovács Gellért
 Kovács Dóra
-Vajda Zakariás","6. o.
-6. o.
-5. o.","Ludányiné Bálint Judit
+Vajda Zakariás","6
+6
+5","Ludányiné Bálint Judit
 Strider Lajosné",Egri Balassi Bálint Általános Iskola,Eger,Eger,20,11,,3,3,2,3,0,0,4,0,0,0,5,0,0,,
-A kategória,Zsiráf,"Palocsai Ákos
-Fülöp Vanda
-Dunai Zsolt","5. o.
-5. o.
-5. o.",Németh Anna,"Fényi Gyula Jezsuita Gimnázium és Kollégium, Miskolc",Miskolc,Miskolc,17,6,,3,3,3,0,4,0,0,0,4,0,0,0,0,0,0
-B kategória,1+1,"Klamancsek György
-Csontos Viktória
-Fajder Patrik","7. o.
-7. o.
-8. o.","Zsilinszky Anett, Holló-Nagy Ágnes, Kopasz Terézia",Sárospataki Árpád Vezér Gimnázium és Kollégium,Sárospatak,Sárospatak,21,2,,3,3,3,0,4,0,0,4,0,0,4,0,0,0,0
 B kategória,Alfa,"Barta Bence
 Héczei Mirtill
-Hegyi Balázs","7. o.
-7. o.
-8. o.",dr. Nagyné Zsebe Alice,Egri Balassi Bálint Általános Iskola,Eger,Eger,12,6,,2,1,3,0,0,0,2,4,0,0,0,0,0,,
-B kategória,Aranyászok,"Bíró Barna
-Pásztor Kristóf Mátyás
-Flóra Katinka","8. o.
-8. o.
-7. o.",Gál Ildikó,Ady Endre Elméleti Líceum,Nagyvárad,"Nyíregyháza
-(Külső)",15,7,,2,1,3,3,2,0,0,4,0,0,0,0,,,
-B kategória,Balambérok,"Kalóczkai Bálint
-Farkas Réka
-Szobonya Erik","8. o.
-8. o.
-7. o.",Martis Ferencné,Miskolci Szabó Lőrinc Általános Iskola,Miskolc,Miskolc,25,2,igen,3,0,3,3,0,4,3,4,5,0,0,0,0,,
+Hegyi Balázs","7
+7
+8",dr. Nagyné Zsebe Alice,Egri Balassi Bálint Általános Iskola,Eger,Eger,12,6,,2,1,3,0,0,0,2,4,0,0,0,0,0,,
 B kategória,Béta,"Sóskuti Krisztina
 Takács Dávid
-Pálinkás Petra","7. o.
-7. o.
-8. o.",dr. Nagyné Zsebe Alice,Egri Balassi Bálint Általános Iskola,Eger,Eger,9,10,,1,3,3,2,0,0,0,0,0,0,0,0,0,0,0
-B kategória,Bigenius,"Novák Zoltán
-Póczos Patrik
-Lamos Fanni","7. o.
-7. o.
-7. o.",Novákné Váradi Judit,Bocskai István Katolikus Gimnázium,Szerencs,Szerencs,17,3,,3,2,3,3,0,0,4,2,0,0,0,0,,,
-B kategória,Combo,"Csapó Dániel
-Spekker Dorina
-Henez Botond","7. o.
-7. o.
-7. o.",Németh Anna,"Fényi Gyula Jezsuita Gimnázium és Kollégium, Miskolc",Miskolc,Miskolc,"nem
-jelent
-meg",,,,,,,,,,,,,,,,,
-B kategória,Delta,"Füssi Nagy Regő
-Bódi Zsanett
-Koncz Valentin","7. o.
-7. o.
-8. o.","Bartus Györgyné, Géczi Tamásné",Sárospataki II. Rákóczi Ferenc Általános Iskola,Sárospatak,Sárospatak,21,2,,3,3,0,3,4,0,4,4,0,0,0,0,,,
-B kategória,Dobókocka,"Szűcs Martin
-Vachter Fanni
-Leitner Dávid","8. o.
-8. o.
-7. o.","Bartus Györgyné, Géczi Tamásné",Sárospataki II. Rákóczi Ferenc Általános Iskola,Sárospatak,Sárospatak,9,3,,0,0,2,0,0,3,0,4,0,0,0,,,,
-B kategória,Egyenletek,"Schmiedt Barbara
-Pauljucsák Muhály
-Frikker László","7. o.
-8. o.
-8. o.","Bartus Györgyné, Géczi Tamásné",Sárospataki II. Rákóczi Ferenc Általános Iskola,Sárospatak,Sárospatak,22,1,igen,1,2,3,2,4,2,4,4,0,0,0,,,,
-B kategória,Egyszer Egy,"Csikai András
-Erős Attila
-Beregi Linda","7. o.
-7. o.
-7. o.",Novákné Váradi Judit,Bocskai István Katolikus Gimnázium,Szerencs,Szerencs,15,5,,3,0,3,0,2,0,4,3,0,0,0,0,,,
-B kategória,Fnatic,"Kovács Norbert
-Mikó Tímea
-Salánki Miklós","8. o.
-8. o.
-7. o.",Gál Ildikó,Ady Endre Elméleti Líceum,Nagyvárad,"Nyíregyháza
-(Külső)",31,2,igen,0,3,2,2,4,2,4,4,5,5,0,0,0,0,
+Pálinkás Petra","7
+7
+8",dr. Nagyné Zsebe Alice,Egri Balassi Bálint Általános Iskola,Eger,Eger,9,10,,1,3,3,2,0,0,0,0,0,0,0,0,0,0,0
 B kategória,Gamma,"Megyesi Balázs
 Józsa Boglárka
-Fülöp Zita","7. o.
-7. o.
-8. o.",dr. Nagyné Zsebe Alice,Egri Balassi Bálint Általános Iskola,Eger,Eger,25,3,igen,3,3,0,3,3,0,3,4,0,3,0,3,0,0,0
-B kategória,Géniuszok,"Márton Lili
-Viszlai Blanka
-Márton Luca","7. o.
-8. o.
-8. o.",Zinger Béláné,Miskolci Szabó Lőrinc Általános Iskola,Miskolc,Miskolc,5,7,,3,0,0,2,0,0,0,0,0,0,0,,,,
-B kategória,Gyökkettő,"Szűcs Barbara
-Borbély Péter
-Pálfalusi Diána","8. o.
-7. o.
-8. o.",Illésy Lászlóné,Taktaharkányi Apáczai Csere János Általános Iskola,Taktaharkány,Szerencs,23,2,igen,3,3,3,3,4,0,0,3,0,0,0,4,0,0,0
-B kategória,Hígagyúak,"Majer Bátor
-Kárpát Flóra Viktória
-Vincze Gergely","8. o.
-8. o.
-7. o.",Dékány Krisztina,II. Rákóczi Ferenc Gimnázium,Budapest,"Eger 
-(Külső)",30,1,igen,0,3,3,3,0,4,4,4,4,0,0,5,0,0,0
-B kategória,Kaméleon,"Kis Cintia
-Kocsis Zsombor
-Zsólyom Dominika","8. o.
-8. o.
-7. o.",Thurzóné Mustos Ildikó,Egri BBÁI Tinódi Sebestyén Tagiskola,Eger,Eger,8,11,,1,0,0,0,0,0,2,0,0,5,0,,,,
+Fülöp Zita","7
+7
+8",dr. Nagyné Zsebe Alice,Egri Balassi Bálint Általános Iskola,Eger,Eger,25,3,igen,3,3,0,3,3,0,3,4,0,3,0,3,0,0,0
 B kategória,KRR team,"Pap Klaudia
 Tómács Renáta
-Hudi Rebeka","7. o.
-7. o.
-8. o.","Ludányiné Bálint Judit
+Hudi Rebeka","7
+7
+8","Ludányiné Bálint Judit
 Strider Lajosné",Egri Balassi Bálint Általános Iskola,Eger,Eger,14,5,,2,0,2,3,0,0,3,4,0,0,0,0,0,0,
-B kategória,Lángelmék,"Kaáli Martin
-Fülöp Petra
-Ficsor Botond","8. o.
-7. o.
-8. o.",Zinger Béláné,Miskolci Szabó Lőrinc Általános Iskola,Miskolc,Miskolc,10,6,,3,0,2,1,0,0,0,4,0,0,0,0,0,0,0
-B kategória,Lurkók,"Süveges Huba
-Hörcsik Eszter
-Torma Márton","8. o.
-8. o.
-7. o.","Kovácsné Pintér Éva
-Hevesiné Cserés Margit",Tiszaújvárosi Általános Iskola és Alapfokú Művészeti Iskola,Tiszaújváros,Tiszaújváros,30,2,igen,2,3,3,3,4,4,4,4,0,3,0,,,,
-B kategória,Matek Cárok,"Tarnóczi Zsófia
-Tóth Anna
-Oláh Zsombor","8. o.
-8. o.
-7. o.",Szepesi Béláné,Tiszaújvárosi Általános Iskola és Alapfokú Művészeti Iskola,Tiszaújváros,Tiszaújváros,18,3,,2,3,3,3,0,0,3,4,0,0,0,,,,
+A kategória,Ceruza,"Sipos Erik
+Morales Carlos Magor
+Gyönki Katalin","6
+6
+5",Thurzóné Mustos Ildikó,Egri BBÁI Tinódi Sebestyén Tagiskola,Eger,Eger,10,17,,3,2,0,1,4,0,0,0,,,,,,,
+A kategória,Cs: Go,"Erdélyi Kitti
+Mocsáry Anna
+Halász Dominik","6
+5
+5",Thurzóné Mustos Ildikó,Egri BBÁI Tinódi Sebestyén Tagiskola,Eger,Eger,7,21,,3,0,2,0,2,0,0,0,0,,,,,,
+A kategória,Gesztenye,"Prokaj Dániel
+Nagy Kristóf
+Nagy Laura","6
+6
+5",Thurzóné Mustos Ildikó,Egri BBÁI Tinódi Sebestyén Tagiskola,Eger,Eger,10,17,,3,1,3,0,3,0,0,0,0,0,0,,,,
+A kategória,Gumimacik,"Bak Viktória
+Nyikos Dániel
+Nagy Réka","6
+6
+5",Thurzóné Mustos Ildikó,Egri BBÁI Tinódi Sebestyén Tagiskola,Eger,Eger,22,8,,3,2,3,3,4,0,3,0,4,0,,,,,
+A kategória,Gyümölcsök,"Bárdos Anna
+Tóth Balázs
+Szutor Luca","5
+5
+6",Thurzóné Mustos Ildikó,Egri BBÁI Tinódi Sebestyén Tagiskola,Eger,Eger,"nem 
+jelent 
+meg",,,,,,,,,,,,,,,,,
+A kategória,Matekharcosok,"Barna Dániel
+Fülöp Patrik
+Szalai Petra","6
+6
+5",Thurzóné Mustos Ildikó,Egri BBÁI Tinódi Sebestyén Tagiskola,Eger,Eger,10,17,,3,0,2,2,0,0,0,0,3,0,0,,,,
+A kategória,Matekmágusok,"Bukta Ádám
+Tóth Lívia
+Vass Roland","6
+6
+5","Katona Zsolt 
+Kátai Zsolt",Egri BBÁI Tinódi Sebestyén Tagiskola,Eger,Eger,29,5,,3,3,3,1,4,0,4,3,3,0,5,0,0,,
+A kategória,Törtecskék,"Fodor Laura
+Krinszki Gréta
+Szabó Patrik","6
+5
+5",Thurzóné Mustos Ildikó,Egri BBÁI Tinódi Sebestyén Tagiskola,Eger,Eger,13,15,,2,3,0,0,4,0,4,0,0,0,0,0,0,0,0
+A kategória,Tücskök,"Garai Balázs
+Pintér Márk
+Pálinkás Szonja","6
+6
+5",Thurzóné Mustos Ildikó,Egri BBÁI Tinódi Sebestyén Tagiskola,Eger,Eger,8,20,,3,2,0,0,0,0,0,0,0,0,0,3,0,0,0
+B kategória,Kaméleon,"Kis Cintia
+Kocsis Zsombor
+Zsólyom Dominika","8
+8
+7",Thurzóné Mustos Ildikó,Egri BBÁI Tinódi Sebestyén Tagiskola,Eger,Eger,8,11,,1,0,0,0,0,0,2,0,0,5,0,,,,
+B kategória,SZUPER,"Pénzeli Dorina
+Havassy Franciska
+Magó Réka","7
+7
+8","Thurzóné Mustos Ildikó
+Katona Zsolt",Egri BBÁI Tinódi Sebestyén Tagiskola,Eger,Eger,10,8,,1,1,0,0,0,0,4,4,0,0,0,0,0,0,
+B kategória,Tripla x,"Zagyi Ildikó
+Tóth-Lovász Gergely
+Győri Felícia","8
+8
+7","OLdalné Bakó Éva
+Katona Zsolt",Egri BBÁI Tinódi Sebestyén Tagiskola,Eger,Eger,23,4,igen,2,2,3,3,0,0,4,4,0,5,0,0,0,0,0
+A kategória,baglyokosok,"Sütő Ágnes
+Török Karolina
+Turcsányi Hanna","5
+5
+5",Gulyás Mónika,Egri Ward Mária Iskola,Eger,Eger,11,16,,3,0,3,3,2,0,0,0,0,0,,,,,
+A kategória,matek-mágusok,"Fazekas Anna
+Dovák Szonja
+Pári Virág","5
+5
+5",Gulyás Mónika,Egri Ward Mária Iskola,Eger,Eger,22,8,,3,2,3,1,4,0,4,0,5,0,,,,,
+A kategória,MGV (matematikus gondolkodó vállalat),"Ferenczi Kristóf
+Ujjady Bálint
+Varga Gabriella","5
+5
+5",Gulyás Mónika,Egri Ward Mária Iskola,Eger,Eger,15,14,,3,2,3,1,2,0,0,0,0,0,4,,,,
+A kategória,számlovagok,"Hadobás András
+Pozsonyi Balázs
+Pető Tünde","5
+5
+5",Gulyás Mónika,Egri Ward Mária Iskola,Eger,Eger,28,6,,3,3,3,0,4,2,4,0,4,0,5,0,0,,
+A kategória,Number 3,"Somogyi Gergő
+Szabó András
+Balogh Noémi","5
+6
+6",Keller Ágnes,Felsőtárkányi Általános Iskola és Alapfokú Művészeti Iskola,Felsőtárkány,Eger,40,3,igen,3,3,3,3,4,0,4,0,5,0,5,5,0,0,5
+A kategória,5b6a6dRefi,"Aczél-Szabó János
+Osztényi József
+Szabó Eszter","5
+6
+6","Nayg Tibor; Brenyó Mihályné, Brenyó Mihály",Kecskeméti Református Általános Iskola,Kecskemét,"Miskolc 
+(Külső)",61,1,igen,3,3,3,2,4,4,4,4,5,5,4,5,5,6,4
+B kategória,RefiÉziKecskeMMMét,"Miszler Levente
+Matula Árpád
+Mikulás Zsófia","8
+7
+8","Nagy Tibor, Csordás Mihály, Háriné Kun Éva, Csordás Péter, Gyömbér Csaba",Kecskeméti Református Általános Iskola,Kecskemét,"Miskolc
+(Külső)",51,1,igen,2,3,3,3,3,4,4,4,5,5,5,5,5,0,0
+A kategória,2x2néha5,"Biró Ádám Márk
+Nagy Sándor
+Spinou Heléna Laura","5
+6
+6",Biróné Dragán Enikő,Kossuth Lajos Magyar-Angol Két Tanítási Nyelvű Általános Iskola,Mezőtúr,"Nyíregyháza
+(Külső)",53,2,igen,3,3,3,3,4,4,4,4,5,4,5,5,0,6,0
+B kategória,szupergyors anorexiás csigák,"Andrássy Tamás
+Farkas Norbert
+Mészáros Viktória","7
+8
+8",Farkas Sándorné,Kossuth Lajos Magyar-Angol Két Tanítási Nyelvű Általános Iskola,Mezőtúr,"Nyíregyháza
+(Külső)",38,1,igen,3,3,3,3,4,4,4,4,5,0,0,5,0,,
+A kategória,Barikák,"Tóth Dóra
+Molnár Gabriella
+Juhász Zoltán","5
+5
+5",Németh Anna,"Fényi Gyula Jezsuita Gimnázium és Kollégium, Miskolc",Miskolc,Miskolc,30,3,,3,2,3,3,4,0,0,3,3,4,5,0,0,0,
+A kategória,Csincsilla,"Csurilla Bertalan
+Vladár Csilla
+Kovács András","5
+5
+5",Németh Anna,"Fényi Gyula Jezsuita Gimnázium és Kollégium, Miskolc",Miskolc,Miskolc,"nem 
+jelent 
+meg",,,,,,,,,,,,,,,,,
+A kategória,Lendület,"Czegle Bendegúz
+Németh Mária
+Várkonyi Dóra","5
+5
+5",Tóth Tibor,"Fényi Gyula Jezsuita Gimnázium és Kollégium, Miskolc",Miskolc,Miskolc,28,4,,3,3,0,3,4,0,3,4,3,0,5,,,,
+A kategória,Momo,"Csurilla Bertalan
+Nagy-Csoma Sára
+Fogarasi Levente","5
+5
+5",Németh Anna,"Fényi Gyula Jezsuita Gimnázium és Kollégium, Miskolc",Miskolc,Miskolc,25,5,,3,3,3,0,4,0,0,3,4,0,0,5,0,0,0
+A kategória,Mustár,"Feczkó Villő
+Nagy Vencel
+Beszterczey Kristóf","5
+5
+5",Németh Anna,"Fényi Gyula Jezsuita Gimnázium és Kollégium, Miskolc",Miskolc,Miskolc,34,2,igen,3,3,3,0,4,0,3,0,3,5,5,5,0,0,0
+A kategória,Villám,"Vékony Benedek
+Feczkó Villő
+Boldogh Benedek","5
+5
+5",Németh Anna,"Fényi Gyula Jezsuita Gimnázium és Kollégium, Miskolc",Miskolc,Miskolc,"nem 
+jelent 
+meg",,,,,,,,,,,,,,,,,
+A kategória,Zsiráf,"Palocsai Ákos
+Fülöp Vanda
+Dunai Zsolt","5
+5
+5",Németh Anna,"Fényi Gyula Jezsuita Gimnázium és Kollégium, Miskolc",Miskolc,Miskolc,17,6,,3,3,3,0,4,0,0,0,4,0,0,0,0,0,0
+B kategória,Combo,"Csapó Dániel
+Spekker Dorina
+Henez Botond","7
+7
+7",Németh Anna,"Fényi Gyula Jezsuita Gimnázium és Kollégium, Miskolc",Miskolc,Miskolc,"nem
+jelent
+meg",,,,,,,,,,,,,,,,,
 B kategória,MI,"Kisfalusi Terézia
 Turóczi Gergely
-Kovác József","7. o.
-7. o.
-7. o.",Németh Anna,"Fényi Gyula Jezsuita Gimnázium és Kollégium, Miskolc",Miskolc,Miskolc,"nem
+Kovác József","7
+7
+7",Németh Anna,"Fényi Gyula Jezsuita Gimnázium és Kollégium, Miskolc",Miskolc,Miskolc,"nem
 jelent
 meg",,,,,,,,,,,,,,,,,
 B kategória,MLM,"Hámori Mátyás
 Mérai Lilian
-Oláh Marcell","7. o.
-7. o.
-7. o.",Németh Anna,"Fényi Gyula Jezsuita Gimnázium és Kollégium, Miskolc",Miskolc,Miskolc,"nem
+Oláh Marcell","7
+7
+7",Németh Anna,"Fényi Gyula Jezsuita Gimnázium és Kollégium, Miskolc",Miskolc,Miskolc,"nem
 jelent
 meg",,,,,,,,,,,,,,,,,
-B kategória,Phoenix,"Stogica Kata
-Kébel Zsolt
-Lovász Péter","8. o.
-8. o.
-7. o.","Kovácsné Pintér Éva, Hevesiné Cserés Margit",Tiszaújvárosi Általános Iskola és Alapfokú Művészeti Iskola,Tiszújváros,Tiszaújváros,36,1,igen,3,3,3,3,4,4,4,4,4,0,4,,,,
-B kategória,PI-lovagok,"Kiss Dénes Lóránt
-Kovács Zita Adrienn
-Takács Márton András","8. o.
-8. o.
-7. o.",Dr. Huszákné Miklós Dóra,II. Rákóczi Ferenc Gimnázium,Budapest,"Eger 
-(Külső)",11,7,,0,1,2,2,0,2,0,4,0,0,0,0,0,,
-B kategória,Piramisok,"Lukács Anna Szilvia
-Horváth Márton
-Patvarps Zsolt","8. o.
-7. o.
-8. o.",Orosz Istvánné,Taktaharkányi Apáczai Csere János Általános Iskola,Taktaharkány,Szerencs,17,3,,0,3,3,3,0,2,2,4,0,0,0,0,0,0,0
+B kategória,Balambérok,"Kalóczkai Bálint
+Farkas Réka
+Szobonya Erik","8
+8
+7",Martis Ferencné,Miskolci Szabó Lőrinc Általános Iskola,Miskolc,Miskolc,25,2,igen,3,0,3,3,0,4,3,4,5,0,0,0,0,,
+B kategória,Géniuszok,"Márton Lili
+Viszlai Blanka
+Márton Luca","7
+8
+8",Zinger Béláné,Miskolci Szabó Lőrinc Általános Iskola,Miskolc,Miskolc,5,7,,3,0,0,2,0,0,0,0,0,0,0,,,,
+B kategória,Lángelmék,"Kaáli Martin
+Fülöp Petra
+Ficsor Botond","8
+7
+8",Zinger Béláné,Miskolci Szabó Lőrinc Általános Iskola,Miskolc,Miskolc,10,6,,3,0,2,1,0,0,0,4,0,0,0,0,0,0,0
 B kategória,Piroshetes,"Lakatos Áron
 Jakab Zsófia
-Kovács Kristóf","8. o.
-8. o.
-7. o.",Martis Ferencné,Miskolci Szabó Lőrinc Általános Iskola,Miskolc,Miskolc,21,4,,0,1,3,3,4,2,4,4,0,0,0,,,,
-B kategória,Racionálisokk,"Herman Fanni
-Nagy Donát
-Zentai Márton","8. o.
-7. o.
-7. o.",Ivády Tamásné,Figedy János Általános Iskola,Noszvaj,Eger,27,2,igen,3,3,3,3,2,4,0,4,5,0,0,0,,,
-B kategória,Rákóczisok,"Mizák Anna
-Sztankovics András
-Kiss Bettina","7. o.
-8. o.
-7. o.","Lukács Sándorné
-Berki Beáta",Szerencsi Rákóczi Zsigmond Református Két Tanítási nyelvű Általános Iskola és A.M.I.,Szerencs,Szerencs,27,1,igen,3,3,3,3,4,4,3,4,0,0,0,0,0,,
-B kategória,RefiÉziKecskeMMMét,"Miszler Levente
-Matula Árpád
-Mikulás Zsófia","8. o.
-7. o.
-8. o.","Nagy Tibor, Csordás Mihály, Háriné Kun Éva, Csordás Péter, Gyömbér Csaba",Kecskeméti Református Általános Iskola,Kecskemét,"Miskolc
-(Külső)",51,1,igen,2,3,3,3,3,4,4,4,5,5,5,5,5,0,0
-B kategória,Számoló Gépek,"Szabó Csenge Zsófia
-Havasi Dániel
-Sajtos Áron Vid","8. o.
-8. o.
-7. o.","Orosz Erzsébet
-Szaplonczay Mihályné","Szent Imre Katolikus Gimnázium, Általános Iskola, Kollégium, Óvoda és Alapfokú Művészeti Iskola",Nyíregyháza,Nyíregyháza,25,4,igen,1,2,3,3,4,4,4,4,0,0,0,0,,,
-B kategória,Szisztematikus Csirkék,"Kerti Rege
-Vinkó Bence
-Nagy Anna Viktória","8. o.
-8. o.
-7. o.",Dékány Krisztina,II. Rákóczi Ferenc Gimnázium,Budapest,"Eger 
-(Külső)",10,8,,0,3,1,2,0,0,0,4,0,0,0,0,0,0,0
-B kategória,SZUPER,"Pénzeli Dorina
-Havassy Franciska
-Magó Réka","7. o.
-7. o.
-8. o.","Thurzóné Mustos Ildikó
-Katona Zsolt",Egri BBÁI Tinódi Sebestyén Tagiskola,Eger,Eger,10,8,,1,1,0,0,0,0,4,4,0,0,0,0,0,0,
-B kategória,szupergyors anorexiás csigák,"Andrássy Tamás
-Farkas Norbert
-Mészáros Viktória","7. o.
-8. o.
-8. o.",Farkas Sándorné,Kossuth Lajos Magyar-Angol Két Tanítási Nyelvű Általános Iskola,Mezőtúr,"Nyíregyháza
-(Külső)",38,1,igen,3,3,3,3,4,4,4,4,5,0,0,5,0,,
+Kovács Kristóf","8
+8
+7",Martis Ferencné,Miskolci Szabó Lőrinc Általános Iskola,Miskolc,Miskolc,21,4,,0,1,3,3,4,2,4,4,0,0,0,,,,
 B kategória,Tőzsdebocik,"Svidró Orsolya
 Vitányi Borbála
-Hangonyi Zoltán","7. o.
-8. o.
-8. o.",Martis Ferencné,Miskolci Szabó Lőrinc Általános Iskola,Miskolc,Miskolc,24,3,igen,2,3,3,3,3,4,2,4,0,0,0,0,,,
-B kategória,Tripla x,"Zagyi Ildikó
-Tóth-Lovász Gergely
-Győri Felícia","8. o.
-8. o.
-7. o.","OLdalné Bakó Éva
-Katona Zsolt",Egri BBÁI Tinódi Sebestyén Tagiskola,Eger,Eger,23,4,igen,2,2,3,3,0,0,4,4,0,5,0,0,0,0,0
+Hangonyi Zoltán","7
+8
+8",Martis Ferencné,Miskolci Szabó Lőrinc Általános Iskola,Miskolc,Miskolc,24,3,igen,2,3,3,3,3,4,2,4,0,0,0,0,,,
+B kategória,Zsenik,"Horváth Tímea
+Juhász Kristóf
+Pásztor Kincső","8
+8
+7",Zinger Béláné,Miskolci Szabó Lőrinc Általános Iskola,Miskolc,Miskolc,13,5,,3,3,2,3,2,0,0,0,0,0,0,0,0,,
+A kategória,VÁR-ADY RAN,"Deli Attila Róbert
+Árva Norbert Ákos
+Kürth-Varsóczky Réka","5
+5
+6","Ridi Enikő
+István Zoltán",Ady Endre Elméleti Líceum,Nagyvárad,"Nyíregyháza
+(Külső)",57,1,igen,3,3,3,2,4,3,4,4,5,5,5,5,5,6,0
+A kategória,Vár-Ady-DEKI,"Biró Bernadett
+Csongvay Réka
+Bődi Kincső Lilla","5
+5
+6",Bődi János,Ady Endre Elméleti Líceum,Nagyvárad,"Nyíregyháza
+(Külső)",17,8,,3,2,3,1,4,4,0,0,0,0,0,0,0,,
+B kategória,Aranyászok,"Bíró Barna
+Pásztor Kristóf Mátyás
+Flóra Katinka","8
+8
+7",Gál Ildikó,Ady Endre Elméleti Líceum,Nagyvárad,"Nyíregyháza
+(Külső)",15,7,,2,1,3,3,2,0,0,4,0,0,0,0,,,
+B kategória,Fnatic,"Kovács Norbert
+Mikó Tímea
+Salánki Miklós","8
+8
+7",Gál Ildikó,Ady Endre Elméleti Líceum,Nagyvárad,"Nyíregyháza
+(Külső)",31,2,igen,0,3,2,2,4,2,4,4,5,5,0,0,0,0,
 B kategória,Unicum Triumvirátus,"Czap Orsolya Blanka
 Kovács Sándor
-Gyulai Réka","8. o.
-8. o.
-7. o.",Gál Ildikó,Ady Endre Elméleti Líceum,Nagyvárad,"Nyíregyháza
+Gyulai Réka","8
+8
+7",Gál Ildikó,Ady Endre Elméleti Líceum,Nagyvárad,"Nyíregyháza
 (Külső)",31,2,igen,3,3,3,3,3,3,4,4,0,0,0,0,5,0,0
 B kategória,Var-Ady-PPC,"Csányi Patrick
 Kurucz Csenge
-Szabó Patricia","7. o.
-7. o.
-7. o.",Bődi János,Ady Endre Elméleti Líceum,Nagyvárad,"Nyíregyháza
+Szabó Patricia","7
+7
+7",Bődi János,Ady Endre Elméleti Líceum,Nagyvárad,"Nyíregyháza
 (Külső)",18,6,,2,3,2,3,0,4,0,4,0,0,0,0,0,0,0
 B kategória,Vár-Ady-ZRP,"Erdei Roland
 Juhász Péter
-Kohán Zsófia Emma","7. o.
-7. o.
-7. o.",Bődi János,Ady Endre Elméleti Líceum,Nagyvárad,"Nyíregyháza
+Kohán Zsófia Emma","7
+7
+7",Bődi János,Ady Endre Elméleti Líceum,Nagyvárad,"Nyíregyháza
 (Külső)",21,5,,2,3,3,2,3,3,2,3,0,0,0,0,0,0,0
-B kategória,Zsenik,"Horváth Tímea
-Juhász Kristóf
-Pásztor Kincső","8. o.
-8. o.
-7. o.",Zinger Béláné,Miskolci Szabó Lőrinc Általános Iskola,Miskolc,Miskolc,13,5,,3,3,2,3,2,0,0,0,0,0,0,0,0,,
+A kategória,Törtetők,"Kovács Réka
+Herman Dorka
+Uzelman Sára","6
+6
+5",Ivády Tamásné,Figedy János Általános Iskola,Noszvaj,Eger,47,2,igen,3,0,3,3,4,0,4,4,5,0,5,5,0,6,5
+B kategória,Racionálisokk,"Herman Fanni
+Nagy Donát
+Zentai Márton","8
+7
+7",Ivády Tamásné,Figedy János Általános Iskola,Noszvaj,Eger,27,2,igen,3,3,3,3,2,4,0,4,5,0,0,0,,,
+A kategória,Epszilon,"Mészáros Bori Anna
+Szalanics Tamás
+Dankó Csenge","6
+6
+5","Szaplonczay Mihályné
+Kallós Béla","Szent Imre Katolikus Gimnázium, Általános Iskola, Kollégium, Óvoda és Alapfokú Művészeti Iskola",Nyíregyháza,Nyíregyháza,33,4,igen,3,3,3,0,4,2,0,3,5,0,5,5,0,,
+A kategória,Omikron,"Kovács Bence
+Mihály Balázs
+Kovács Rebeka","6
+6
+5","Szaplonczay Mihályné
+Kallós Béla","Szent Imre Katolikus Gimnázium, Általános Iskola, Kollégium, Óvoda és Alapfokú Művészeti Iskola",Nyíregyháza,Nyíregyháza,30,5,,3,2,3,2,4,4,3,4,0,0,5,,,,
+A kategória,Szigma,"Juhász Zsófia
+Bálint Lili
+Tóth Bence Gábor","6
+6
+5","Szaplonczay Mihályné
+Kallós Béla","Szent Imre Katolikus Gimnázium, Általános Iskola, Kollégium, Óvoda és Alapfokú Művészeti Iskola",Nyíregyháza,Nyíregyháza,41,3,igen,3,3,3,3,4,2,4,4,5,0,5,5,0,,
+A kategória,Tau,"Varga Viktória
+Fehér Sándor
+Kovács Miklós","6
+6
+5","Szaplonczay Mihályné
+Kallós Béla","Szent Imre Katolikus Gimnázium, Általános Iskola, Kollégium, Óvoda és Alapfokú Művészeti Iskola",Nyíregyháza,Nyíregyháza,24,7,,3,3,3,2,0,0,4,0,5,0,4,0,,,
+A kategória,Théta,"Béres Tamás
+Illés Dorina
+Barátfalvi László Imre","6
+6
+5","Szaplonczay Mihályné
+Kallós Béla","Szent Imre Katolikus Gimnázium, Általános Iskola, Kollégium, Óvoda és Alapfokú Művészeti Iskola",Nyíregyháza,Nyíregyháza,26,6,,3,3,3,0,3,0,4,2,5,0,0,3,,,
+B kategória,Számoló Gépek,"Szabó Csenge Zsófia
+Havasi Dániel
+Sajtos Áron Vid","8
+8
+7","Orosz Erzsébet
+Szaplonczay Mihályné","Szent Imre Katolikus Gimnázium, Általános Iskola, Kollégium, Óvoda és Alapfokú Művészeti Iskola",Nyíregyháza,Nyíregyháza,25,4,igen,1,2,3,3,4,4,4,4,0,0,0,0,,,
+B kategória,1+1,"Klamancsek György
+Csontos Viktória
+Fajder Patrik","7
+7
+8","Zsilinszky Anett, Holló-Nagy Ágnes, Kopasz Terézia",Sárospataki Árpád Vezér Gimnázium és Kollégium,Sárospatak,Sárospatak,21,2,,3,3,3,0,4,0,0,4,0,0,4,0,0,0,0
+A kategória,Delfin,"Kiss Tamás
+Kajati Szabolcs
+Rák Eszter","6
+6
+5","Bartus Györgyné, Géczi Tamásné",Sárospataki II. Rákóczi Ferenc Általános Iskola,Sárospatak,Sárospatak,35,3,igen,3,3,3,0,2,0,4,0,3,4,5,4,0,4,
+A kategória,Gepárd,"Pallagi Máté
+Kollár Máté
+Jaskó Emese","6
+6
+5","Bartus Györgyné, Géczi Tamásné",Sárospataki II. Rákóczi Ferenc Általános Iskola,Sárospatak,Sárospatak,33,4,igen,2,3,3,2,2,0,0,4,0,4,5,4,0,0,4
+A kategória,Matekvadászok,"Stumpf Dénes
+Marczi Simon
+Ladics Laura","6
+5
+5","Bartus Györgyné, Géczi Tamásné",Sárospataki II. Rákóczi Ferenc Általános Iskola,Sárospatak,Sárospatak,37,2,igen,3,3,3,2,4,2,4,3,4,0,4,5,0,,
+A kategória,Pí,"Fridrich Patrik
+Kovács Zsombor
+Gergácz Éva Emese","5
+5
+5","Bartus Györgyné, Géczi Tamásné",Sárospataki II. Rákóczi Ferenc Általános Iskola,Sárospatak,Sárospatak,11,5,,3,3,3,0,2,0,0,0,0,0,,,,,
+A kategória,Törtek,"Dékány Csanád
+Perényi Anna
+Hünlich Emma","6
+6
+5","Bartus Györgyné, Géczi Tamásné",Sárospataki II. Rákóczi Ferenc Általános Iskola,Sárospatak,Sárospatak,41,1,igen,3,2,3,3,3,4,4,4,5,0,5,5,0,,
+B kategória,Delta,"Füssi Nagy Regő
+Bódi Zsanett
+Koncz Valentin","7
+7
+8","Bartus Györgyné, Géczi Tamásné",Sárospataki II. Rákóczi Ferenc Általános Iskola,Sárospatak,Sárospatak,21,2,,3,3,0,3,4,0,4,4,0,0,0,0,,,
+B kategória,Dobókocka,"Szűcs Martin
+Vachter Fanni
+Leitner Dávid","8
+8
+7","Bartus Györgyné, Géczi Tamásné",Sárospataki II. Rákóczi Ferenc Általános Iskola,Sárospatak,Sárospatak,9,3,,0,0,2,0,0,3,0,4,0,0,0,,,,
+B kategória,Egyenletek,"Schmiedt Barbara
+Pauljucsák Muhály
+Frikker László","7
+8
+8","Bartus Györgyné, Géczi Tamásné",Sárospataki II. Rákóczi Ferenc Általános Iskola,Sárospatak,Sárospatak,22,1,igen,1,2,3,2,4,2,4,4,0,0,0,,,,
+B kategória,Bigenius,"Novák Zoltán
+Póczos Patrik
+Lamos Fanni","7
+7
+7",Novákné Váradi Judit,Bocskai István Katolikus Gimnázium,Szerencs,Szerencs,17,3,,3,2,3,3,0,0,4,2,0,0,0,0,,,
+B kategória,Egyszer Egy,"Csikai András
+Erős Attila
+Beregi Linda","7
+7
+7",Novákné Váradi Judit,Bocskai István Katolikus Gimnázium,Szerencs,Szerencs,15,5,,3,0,3,0,2,0,4,3,0,0,0,0,,,
+A kategória,2+1,"Gál Olivér
+Takács Hanga
+Ajtai Janka","6
+5
+6","Maczkóné Matlák Julianna
+Jászainé Deák Erzsébet",Bolyai János Katolikus Általános Iskola,Szerencs,Szerencs,22,3,,3,2,3,0,4,0,4,0,0,0,3,3,0,0,0
+A kategória,Bolyai sereg,"Ocsenás Adrián
+Pál Mihály
+Korán Flóra","5
+6
+6","Maczkóné Matlák Julianna
+Jászayné Deák Erzsébet",Bolyai János Katolikus Általános Iskola,Szerencs,Szerencs,15,6,,3,1,3,0,4,0,0,4,0,0,0,0,0,0,0
+A kategória,Matek agyak 2000,"Béni Roland
+Váraljai István
+Balázsfalvi Barbara","5
+6
+6","Maczkóné Matlák Julianna
+Jászayné Deák Erzsébet",Bolyai János Katolikus Általános Iskola,Szerencs,Szerencs,28,2,,3,3,3,0,4,0,3,4,0,0,3,5,0,,
+A kategória,No name,"Pozsonyi Petra
+Tóth Zoltán
+Motkó Bence","6
+5
+6","Maczkóné Matlák Julianna
+Jászayné Deák Erzsébet",Bolyai János Katolikus Általános Iskola,Szerencs,Szerencs,19,4,,3,3,3,1,3,0,3,0,0,0,0,3,0,0,0
+A kategória,cukrozott csibe,"Cseresznye Zita
+Tóth Erik
+Búza Balázs","6
+5
+6","Lukács Sándorné
+Jobbágy Istvánné",Szerencsi Rákóczi Zsigmond Református Két Tanítási nyelvű Általános Iskola és A.M.I.,Szerencs,Szerencs,29,1,igen,3,3,3,3,4,4,4,0,5,0,0,,,,
+A kategória,Sok kicsi sokra megy,"Kovács Péter
+Tóth Blanka
+Kovács Boglárka","6
+6
+5","Lukács Sándorné
+Berki Beáta",Szerencsi Rákóczi Zsigmond Református Két Tanítási nyelvű Általános Iskola és A.M.I.,Szerencs,Szerencs,15,6,,3,0,3,2,3,0,4,0,0,0,0,,,,
+A kategória,Szögfelezők,"Horváth Gábor
+Nagy Kristóf
+Fige Lili","6
+5
+6",Jobbágy Istvánné,Szerencsi Rákóczi Zsigmond Református Két Tanítási nyelvű Általános Iskola és A.M.I.,Szerencs,Szerencs,10,8,,3,3,3,1,0,0,0,0,0,0,,,,,
+B kategória,Rákóczisok,"Mizák Anna
+Sztankovics András
+Kiss Bettina","7
+8
+7","Lukács Sándorné
+Berki Beáta",Szerencsi Rákóczi Zsigmond Református Két Tanítási nyelvű Általános Iskola és A.M.I.,Szerencs,Szerencs,27,1,igen,3,3,3,3,4,4,3,4,0,0,0,0,0,,
+A kategória,Kisokosok,"Lajcsák Dominik
+Bukovenszki Liza
+Répási Réka","6
+6
+5",Bukovenszkiné Bodnár Éva,Taktaharkányi Apáczai Csere János Általános Iskola,Taktaharkány,Szerencs,18,5,,3,1,3,0,3,2,3,0,0,0,0,3,0,0,0
+B kategória,Gyökkettő,"Szűcs Barbara
+Borbély Péter
+Pálfalusi Diána","8
+7
+8",Illésy Lászlóné,Taktaharkányi Apáczai Csere János Általános Iskola,Taktaharkány,Szerencs,23,2,igen,3,3,3,3,4,0,0,3,0,0,0,4,0,0,0
+B kategória,Piramisok,"Lukács Anna Szilvia
+Horváth Márton
+Patvarps Zsolt","8
+7
+8",Orosz Istvánné,Taktaharkányi Apáczai Csere János Általános Iskola,Taktaharkány,Szerencs,17,3,,0,3,3,3,0,2,2,4,0,0,0,0,0,0,0
+A kategória,Kisokosok,"Bodri Brigitta
+Kovács-Hagyó Dorina
+Gönczi Gabriella","6
+6
+5","Hevesiné Cserés Margit
+Dózsa Imre",Tiszaújvárosi Általános Iskola és Alapfokú Művészeti Iskola,Tiszaújváros,Tiszaújváros,56,1,igen,3,3,3,2,3,4,4,4,5,5,5,5,5,0,5
+A kategória,Matekosok,"Zsóri Ádám
+Burján Sándor
+Baumgartner Leona","6
+6
+5","Drotárné Tamás Hermina
+Berindzáné Répási Tünde",Tiszaújvárosi Általános Iskola és Alapfokú Művészeti Iskola,Tiszaújváros,Tiszaújváros,56,1,igen,3,3,3,3,4,2,4,4,4,5,5,5,5,6,0
+B kategória,Lurkók,"Süveges Huba
+Hörcsik Eszter
+Torma Márton","8
+8
+7","Kovácsné Pintér Éva
+Hevesiné Cserés Margit",Tiszaújvárosi Általános Iskola és Alapfokú Művészeti Iskola,Tiszaújváros,Tiszaújváros,30,2,igen,2,3,3,3,4,4,4,4,0,3,0,,,,
+B kategória,Matek Cárok,"Tarnóczi Zsófia
+Tóth Anna
+Oláh Zsombor","8
+8
+7",Szepesi Béláné,Tiszaújvárosi Általános Iskola és Alapfokú Művészeti Iskola,Tiszaújváros,Tiszaújváros,18,3,,2,3,3,3,0,0,3,4,0,0,0,,,,
+B kategória,Phoenix,"Stogica Kata
+Kébel Zsolt
+Lovász Péter","8
+8
+7","Kovácsné Pintér Éva, Hevesiné Cserés Margit",Tiszaújvárosi Általános Iskola és Alapfokú Művészeti Iskola,Tiszújváros,Tiszaújváros,36,1,igen,3,3,3,3,4,4,4,4,4,0,4,,,,
+A kategória,Bűvös hármas,"Ridzig Csenge
+Tóth Csongor
+Révay Gréta","5
+6
+6",Laskovicsné Tóth Mária,Verpeléti Arany János Általános Iskola és Reményi Ede Alapfokú Művészeti Iskola,Verpelét,Eger,19,12,,3,2,3,3,2,2,0,0,4,0,0,,,,
