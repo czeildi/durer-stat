@@ -6,17 +6,20 @@ shinyUI(fluidPage(
             'scores',
             selectInput(
                 'raw_data', label = 'select data',
-                choices = file.path('data', str_c(8:9, 'H-cdfk-scores.csv'))
+                choices = str_replace(list.files('raw_data'), '.csv', '')
             ),
             radioButtons(
-                'category', 'Select category', choices = c('C', 'D', 'F', 'K'), inline = T
+                'category', 'Select category', choices = c('A', 'B', 'C', 'D', 'F', 'K'), inline = T
             ),
             plotOutput('effect_of_age'),
             dataTableOutput('scores')
         ),
         tabPanel(
             'maps',
-            numericInput('year_for_map', 'Select competition: ', min = 1, max = 10, value = 9),
+            selectInput(
+                'data_for_map', label = 'select data', 
+                choices = str_replace(list.files('raw_data'), '.csv', '')
+            ),
             leafletOutput('participants', height = 600)
         ),
         tabPanel(

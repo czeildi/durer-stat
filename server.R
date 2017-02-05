@@ -1,6 +1,6 @@
 shinyServer(function(input, output) {
     scores <- reactive({
-        fread(input$raw_data)
+        fread(str_c('data/', input$raw_data, '.csv'))
     })
     
     output$scores <- renderDataTable({
@@ -20,7 +20,7 @@ shinyServer(function(input, output) {
             'Hungary', 'Croatia', 'Austria', 'Ukraine', 'Slovakia',
             'Slovenia', 'Romania', 'Serbia and Montenegro'
         )
-        cities <- str_c('data/', input$year_for_map, 'H-cdfk-scores.csv') %>% 
+        cities <- str_c('data/', input$data_for_map, '.csv') %>% 
             fread() %>% 
             .[, city] %>% 
             str_split(', |; ') %>% 
