@@ -45,10 +45,8 @@ shinyServer(function(input, output) {
     school_ids <- reactive({
         school_names <- collectSchoolNames()
         data.table(
-            name = school_names
-        ) %>% 
-            .[, .(num = .N), by = 'name'] %>% 
-            .[, id := 1:.N]
+            name = str_split(school_names, "; ") %>% unlist() %>% unique() %>% sort()
+        )
     })
     
     output$school_ids <- renderDataTable({

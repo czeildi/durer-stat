@@ -346,32 +346,27 @@ Budapest (BPG),C,Gyök 9d,"Szigeti Márk
 Zombori Péter
 Hamvas Villő","9
 9
-9","Kertai Helga, Madas Pál, Szabó Szabolcs","Városmajori Gimnázium és 
-Kós Károly Általános Iskola",Budapest,BP,4,1,10,0,0,15
+9","Kertai Helga, Madas Pál, Szabó Szabolcs","Városmajori Gimnázium és Kós Károly Általános Iskola",Budapest,BP,4,1,10,0,0,15
 Budapest (BPG),C,"Nevük nincsen, mégis tudnak","Kálmán Erik
 Laczik Dalma
 Farkas Panka","9
 9
-9","Kertai Helga, Madas Pál, Szabó Szabolcs","Városmajori Gimnázium és 
-Kós Károly Általános Iskola",Budapest,BP,5,0,8,1,1,15
+9","Kertai Helga, Madas Pál, Szabó Szabolcs","Városmajori Gimnázium és Kós Károly Általános Iskola",Budapest,BP,5,0,8,1,1,15
 Budapest (BPG),C,VMG 9.d2,"Kalóczkai Lili
 Tímár Bendegúz
 Horváth Aurél","9
 9
-9","Kertai Helga, Madas Pál, Szabó Szabolcs","Városmajori Gimnázium és 
-Kós Károly Általános Iskola",Budapest,BP,2,0,0,0,0,2
+9","Kertai Helga, Madas Pál, Szabó Szabolcs","Városmajori Gimnázium és Kós Károly Általános Iskola",Budapest,BP,2,0,0,0,0,2
 Budapest (BPG),C,VMG 9.d3,"Bhudia Shayam Nitin
 Deák Zsófia
 Békési Bulcsú","9
 9
-9","Kertai Helga, Madas Pál, Szabó Szabolcs","Városmajori Gimnázium és 
-Kós Károly Általános Iskola",Budapest,BP,4,0,7,1,1,13
+9","Kertai Helga, Madas Pál, Szabó Szabolcs","Városmajori Gimnázium és Kós Károly Általános Iskola",Budapest,BP,4,0,7,1,1,13
 Budapest (BPG),C,vmg9.d1,"Szabó Balázs
 Velich Borbála
 Krix Ádám","9
 9
-9","Kertai Helga, Madas Pál, Szabó Szabolcs","Városmajori Gimnázium és 
-Kós Károly Általános Iskola",Budapest,BP,1,0,0,1,0,2
+9","Kertai Helga, Madas Pál, Szabó Szabolcs","Városmajori Gimnázium és Kós Károly Általános Iskola",Budapest,BP,1,0,0,1,0,2
 Szeged,D,Sunshine,"Jójárt Alexandra
 Sebők Attila
 Bálint Karola","12
@@ -511,8 +506,7 @@ Németh Réka
 Kiss Fanni","12
 11
 10","Nagyné Dakos Tímea
-Ó. Szabó Sándor","Bocskai István Katolikus Gimnázium és Szakgimnázium
-Szerencs",Hajdúböszörmény,ÉA,0,2,2,3.5,6,13.5
+Ó. Szabó Sándor","Bocskai István Katolikus Gimnázium és Szakgimnázium, Szerencs",Hajdúböszörmény,ÉA,0,2,2,3.5,6,13.5
 Eger,C,Harci pockok,"Ádám Balázs
 Szepesi Szabolcs
 Kiss Petra Dominika","9
@@ -626,17 +620,17 @@ Kaposvár,C,Bomoka,"Bostyai Virág
 Mogyorósi András
 Rohán Katalin","10
 10
-9",Benkő Katalin,Nagyboldogasszony Római Katolikus Gimnázium,Kaposvár,DD,2,0,9,1,0,12
+9",Benkő Katalin,"Nagyboldogasszony Római Katolikus Gimnázium, Kaposvár",Kaposvár,DD,2,0,9,1,0,12
 Kaposvár,K,Hisztidin,"Csingár-Hajdu Regina Dóra
 Czaltig Johanna
 Darabos Dorottya","10
 10
-10",Rangits Gábor,Nagyboldogasszony Római Katolikus Gimnázium,Kaposvár,DD,4,2.5,2,7,13,28.5
+10",Rangits Gábor,"Nagyboldogasszony Római Katolikus Gimnázium, Kaposvár",Kaposvár,DD,4,2.5,2,7,13,28.5
 Kaposvár,K,Nátrium-tioszulfát,"Fülöp Kristóf
 Godó Viktória
 Darabos Dominik","9
 9
-9",Rangits Gábor,Nagyboldogasszony Római Katolikus Gimnázium,Kaposvár,DD,19,1,,2.5,11,33.5
+9",Rangits Gábor,"Nagyboldogasszony Római Katolikus Gimnázium, Kaposvár",Kaposvár,DD,19,1,,2.5,11,33.5
 Kaposvár,C,Hármas,"Puska Péter
 Seres Zsombor
 Kollár Martina Dana","9
@@ -723,9 +717,7 @@ Kecskemét,C,KJG,"Kamenár Gyöngyvér
 Szalai Katalin
 Czirkos Angéla","9
 9
-10",Csordás Péter,"Kecskeméti Katona József Gimnázium; 
-Kecskeméti Katona József Gimnázium; 
-Bolyai János Gimnázium",Kecskemét,DA,5,7,10,4,4,30
+10",Csordás Péter,"Kecskeméti Katona József Gimnázium; Kecskeméti Katona József Gimnázium; Bolyai János Gimnázium",Kecskemét,DA,5,7,10,4,4,30
 Kecskemét,K,LAB-ilis,"Steiner Ádám
 Urbán Zoltán
 Beckwith Édua Lea","12
@@ -1017,8 +1009,7 @@ Stock Gábor
 Gábor Gergő","10
 11
 11","Gönczy Katalin
-Sarka Lajos","Szent Imre Katolikus Gimnázium, Általános Iskola, Kollégium, Óvoda és Alapfokú Művészeti Iskola; 
-Nyíregyházi Eötvös József Gimnázium",Nyíregyháza,ÉA,8,15,1,15,10,49
+Sarka Lajos","Szent Imre Katolikus Gimnázium, Általános Iskola, Kollégium, Óvoda és Alapfokú Művészeti Iskola; Nyíregyházi Eötvös József Gimnázium",Nyíregyháza,ÉA,8,15,1,15,10,49
 Nyíregyháza,F,VPG,"Poór Ádám
 Géczi Fábián
 Vlasits Judit","11
@@ -1049,9 +1040,7 @@ Pécs,D,Töprengők,"Holczer András
 Klász Viktória
 Fekete Panna","12
 10
-12","MATEGO Alapítvány által szervezett Töprengő Klub tanárai, Erdős Pál Matematikai Tehetséggondozó Iskola tanárai","Pécsi Janus Pannonius Gimnázium; 
-Koch Valéria Gimnázium; 
-Pécsi Leőwey Klára Gimnázium",Pécs,DD,8,10,10,10,7,45
+12","MATEGO Alapítvány által szervezett Töprengő Klub tanárai, Erdős Pál Matematikai Tehetséggondozó Iskola tanárai","Pécsi Janus Pannonius Gimnázium; Koch Valéria Iskolaközpont, Pécs; Pécsi Leőwey Klára Gimnázium",Pécs,DD,8,10,10,10,7,45
 Pécs,C,BABITS9,"Hoffmann Ákos
 Kaposvári Márk Martin
 Tóth Regina Noémi","9

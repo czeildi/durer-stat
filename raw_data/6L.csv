@@ -91,51 +91,41 @@ Lovas Zsombor",Kovács Ágnes Lilla,30
 F,TPG,,,,,,Teleki Blanka Gimnázium és Általános Iskola,Budapest,"Hadady Petra
 Balázsi Károly Gáspár
 Fazekas Tamás",Kovács Ágnes,0
-C,Gyökkettő,12,9,9,9,10,"Városmajori Gimnázium és 
-Kós Károly Általános Iskola",Budapest,"Doleschall Eszter
+C,Gyökkettő,12,9,9,9,10,"Városmajori Gimnázium és Kós Károly Általános Iskola",Budapest,"Doleschall Eszter
 Lengyel Ádám
 Szabó Bianka","Pálfiné Kovács Erika
 Osváth Emese",49
-C,BE-csapat,10,9,10,7,9,"Városmajori Gimnázium és 
-Kós Károly Általános Iskola",Budapest,"Nemes Anna
+C,BE-csapat,10,9,10,7,9,"Városmajori Gimnázium és Kós Károly Általános Iskola",Budapest,"Nemes Anna
 Griger Bálint
 Dombrovszky Borbála","Pálfiné Kovács Erika
 Osváth Emese
 Bärnkopf Péter",45
-C,PáLMa,10,9,1,9,10,"Városmajori Gimnázium és 
-Kós Károly Általános Iskola",Budapest,"Nagy Máté
+C,PáLMa,10,9,1,9,10,"Városmajori Gimnázium és Kós Károly Általános Iskola",Budapest,"Nagy Máté
 Csákvári Laura
 Császma Péter","Osváth Emese Márta
 Pálfiné Kovács Erika",39
-C,Tál-Ész,12,10,7,8,0,"Városmajori Gimnázium és 
-Kós Károly Általános Iskola",Budapest,"Kovács-Osváth Apolka
+C,Tál-Ész,12,10,7,8,0,"Városmajori Gimnázium és Kós Károly Általános Iskola",Budapest,"Kovács-Osváth Apolka
 Bárány András
 Bense Viktor","Barnkopf Krisztina
 Osváth Emese
 Barnkopf Péter",37
-C,Ropik,10,9,8,9,0,"Városmajori Gimnázium és 
-Kós Károly Általános Iskola",Budapest,"Pásztor Flóra Katinka
+C,Ropik,10,9,8,9,0,"Városmajori Gimnázium és Kós Károly Általános Iskola",Budapest,"Pásztor Flóra Katinka
 Ács Bendegúz
 Mátyás Gergely","Osváth Emese Márta
 Bärnkopf Péter",36
-D,ERA,10,10,8,9,10,"Városmajori Gimnázium és 
-Kós Károly Általános Iskola",Budapest,"Bärnkopf Anna
+D,ERA,10,10,8,9,10,"Városmajori Gimnázium és Kós Károly Általános Iskola",Budapest,"Bärnkopf Anna
 Emri Tamás
 Mitnyik Levente",Pálfiné Kovács Erika,47
-D,LIL abiza,10,10,9,4,7,"Városmajori Gimnázium és 
-Kós Károly Általános Iskola",Budapest,"Kisfaludi Marcell
+D,LIL abiza,10,10,9,4,7,"Városmajori Gimnázium és Kós Károly Általános Iskola",Budapest,"Kisfaludi Marcell
 Gábriel Anna
 Bogár-Szabó Tamás",Kertai Helga,40
-D,vmg,10,10,8,2,10,"Városmajori Gimnázium és 
-Kós Károly Általános Iskola",Budapest,"Telek Zsófia
+D,vmg,10,10,8,2,10,"Városmajori Gimnázium és Kós Károly Általános Iskola",Budapest,"Telek Zsófia
 Illyés Marcell
 Szikora Bence",Kertai Helga,40
-D,H20,9,10,8,1,7,"Városmajori Gimnázium és 
-Kós Károly Általános Iskola",Budapest,"Farkas Denton
+D,H20,9,10,8,1,7,"Városmajori Gimnázium és Kós Károly Általános Iskola",Budapest,"Farkas Denton
 Szabó Zsófia
 Szutor Bence",Kertai Helga,35
-D,Endoplazmatikus Retikulum,10,1,10,2,0,"Városmajori Gimnázium és 
-Kós Károly Általános Iskola",Budapest,"Karig Fruzsina
+D,Endoplazmatikus Retikulum,10,1,10,2,0,"Városmajori Gimnázium és Kós Károly Általános Iskola",Budapest,"Karig Fruzsina
 Tárnok Balázs
 Szöllős Kristóf",Kertai Helga,23
 F,Wait for it,,,,,,Békásmegyeri Veres Péter Gimnázium,Budapest,"Serfőző Lőrinc
@@ -158,7 +148,7 @@ D,Búzavirág Csapat,10,10,12,10,10,"Kőrösi Csoma Sándor Gimnázium, Szakköz
 Bata Erzsébet
 Láda Ivett","Kozmáné Mórocz Mónika,
 Gömöri József",52
-D,TÖKösök,10,10,10,10,9,"Németh László Gimnázium, Általános Iskola és Óvoda",Hódmezővásárhely,"Tápai Laura
+D,TÖKösök,10,10,10,10,9,"Németh László Gimnázium, Általános Iskola és Óvoda, Hódmezővásárhely",Hódmezővásárhely,"Tápai Laura
 Gémes Gábor
 Gaizer Bence Tamás","Szittyai István
 Ladányi-Szittyai Andrea",49
@@ -168,10 +158,10 @@ Varga Stefánia",Nagyné Kontra Nóra,36
 D,RERÜD,1,2,8,2,-,SZIE Gyakorló Általános Iskola és Gimnázium,Jászberény,"Halasi-Czalbert Pál
 Urbán Sarolta
 Laboda Bettina",Nagyné Kontra Nóra,13
-D,Kőr Ász,8,4,7,0,4,Nagyboldogasszony Római Katolikus Gimnázium,Kaposvár,"Medveczky Zsófia
+D,Kőr Ász,8,4,7,0,4,"Nagyboldogasszony Római Katolikus Gimnázium, Kaposvár",Kaposvár,"Medveczky Zsófia
 Mogyorósi Ferenc
 Mogyorósi Anna",Fodor Péter,23
-K,Triterpén,,,,,,Nagyboldogasszony Római Katolikus Gimnázium,Kaposvár,"Darabos Dorottya
+K,Triterpén,,,,,,"Nagyboldogasszony Római Katolikus Gimnázium, Kaposvár",Kaposvár,"Darabos Dorottya
 Godó Viktória
 Hajdú Regina",Rangits Gábor,33
 D,Triumvirátus,8,10,8,-,9,Kecskeméti Katona József Gimnázium,Kecskemét,"Nádházi Tünde
@@ -389,8 +379,7 @@ F,Science Ops,,,,,,Lánczos Kornél Gimnázium,Székesfehérvár,"Pethő Ferenc
 Papp Eszter
 Nyerki Emil","Dr. Ujvári Sándor,
 Nyerkiné Alabert Zsuzsanna",66
-K,TóparTeam,,,,,,"Tóparti Gimnázium és 
-Művészeti Szakközépiskola",Székesfehérvár,"Ibriksz Máté
+K,TóparTeam,,,,,,"Tóparti Gimnázium és Művészeti Szakközépiskola",Székesfehérvár,"Ibriksz Máté
 Lautner Laura
 Rédl Balázs",Radics Ágota,23
 D,VFG11.12,10,10,10,10,8,"Verseghy Ferenc Gimnázium, Szolnok",Szolnok,"Barna István
