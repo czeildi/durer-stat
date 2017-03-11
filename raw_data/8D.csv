@@ -19,8 +19,7 @@ Major András
 Szanyi Erik",Székely György,Békásmegyeri Veres Péter Gimnázium,Budapest,Székely György,7,10,10,5,4,,,36,,,,,,,,,,,,,,,,,22.5,58.5,
 D,Páratlan hármas,"Cserkó Priszcilla
 Dornai Zsófia
-Kiss Benjamin",Varga Eszter,"Bornemisza Péter Gimnázium, Általános Iskola, 
-Alapfokú Művészetoktatási Intézmény és Sportiskola",Budapest,"Varga Eszter, Dormán Judit",0,2,2,0,-,0,,4,3,3,3,3,4,4,0,0,0,0,,,,,,,20,24,14. hely
+Kiss Benjamin",Varga Eszter,"Bornemisza Péter Gimnázium, Általános Iskola, Alapfokú Művészetoktatási Intézmény és Sportiskola",Budapest,"Varga Eszter, Dormán Judit",0,2,2,0,-,0,,4,3,3,3,3,4,4,0,0,0,0,,,,,,,20,24,14. hely
 C,Molnár-s,"Majoros Anikó
 Bogdándi Lilla Kata
 Molnár-Sáska Zoltán Gábor",Szoldatics József,Budapesti Fazekas Mihály Gyakorló Általános Iskola és Gimnázium,Budapest,"Szoldatics József
@@ -122,7 +121,7 @@ Tóth Imre
 Sándor Zoltán",6.5,5.5,6.2,3,1,4,3,29.2,4,4,4,4,4,2,0,4,2,0,0,0,0,,,,28,57.2,
 D,Vajdatrio,"Lekics László
 Szántó Benedek
-Németh Flóra",Fonyó Lajos,Vajda János Gimnázium,Keszthely,Fonyó Lajos,12,0,12,1,6,0,,31,3,3,3,3,4,4,0,0,3,0,0,5,0,0,6,,34,65,7. hely
+Németh Flóra",Fonyó Lajos,Keszthelyi Vajda János Gimnázium,Keszthely,Fonyó Lajos,12,0,12,1,6,0,,31,3,3,3,3,4,4,0,0,3,0,0,5,0,0,6,,34,65,7. hely
 F,Jurisich_nagy,"Fehér Áron
 Marton Levente
 Bognár Gabriella",Mátrai István,Jurisich Miklós Gimnázium és Kollégium,Kőszeg,Mátrai István,3,10,2,5,3,,,23,,,,,,,,,,,,,,,,,16,39,
@@ -184,17 +183,17 @@ Porupsánszki István
 Birinyi Anna",Vass Iván,"Földes Ferenc Gimnázium, Miskolc",Miskolc,"Kovács Attiláné, Vass Iván, Veres Pál",12,12,12,12,12,0,,60,3,2,3,3,4,4,4,0,5,4,5,5,5,5,5,5,62,122,I. díj
 A,VÁR-ADY RAN,"Deli Attila Róbert
 Árva Norbert Ákos
-Divin Judit",István Zoltán,Ady Endre Elméleti Líceum,Nagyvárad,"Ridi Enikő
+Divin Judit",István Zoltán,"Ady Endre Elméleti Líceum, Nagyvárad",Nagyvárad,"Ridi Enikő
 István Zoltán",12,12,12,4,12,0,,52,,3,3,3,4,3,4,4,4,5,5,5,6,5,,6,60,112,II. díj
 B,Fnatic,"Kovács Norbert
 Mikó Tímea
-Salánki Miklós",Gál Ildikó,Ady Endre Elméleti Líceum,Nagyvárad,Gál Ildikó,7,12,12,9,2,0,,42,2,3,3,3,4,3,4,3,5,5,,3,4,5,,,47,89,II. díj
+Salánki Miklós",Gál Ildikó,"Ady Endre Elméleti Líceum, Nagyvárad",Nagyvárad,Gál Ildikó,7,12,12,9,2,0,,42,2,3,3,3,4,3,4,3,5,5,,3,4,5,,,47,89,II. díj
 B,Unicum Triumvirátus,"Vura János
 Kovács Sándor
-Gyulai Réka",Gál Ildikó,Ady Endre Elméleti Líceum,Nagyvárad,Gál Ildikó,7,8,8,3,0,0,,26,3,3,2,3,4,4,4,,5,5,,,,6,,,39,65,9. hely
+Gyulai Réka",Gál Ildikó,"Ady Endre Elméleti Líceum, Nagyvárad",Nagyvárad,Gál Ildikó,7,8,8,3,0,0,,26,3,3,2,3,4,4,4,,5,5,,,,6,,,39,65,9. hely
 D,1000101,"Dudás Norbert
 Salánki Dániel
-Fűsűs Bettina",Bődi János,Ady Endre Elméleti Líceum,Nagyvárad,"Bátori Éva
+Fűsűs Bettina",Bődi János,"Ady Endre Elméleti Líceum, Nagyvárad",Nagyvárad,"Bátori Éva
 István Zoltán
 Bődi János",0,1,2,0,5,12,,20,3,0,3,2,4,4,0,4,5,0,0,0,6,0,0,,31,51,10-11. hely
 A,Törtetők,"Kovács Réka
@@ -297,4 +296,4 @@ Szabó Evelin",Csepelyné Gáncs Judit,Vetési Albert Gimnázium,Veszprém,"Csep
 Likerné Pucsek Rózsa",8,4.9,3,7,0.6,4,3.5,31,4,4,4,4,4,4,4,4,0,0,4,0,0,,,,36,67,
 C,ATE,"Fenyvesi Abigél
 Böröc Tamás
-Szögi Evelin",Béres Zoltán,Bolyai Tehetséggondozó Gimnázium és Kollégium,Zenta,Béres Zoltán,2,0,12,1,0,12,,27,3,3,3,2,4,0,0,4,0,5,5,0,,,,,29,56,13-14. hely
+Szögi Evelin",Béres Zoltán,"Bolyai Tehetséggondozó Gimnázium és Kollégium, Zenta",Zenta,Béres Zoltán,2,0,12,1,0,12,,27,3,3,3,2,4,0,0,4,0,5,5,0,,,,,29,56,13-14. hely

@@ -29,25 +29,20 @@ C,Dönci és a lányok,10,3,7,6,9,Bonyhádi Petőfi Sándor Evangélikus Gimnáz
 Bősze Zsófia
 Wiandt Péter","Simonné Krum Eszter
 dr. Katz Sándor",35
-C,Kétszer kettő néha öt,10,10,9,11,10,"Bornemisza Péter Gimnázium, Általános Iskola, 
-Alapfokú Művészetoktatási Intézmény és Sportiskola",Budapest,"Gyurkó Bátor
+C,Kétszer kettő néha öt,10,10,9,11,10,"Bornemisza Péter Gimnázium, Általános Iskola, Alapfokú Művészetoktatási Intézmény és Sportiskola",Budapest,"Gyurkó Bátor
 Krisztián Jonatán
 Zaszlavik Sára","Varga Eszter
 Zádori Erika",50
-C,számtanúk,10,10,8,10,10,"Bornemisza Péter Gimnázium, Általános Iskola, 
-Alapfokú Művészetoktatási Intézmény és Sportiskola",Budapest,"Nagy Salamon
+C,számtanúk,10,10,8,10,10,"Bornemisza Péter Gimnázium, Általános Iskola, Alapfokú Művészetoktatási Intézmény és Sportiskola",Budapest,"Nagy Salamon
 Román Dávid
 Millner Viola",Varga Eszter,48
-C,42,10,10,6,9,8,"Bornemisza Péter Gimnázium, Általános Iskola, 
-Alapfokú Művészetoktatási Intézmény és Sportiskola",Budapest,"Cserkó Priszcilla
+C,42,10,10,6,9,8,"Bornemisza Péter Gimnázium, Általános Iskola, Alapfokú Művészetoktatási Intézmény és Sportiskola",Budapest,"Cserkó Priszcilla
 Pintér Guidó
 Kiss Benjámin",Varga Eszter,43
-D,BPG Matektrió,10,6,-,0,-,"Bornemisza Péter Gimnázium, Általános Iskola, 
-Alapfokú Művészetoktatási Intézmény és Sportiskola",Budapest,"Bakó Dávid
+D,BPG Matektrió,10,6,-,0,-,"Bornemisza Péter Gimnázium, Általános Iskola, Alapfokú Művészetoktatási Intézmény és Sportiskola",Budapest,"Bakó Dávid
 Horváth Bianka
 Eggendorfer Noémi",Zsilinszky Eszter,16
-C,BPG Math,10,10,8,-,8,"Bornemisza Péter Gimnázium, Általános Iskola, 
-Alapfokú Művészetoktatási Intézmény és Sportiskola",Budapest,"Horváth Áron
+C,BPG Math,10,10,8,-,8,"Bornemisza Péter Gimnázium, Általános Iskola, Alapfokú Művészetoktatási Intézmény és Sportiskola",Budapest,"Horváth Áron
 Dornai Zsófia
 Fehér Benjamin",Varga Eszter,36
 D,Mona Lisa,9,10,8,8,-,Bródy Imre Gimnázium,Budapest,"Hurubán Lídia
@@ -59,7 +54,7 @@ Szabó Csenge Krisztina
 Rujp Tamás","Gyenes Zoltán
 Táborné Vincze Márta
 Pataki János",41
-K,Tetrazol,,,,,,ELTE Apáczai Csere János Gyakorlógimnázium,Budapest,"Borsik Gábor
+K,Tetrazol,,,,,,ELTE Apáczai Csere János Gyakorló Gimnázium,Budapest,"Borsik Gábor
 Repkényi Dorottya
 Sályi Gergő","Villányi Attila, 
 Sebő Péter",72
@@ -194,8 +189,7 @@ Mikulás Hanna
 Sipos Júlia","Csordás Mihály
 Csordás Péter
 Csordásné Szécsi Jolán",40
-F,Vajdások,,,,,,"Vajda János
-Gimnázium",Keszthely,"Farkas Bence
+F,Vajdások,,,,,,Keszthelyi Vajda János Gimnázium,Keszthely,"Farkas Bence
 Pohl József
 Sisák Mária Anna",Farkas László,66
 C,Pii,10,6,5,2,4,Jurisich Miklós Gimnázium és Kollégium,Kőszeg,"Varga Rebecca
@@ -209,7 +203,7 @@ Kis Dávid",Fehérvári Dénes,40
 D,Matyó Csapat,10,2,8,2,0,Szent László Gimnázium,Mezőkövesd,"Gál Bence
 Reményi Balázs
 Pajtók Csenge",Fehérvári Dénes,22
-B,Ász Team in H,10,10,3,0,2,"Földes Ferenc Gimnázium, Miskolc",Miskolc,"Tóth Miklós
+B,Ász Team in H,10,10,3,0,2,"Földes Ferenc Gimnázium, Miskolc",Miskloc,"Tóth Miklós
 Borbély Ágoston
 Kovács Zsófia","Győry Ákos
 Kovács Attiláné
@@ -337,17 +331,17 @@ Kurgyis Bálint",Veres Ilona,35
 F,73,,,,,,Kossuth Lajos Gimnázium,Mosonmagyaróvár,"Csendes Bálint
 Németh Bence
 Bak Athéna",Bekőné Wekszli Mária,75
-A,Törp-Ady,?,5,8,10,8,Ady Endre Elméleti Líceum,Nagyvárad,"Erdei Roland
+A,Törp-Ady,?,5,8,10,8,"Ady Endre Elméleti Líceum, Nagyvárad",Nagyvárad,"Erdei Roland
 Bődi Csenge Boglárka
 Vura János","Bődi János
 Gál Ildikó",31
-A,AAA,10,5,10,0,1,Ady Endre Elméleti Líceum,Nagyvárad,"Drimba Carla
+A,AAA,10,5,10,0,1,"Ady Endre Elméleti Líceum, Nagyvárad",Nagyvárad,"Drimba Carla
 Kohán Zsófia
 Szabó Patricia",Bődi János,26
-C,Diogenész Klub,12,10,5,10,4,Ady Endre Elméleti Líceum,Nagyvárad,"Bartha Judit
+C,Diogenész Klub,12,10,5,10,4,"Ady Endre Elméleti Líceum, Nagyvárad",Nagyvárad,"Bartha Judit
 Salánki Dániel
 Huber János",Bődi János,41
-D,Matek-tenger kalózai,6,10,5,2,1,Ady Endre Elméleti Líceum,Nagyvárad,"Szakáll Orsolya
+D,Matek-tenger kalózai,6,10,5,2,1,"Ady Endre Elméleti Líceum, Nagyvárad",Nagyvárad,"Szakáll Orsolya
 Jancsó János
 Farkas-Páll Kristóf",Bődi János,24
 C,Triások,10,9,10,9,9,Nyíregyházi Krúdy Gyula Gimnázium,Nyíregyháza,"Nagy Kristóf
@@ -361,7 +355,7 @@ D,Töltött k*pi,6,10,10,2,4,Nyíregyházi Krúdy Gyula Gimnázium,Nyíregyháza
 Demcsák Richárd
 Szabó Tamás","Konczné Végh Leona,
 Koncz István",32
-F,sivatagi rohamcsigák,,,,,,Vasvári Pál Gimnázium,Nyíregyháza,"Hegyes Anett
+F,sivatagi rohamcsigák,,,,,,Székesfehérvári Vasvári Pál Gimnázium,Nyíregyháza,"Hegyes Anett
 Sándor Róbert
 Hudák Levente",Zámboriné Laskai Ildikó,39
 D,Vészkijárat,10,10,4,0,1,Bolyai János Gimnázium és Szakközépiskola,Salgótarján,"Szaniszló Csilla
@@ -399,17 +393,17 @@ K,TóparTeam,,,,,,"Tóparti Gimnázium és
 Művészeti Szakközépiskola",Székesfehérvár,"Ibriksz Máté
 Lautner Laura
 Rédl Balázs",Radics Ágota,23
-D,VFG11.12,10,10,10,10,8,Verseghy Ferenc Gimnázium,Szolnok,"Barna István
+D,VFG11.12,10,10,10,10,8,"Verseghy Ferenc Gimnázium, Szolnok",Szolnok,"Barna István
 Fülep Andrea
 Pogány Zsombor","Pécsi István, Pécsiné Röhri Zsuzsanna, Veres Dénes",48
-D,steelers,10,2,8,2,-,Verseghy Ferenc Gimnázium,Szolnok,"Kun Péter
+D,steelers,10,2,8,2,-,"Verseghy Ferenc Gimnázium, Szolnok",Szolnok,"Kun Péter
 Somogyi Réka
 Szöllősi Nóra","Pécsiné Röhri Zsuzsanna,
 Veres Dénes, Pécsi István",22
-K,kémiaÁSZOK,,,,,,Verseghy Ferenc Gimnázium,Szolnok,"Ábrahám Attila
+K,kémiaÁSZOK,,,,,,"Verseghy Ferenc Gimnázium, Szolnok",Szolnok,"Ábrahám Attila
 Giricz Márton
 Pogány Regina",Pogányné Balázs Zsuzsanna,67
-K,Etil-alakulat,,,,,,Verseghy Ferenc Gimnázium,Szolnok,"Horváth Attila
+K,Etil-alakulat,,,,,,"Verseghy Ferenc Gimnázium, Szolnok",Szolnok,"Horváth Attila
 Kanyó László
 Nánási Dalma",Pogányné Balázs Zsuzsanna,61
 D,Matekmanók,10,2,2,2,-,Kanizsai Dorottya Gimnázium,Szombathely,"Antal Mária
@@ -432,7 +426,7 @@ C,D-über kockák,10,10,0,9,5,Zrínyi Miklós Gimnázium,Zalaegerszeg,"Paulovics
 Marx Pál  Fülöp
 Nérel Eleonóra","Horváth Attila
 Kovács Tibor",34
-D,Zatacka,10,10,5,8,6,Bolyai Tehetséggondozó Gimnázium és Kollégium,Zenta,"Bíró Dominik
+D,Zatacka,10,10,5,8,6,"Bolyai Tehetséggondozó Gimnázium és Kollégium, Zenta",Zenta,"Bíró Dominik
 Tokity Rudolf
 Horti Krisztina","Béres Zoltán,
 Csikós Pajor Gizella,
