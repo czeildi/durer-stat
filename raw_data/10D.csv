@@ -63,44 +63,44 @@ K+,nope,"Arany Eszter
  Bajczi Levente
  Stenczel Tamás Károly","11
 12
-12","Gödöllői Török Ignác Gimnázium; Lovassy László Gimnázium, Veszprém","Karasz Gyöngyi, Kalocsai Ottó, Kiss Zoltán",37.2,28,65.2,13,12.2,12,,,
+12","Gödöllői Török Ignác Gimnázium; Lovassy László Gimnázium, Veszprém","Karasz Gyöngyi, Kalocsai Ottó, Kiss Zoltán",37.2,28,65.2,13,12.2,12,NA,NA,NA
 K+,SzuperGyöngyHarcosok,"Al-Hag Johanna Iman
  Sajgó Mátyás
  Major Ábel","10
 11
-12","Földes Ferenc Gimnázium, Miskolc","Endrész Gyöngyi, Szepesiné Medve Judit",21.8,32,53.8,4.4,8.4,9,,,
+12","Földes Ferenc Gimnázium, Miskolc","Endrész Gyöngyi, Szepesiné Medve Judit",21.8,32,53.8,4.4,8.4,9,NA,NA,NA
 K+,Fehling feeling,"Balbisi Mirjam
  Fekete Zsófia
  Fraknói Ádám","12
 12
-10",Jedlik Ányos Gimnázium,Elekné Becz Beatrix,24.6,26,50.6,9,5.6,10,,,
+10",Jedlik Ányos Gimnázium,Elekné Becz Beatrix,24.6,26,50.6,9,5.6,10,NA,NA,NA
 K+,Kompozit,"Erdélyi Viktor
  Hinnah Barbara
  Kővári Péter Viktor","11
 12
-12","Debreceni Fazekas Mihály Gimnázium; Tóth Árpád Gimnázium, Debrecen","Lakatosné Tóth Ildikó, Sinyiné Kővári Györgyi, dr. Várallyainé Balázs Judit",21.8,28,49.8,5.4,9.6,6.8,,,
+12","Debreceni Fazekas Mihály Gimnázium; Tóth Árpád Gimnázium, Debrecen","Lakatosné Tóth Ildikó, Sinyiné Kővári Györgyi, dr. Várallyainé Balázs Judit",21.8,28,49.8,5.4,9.6,6.8,NA,NA,NA
 K+,Teobromin,"Jedlovszky Krisztina
  Pálya Hanna
  Boros Dániel","11
 10
-11",Budapesti Fazekas Mihály Gyakorló Általános Iskola és Gimnázium,"dr. Keglevich Kristóf, Albert Attila",20.6,24,44.6,4.6,10,6,,,
+11",Budapesti Fazekas Mihály Gyakorló Általános Iskola és Gimnázium,"dr. Keglevich Kristóf, Albert Attila",20.6,24,44.6,4.6,10,6,NA,NA,NA
 K+,Difoszfor-pentoxid,"Kiss Dávid
  Molnár Balázs
  Venyingi Fanni","11
 12
-9",Kecskeméti Bányai Júlia Gimnázium,"Borsos Katalin, Vargáné Hajdú Mária",13,17,30,2.8,7.8,2.4,,,
+9",Kecskeméti Bányai Júlia Gimnázium,"Borsos Katalin, Vargáné Hajdú Mária",13,17,30,2.8,7.8,2.4,NA,NA,NA
 F,Még nem találtuk ki,"Almássy Tekla
  Kiss László
 Tompa Tamás Lajos","11
 12
 12","Földes Ferenc Gimnázium, Miskolc","Zámborszky Ferenc, 
-Kovács Benedek",32,40,72,5,5,6,10,6,
+Kovács Benedek",32,40,72,5,5,6,10,6,NA
 F,Örökmozgók,"Veres Dóra
  Szakály Marcell
  Németh Balázs","11
 11
 11",Budapesti Fazekas Mihály Gyakorló Általános Iskola és Gimnázium,"Dvorák Cecília,
-Csefkó Zoltán",38,33,71,8,9,6,6,9,
+Csefkó Zoltán",38,33,71,8,9,6,6,9,NA
 F,ATT,"Krasznai Anna
  Marozsák Tóbiás 
 Páhoki Tamás","11
@@ -108,26 +108,26 @@ Páhoki Tamás","11
 11",Keszthelyi Vajda János Gimnázium; Óbudai Árpád Gimnázium; Pécsi Leőwey Klára Gimnázium,"Farkas László,
  Gärtner István,
  Simon Péter,
- Dr. Kotek László",34,36,70,8,7,3,10,6,
+ Dr. Kotek László",34,36,70,8,7,3,10,6,NA
 F,Baba szombat,"Varga Csenge
  Hansel Soma 
 Váli Benedek","11
 12
 12",Szegedi Radnóti Miklós Kísérleti Gimnázium,"Dr. Mező Tamás,
- Csányi Sándor",37,20,57,7,5,6,9,10,
+ Csányi Sándor",37,20,57,7,5,6,9,10,NA
 F,E,"Karl János 
 Szentivánszki Soma János 
 Klász Viktória","11
 12
 12","Pécsi Leőwey Klára Gimnázium; Koch Valéria Iskolaközpont, Pécs","Markovics Ákos,
- Simon Péter",35,18,53,10,7,7,6,5,
+ Simon Péter",35,18,53,10,7,7,6,5,NA
 F,PÉ,"Olosz Adél 
 Kolontári Péter 
 Fekete Balázs Attila","10
 11
 11","Pécsi Leőwey Klára Gimnázium; PTE Gyakorló Általános Iskola, Gimnázium, Szakközépiskola és Óvoda","Koncz Károly, 
 Simon Péter,
- Kotek László",25,27,52,7,7,3,5,3,
+ Kotek László",25,27,52,7,7,3,5,3,NA
 F,ALICE,"Kovács Kitti
  Németh Róbert
  Török Péter","11
@@ -135,26 +135,26 @@ F,ALICE,"Kovács Kitti
 12",Budapesti Fazekas Mihály Gyakorló Általános Iskola és Gimnázium,"Csefkó Zoltán,
  Dvorák Cecília,
  Horváth Gábor,
- Szokolai Tibor",34,16,50,7,5,4,9,9,
+ Szokolai Tibor",34,16,50,7,5,4,9,9,NA
 F,Dürer festmény aranyáron,"Kerekes Anna
  Bege Áron 
 Fehér Szilveszter","10
 12
-12",Budapesti Fazekas Mihály Gyakorló Általános Iskola és Gimnázium; Óbudai Gimnázium, Budapest,"Schramek Anikó,
+12",Budapesti Fazekas Mihály Gyakorló Általános Iskola és Gimnázium; Óbudai Gimnázium,"Schramek Anikó,
  Horváth Gábor,
  Szokolai Tibor,
- Fehér Gabriella",30,11,41,7,5,7,6,5,
+ Fehér Gabriella",30,11,41,7,5,7,6,5,NA
 F,HKIEBRA,"Harmath Klaudia 
 Iván Efraim Balázs
  Radó Albert","11
 12
 12","Mátyás Király Gimnázium, Fonyód","Kiss Sándor, 
-Kovács Balázs",24,14,38,2,7,3,9,3,
+Kovács Balázs",24,14,38,2,7,3,9,3,NA
 F,Pucolnivaló,"Bukovenszki Réka 
 Lukács Miklós Ágoston 
 Tóth Tibor Áron","11
 12
-12","Földes Ferenc Gimnázium, Miskolc",Kovács Benedek,24,11,35,4,5,5,7,3,
+12","Földes Ferenc Gimnázium, Miskolc",Kovács Benedek,24,11,35,4,5,5,7,3,NA
 A,2×6+5,"Espán Gergely
  Havasi Marcell Milán
  Lupkovics Lilla","6
@@ -491,7 +491,7 @@ C+,chlorured’aminométhylpyrimidinylhydroxyéthylméthythiazolium,"Molnár-Sá
  Gyenes Zoltán,
  Kiss Géza,
  Kiss Gergő,
- Pósa Lajos",42,27,69,12,12,,5,1,12
+ Pósa Lajos",42,27,69,12,12,NA,5,1,12
 C+,KéJGáz,"Sebe Anna 
 Mikulás Zsófia 
 Garamvölgyi István","10
@@ -543,12 +543,12 @@ D,SZÁM,"Ujváry Szilvia
 11",Budapesti Fazekas Mihály Gyakorló Általános Iskola és Gimnázium,"Szakács Péter,
  Orosz Gyula,
  Solti Edit,
- Paróczay József",42,42,84,14,12,0,,4,12
+ Paróczay József",42,42,84,14,12,0,NA,4,12
 D,Balkerkri,"Balbisi Zsuzsa
  Kerekes Bálint
  Kristály Álmos","12
 11
-11",Jedlik Ányos Gimnázium,Fodor Mária,40,39,79,12,12,,0,4,12
+11",Jedlik Ányos Gimnázium,Fodor Mária,40,39,79,12,12,NA,0,4,12
 D,Csibemackók,"Bogdándi Lilla
  Kulcsár Gergő
  Xu Dávid","11
@@ -588,7 +588,7 @@ D,Kifogók,"Varga Richárd
 11
 11",Budapesti Fazekas Mihály Gyakorló Általános Iskola és Gimnázium,"Paróczay József, 
 Szakács Péter,
- Dunay Zoltán",28,24,52,6,5,0,,5,12
+ Dunay Zoltán",28,24,52,6,5,0,NA,5,12
 D+,Van,"Csuha Boglárka
  Borbényi Márton
  Tóth Viktor","11
@@ -606,14 +606,14 @@ D+,Átfogólya,"Glattfelder Hanna
 Szűcs Gábor,
 Pósa Lajos,
 Dobos Sándor,
-Fazakas Tünde",42,34,76,12,1,11,6,,12
+Fazakas Tünde",42,34,76,12,1,11,6,NA,12
 D+,Derelye,"Vankó Milena 
 Zólomy Kristóf
  Bukva Balázs","11
 11
 11",Budapesti Fazekas Mihály Gyakorló Általános Iskola és Gimnázium,"Hujter Bálint, 
 Gyenes Zoltán, 
-Szűcs Gábor",34,40,74,16,6,12,,,0
+Szűcs Gábor",34,40,74,16,6,12,NA,NA,0
 D+,Nadrágszíj,"Janzer Lili
  Záhorsky Ákos
  Nagy Dávid","11
@@ -645,4 +645,4 @@ D+,Lampion,"Csitári Nóra
 11",Budapesti Fazekas Mihály Gyakorló Általános Iskola és Gimnázium,"Hujter Bálint,
 Gyenes Zoltán,
 Fazakas Tünde,
-Dobos Sándor",16,31,47,12,3,,,1,0
+Dobos Sándor",16,31,47,12,3,NA,NA,1,0

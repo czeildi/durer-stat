@@ -15,18 +15,18 @@ D,Nagyvárad,HT,3.141592654,"Tóth Gellért
 Fekete Ádám
 Nagy Blanka-Eszter","12
 12
-11","Ady Endre Elméleti Líceum, Nagyvárad",Nagy Zoltán,0,,,,,
+11","Ady Endre Elméleti Líceum, Nagyvárad",Nagy Zoltán,0,NA,NA,NA,NA,NA
 D,Nagyvárad,HT,cos2kπ,"Kenéz Anna Boglárka
 Jakabffy Balázs
 Divin Péter","12
 11
 12","Ady Endre Elméleti Líceum, Nagyvárad","Báthori Éva
-Bors Violetta",22,5,10,5,,2
+Bors Violetta",22,5,10,5,NA,2
 D,Nagyvárad,HT,TryHard,"Năndrean David-Cristian
 Búzási Ronald-Gergő
 Kovacs Anna","12
 12
-11","Ady Endre Elméleti Líceum, Nagyvárad",Báthori Éva,0,,,,,
+11","Ady Endre Elméleti Líceum, Nagyvárad",Báthori Éva,0,NA,NA,NA,NA,NA
 C,Nagyvárad,HT,Fnatic,"Kovacs Norbert
 Salanki Miklos 
 Belenyesi Andrea","10
@@ -47,7 +47,7 @@ Vezsenyi Ákos
 Fándly Gergő","10
 10
 10","Ady Endre Elméleti Líceum, Nagyvárad","Takács Tünde
-Ciubotariu Éva",17,8.5,1,0,7.5,
+Ciubotariu Éva",17,8.5,1,0,7.5,NA
 C,Nagyvárad,HT,Három a  köbön,"Kovács Csenge
 Csomay Eszter
 Juhász Péter","10
@@ -105,12 +105,12 @@ D,Budapest,KM,Zsigubigule,"Vékássy Áron
 Temesvári Máté
 Mészáros Melinda","12
 12
-11",Békásmegyeri Veres Péter Gimnázium,"Varga Mária, Simon János, Számadóné Békéssy Szilvia",17,10,3,4,,0
+11",Békásmegyeri Veres Péter Gimnázium,"Varga Mária, Simon János, Számadóné Békéssy Szilvia",17,10,3,4,NA,0
 D,Budapest,KM,Egy előre nem nevezett csapat,"Miskolczy Zsófia
 Apró Noémi
 Kozma Balázs","?
 ?
-?",Békásmegyeri Veres Péter Gimnázium,,23,6,10,5,1,1
+?",Békásmegyeri Veres Péter Gimnázium,NA,23,6,10,5,1,1
 F,Budapest,KM,10 tipp a banánhéj felhasználására,"Csilling Eszter
 Facskó Benedek
 Bankó Márton","11
@@ -144,7 +144,7 @@ Erős Attila
 Burkus Lilla","10
 9
 9","Bocskai István Katolikus Gimnázium és Szakgimnázium, Szerencs","Novákné Váradi Judit,
-Zahuczkiné Pereszlényi Zsuzsanna",3,3,0,,0,0
+Zahuczkiné Pereszlényi Zsuzsanna",3,3,0,NA,0,0
 C,Miskolc,ÉM,Gyök2,"Kovács Ákos
 Novák Zoltán
 Beregi Linda","10
@@ -156,7 +156,7 @@ Miliczki Martina Evelin
 Póczos Patrik","9
 9
 9","Bocskai István Katolikus Gimnázium és Szakgimnázium, Szerencs","Novákné Váradi Judit,
-Zahuczkiné Pereszlényi Zsuzsanna",7,1,4,,,2
+Zahuczkiné Pereszlényi Zsuzsanna",7,1,4,NA,NA,2
 C,Miskolc,ÉM,Számtalanok,"Varga Krisztián
 Kiss Bettina
 Mizák Anna","10
@@ -175,7 +175,7 @@ D,Szeged,HT,Bóják,"Fenyvesi Abigél
 Karvák Beatrix 
 Szögi Evelin","12
 11
-12","Bolyai Tehetséggondozó Gimnázium és Kollégium, Zenta","Béres Zoltán, Zavargó Zsuzsanna",15,4,3,5,,3
+12","Bolyai Tehetséggondozó Gimnázium és Kollégium, Zenta","Béres Zoltán, Zavargó Zsuzsanna",15,4,3,5,NA,3
 C,Budapest,KM,Húsgolyók,"Sarmasági Csillag Ada
 Tóth Bence
 Suták Máté","9
@@ -191,7 +191,7 @@ C,Budapest,KM,Bárányok,"Pauer Ádám
 Hortobágyi Eszter
 Pátkai Hanna","9
 10
-10","Bornemisza Péter Gimnázium, Általános Iskola, Alapfokú Művészetoktatási Intézmény és Sportiskola",Zsilinszky Eszter,5,2,,1,2,0
+10","Bornemisza Péter Gimnázium, Általános Iskola, Alapfokú Művészetoktatási Intézmény és Sportiskola",Zsilinszky Eszter,5,2,NA,1,2,0
 C,Budapest,KM,BornemiszaCvegyes,"Bernát Ádám
 Kós Péter
 Varga Doroti","10
@@ -202,7 +202,7 @@ C,Budapest,KM,Értelem a köbön,"Kemenár Eszter
 Borbás Áron
 Bacskay Vivien","9
 9
-9","Bornemisza Péter Gimnázium, Általános Iskola, Alapfokú Művészetoktatási Intézmény és Sportiskola",Varga Eszter,5,1,,3,0,1
+9","Bornemisza Péter Gimnázium, Általános Iskola, Alapfokú Művészetoktatási Intézmény és Sportiskola",Varga Eszter,5,1,NA,3,0,1
 C,Budapest,KM,Köb köbön nem marad!,"Szabó Zoé
 Kajdy Barna
 Szerőczei Filemon","10
@@ -212,22 +212,22 @@ D,Budapest,KM,csokitorta,"Friedsam Bence
 Nagy Roland
 Horváth Lili","11
 11
-11","Bornemisza Péter Gimnázium, Általános Iskola, Alapfokú Művészetoktatási Intézmény és Sportiskola",Varga Eszter,5,4,0,1,,
+11","Bornemisza Péter Gimnázium, Általános Iskola, Alapfokú Művészetoktatási Intézmény és Sportiskola",Varga Eszter,5,4,0,1,NA,NA
 D,Budapest,KM,Hajasbabák,"Zaszlavik Sára
 Kós Anna
 Csókay Tamás","12
 11
-11","Bornemisza Péter Gimnázium, Általános Iskola, Alapfokú Művészetoktatási Intézmény és Sportiskola","Varga Eszter, Zádori Ferencné",25,10,6,9,,0
+11","Bornemisza Péter Gimnázium, Általános Iskola, Alapfokú Művészetoktatási Intézmény és Sportiskola","Varga Eszter, Zádori Ferencné",25,10,6,9,NA,0
 D,Budapest,KM,Mi,"Major Dániel
 Varga Izsák
 Cserkó Lídia","11
 11
-11","Bornemisza Péter Gimnázium, Általános Iskola, Alapfokú Művészetoktatási Intézmény és Sportiskola",Varga Eszter,3,0,3,0,,
+11","Bornemisza Péter Gimnázium, Általános Iskola, Alapfokú Művészetoktatási Intézmény és Sportiskola",Varga Eszter,3,0,3,0,NA,NA
 D,Budapest,KM,Penpineapple,"Régeisz Naomi
 Szabó Gergő
 Kisvarga Benjámin","11
 11
-11","Bornemisza Péter Gimnázium, Általános Iskola, Alapfokú Művészetoktatási Intézmény és Sportiskola",Varga Eszter,0,0,0,,,
+11","Bornemisza Péter Gimnázium, Általános Iskola, Alapfokú Művészetoktatási Intézmény és Sportiskola",Varga Eszter,0,0,0,NA,NA,NA
 F,Budapest,KM,Göcsényi család,"Bakucz Jonatán
 Lakatos Josua
 Mekker Kata","12
@@ -241,7 +241,7 @@ Skripek Abigél
 Zubor Ildikó","10
 10
 9","Bornemisza Péter Gimnázium, Általános Iskola, Alapfokú Művészetoktatási Intézmény és Sportiskola","Varga Eszter, 
-Zsilinszky Eszter",12,10,0,,2,0
+Zsilinszky Eszter",12,10,0,NA,2,0
 C,Budapest,KM,"2,9˙","Mihályi Barnabás
 Vágó Flórián
 Mosteller Izabella","9
@@ -275,7 +275,7 @@ C,Budapest,KM,Not my piece of cake,"Horváth Csege
 Jakab Bence
 Tornyi Napsugár","10
 10
-9",Budapest V. kerületi Eötvös József Gimnázium,"Benkó Katalin, Katona Eleonóra",24,9,10,,5,0
+9",Budapest V. kerületi Eötvös József Gimnázium,"Benkó Katalin, Katona Eleonóra",24,9,10,NA,5,0
 D,Budapest,KM,Cucu,"Wágner Tamás
 Gutman Anna
 Pető Ádám","11
@@ -295,7 +295,7 @@ F,Budapest,KM,izé,"Szekeres Nóra
 Jakab Márton
 Vágó Benedek","11
 12
-12",Budapest V. kerületi Eötvös József Gimnázium,Gulyás Erzsébet,41,19,2,,7,13
+12",Budapest V. kerületi Eötvös József Gimnázium,Gulyás Erzsébet,41,19,2,NA,7,13
 D,Budapest,KM,Minions of Mordred,"Zsolt Luca
 Fleiner Zsófia
 Balassa Ádám","11
@@ -309,7 +309,7 @@ Tardos Tamara","9
 9
 9",Budapesti Fazekas Mihály Gyakorló Általános Iskola és Gimnázium,"Gyenes Zoltán 
 Kiss Géza 
-Nagy Kartal",33,10,10,10,,3
+Nagy Kartal",33,10,10,10,NA,3
 D+,Budapest,KM,Nadrágszíj,"Janzer Lili
 Záhorsky Ákos
 Nagy Dávid","11
@@ -399,12 +399,12 @@ Barabás Péter
 Ürmössy Barbara","11
 11
 11",Budapesti Fazekas Mihály Gyakorló Általános Iskola és Gimnázium,"Csefkó Zoltán
-Dvorák Cecília",22,,12,,8,2
+Dvorák Cecília",22,NA,12,NA,8,2
 F,Budapest,KM,Dürer festmény aranyáron,"Kerekes Anna
 Bege Áron
 Fehér Szilveszter","10
 12
-12","Budapesti Fazekas Mihály Gyakorló Általános Iskola és Gimnázium; Óbudai Gimnázium","Schramek Anikó
+12",Budapesti Fazekas Mihály Gyakorló Általános Iskola és Gimnázium; Óbudai Gimnázium,"Schramek Anikó
 Horváth Gábor
 Szokolai Tibor
 Fehér Gabriella",96,20,20,20,18,18
@@ -412,7 +412,7 @@ D,Budapest,KM,Chicken Nuggets,"Nagy Réka
 Ladjánszki Alexandra
 Czímer Klaudia","11
 11
-11","Budapesti Gépészeti Szakképzési Centrum Katona József Szakközépiskolája,  Szakiskolája és Felnőttoktatási Gimnáziuma",Csordás László,0,,,,,
+11","Budapesti Gépészeti Szakképzési Centrum Katona József Szakközépiskolája,  Szakiskolája és Felnőttoktatási Gimnáziuma",Csordás László,0,NA,NA,NA,NA,NA
 C,Nagyvárad,HT,Emimat,"Pap Sándor Zsolt
 Károlyi Vivien
 Balla János","10
@@ -429,7 +429,7 @@ D,Nagyvárad,HT,Csapatnév,"Borsi Patrick
 Bátori Boglárka
 Lipcsei Sándor","11
 11
-12","C.N. ""Mihai Eminescu""",Pálhegyi-Farkas László,10,4,1,,0,5
+12","C.N. ""Mihai Eminescu""",Pálhegyi-Farkas László,10,4,1,NA,0,5
 C,Kecskemét,KM,2X2 néha 5,"Klément Márton
 Kónya Nóra
 Pipicz Ádám","9
@@ -447,7 +447,7 @@ Márkus Richárd","12
 11",Ceglédi Kossuth Lajos Gimnázium,"Kozma Sándor
 Virágné Hornyák Ágnes
 Augusztin Mónika
-Volter Etelka",21,10,3,8,,
+Volter Etelka",21,10,3,8,NA,NA
 K,Pécs,DD,Kollár László,"Laki Anna
 Wéber Márton
 Frim Levente","9
@@ -484,7 +484,7 @@ F,Debrecen,ÉA,Súlyosan Tehetségtelen Amatőrök Rémült Társasága,"Tófalu
 Szatmári Eszter
 Elek Péter","10
 10
-10","Debreceni Református Kollégium Dóczy Gimnáziuma; Debreceni Fazekas Mihály Gimnázium; Vasvári Pál Gimnázium","Tófalusi Péter
+10",Debreceni Református Kollégium Dóczy Gimnáziuma; Debreceni Fazekas Mihály Gimnázium; Vasvári Pál Gimnázium,"Tófalusi Péter
 Adorján László
 Csordásné Marton Melinda",58,4,16,20,1,17
 D+,Budapest,KM,most,"Cseh Noémi Angléa
@@ -501,7 +501,7 @@ D,Budapest,KM,Például,"Kincses Tamara
 Konecsni Panka
 Rákos András Dominik","11
 11
-11",ELTE Apáczai Csere János Gyakorló Gimnázium,"Bakos Enikő, Pető Sándor",0,,,,,
+11",ELTE Apáczai Csere János Gyakorló Gimnázium,"Bakos Enikő, Pető Sándor",0,NA,NA,NA,NA,NA
 D,Budapest,KM,Orcsuki Kabadá,"Orova Katinka
 Csutorás Barna
 Kiss Dávid","11
@@ -518,7 +518,7 @@ F,Budapest,KM,Sepeketul,"Tran Thanh Binh
 Schuller Dóra
 Kórodi Balázs","11
 11
-11",ELTE Radnóti Miklós Gyakorló Általános Iskola és Gyakorló Gimnázium,Markovits Tibor,32,,4,0,18,10
+11",ELTE Radnóti Miklós Gyakorló Általános Iskola és Gyakorló Gimnázium,Markovits Tibor,32,NA,4,0,18,10
 D,Budapest,KM,Csekáv,"Kocsis Bálint
 Lakner Virág
 Murin Dániel","11
@@ -548,7 +548,7 @@ F,Miskolc,ÉM,jezsusokk,"Fogarasi Zengő
 Szrenka Ágoston
 Kucsma Norbert","11
 12
-12","Fényi Gyula Jezsuita Gimnázium és Kollégium, Miskolc",Gonda Gáspár,3,0,2,0,1,
+12","Fényi Gyula Jezsuita Gimnázium és Kollégium, Miskolc",Gonda Gáspár,3,0,2,0,1,NA
 C,Miskolc,ÉM,Főnök,"Dienes Márton András
 Garibay-Székely Patrícia
 Máté Marcell","9
@@ -587,7 +587,7 @@ Biro Hanna
 Pércsi Balázs","10
 10
 9","Földes Ferenc Gimnázium, Miskolc","dr.Szabadfalviné Kormányos Anikó,
-Győry Ákos",10,,5,3,2,
+Győry Ákos",10,NA,5,3,2,NA
 C+,Miskolc,ÉM,Gobblet,"Ajtai Boglárka
 Antal Réka
 Bárczi Enikő Anna","10
@@ -606,7 +606,7 @@ Kertész Attia","12
 11
 12","Földes Ferenc Gimnázium, Miskolc","Gulyás Tibor
 Győri Ákos
-Fejér Szabolcs",19,4,9,6,,0
+Fejér Szabolcs",19,4,9,6,NA,0
 D+,Miskolc,ÉM,Hun a magyar legenda?,"Kovács Zsófia
 Gáspár Attila
 Bodolai Előd","11
@@ -621,7 +621,7 @@ F,Miskolc,ÉM,Csapatnév,"Kozák Dániel Gyula
 Szuhai Barbara
 Tenkely Levente","12
 11
-12","Földes Ferenc Gimnázium, Miskolc",Kovács Benedek,48,20,16,4,,8
+12","Földes Ferenc Gimnázium, Miskolc",Kovács Benedek,48,20,16,4,NA,8
 F,Miskolc,ÉM,Még nem találtuk ki,"Almássy Tekla
 Kiss László
 Tompa Tamás Lajos","11
@@ -643,7 +643,7 @@ Magyari Zoltán
 Molnár Ádám","10
 11
 11","Földes Ferenc Gimnázium, Miskolc","Fóris Tímea
-Szepesiné Medve Judit",20.5,4.5,1,13,2,
+Szepesiné Medve Judit",20.5,4.5,1,13,2,NA
 K+,Miskolc,ÉM,SzuperGyöngyHarcosok,"Al-Hag Johanna Iman
 Sajgó Mátyás
 Major Ábel","10
@@ -700,7 +700,7 @@ C,Hatvan,ÉM,Palotás60,"Jambrich Illés
 Szász Bence
 Kerek Napsugár","9
 10
-10",Hatvani Bajza József Gimnázium és Szakgimnázium,"Nagyné Koncz Teréz, Szénási Andrea",20,10,4,,6,
+10",Hatvani Bajza József Gimnázium és Szakgimnázium,"Nagyné Koncz Teréz, Szénási Andrea",20,10,4,NA,6,NA
 C,Hatvan,ÉM,Polinomok,"Tóth Szabolcs
 Matiszlovics Márk
 Sinkovics Fanni","9
@@ -710,7 +710,7 @@ C,Hatvan,ÉM,ViPerBoCS,"Vig Levente
 Pernyész Bendegúz
 Bodnár Csenge","10
 9
-9",Hatvani Bajza József Gimnázium és Szakgimnázium,"Nagyné Koncz Teréz, Sőreginé Kovács Krisztina, Szénási Andrea",19,10,4,3,2,
+9",Hatvani Bajza József Gimnázium és Szakgimnázium,"Nagyné Koncz Teréz, Sőreginé Kovács Krisztina, Szénási Andrea",19,10,4,3,2,NA
 C,Hatvan,ÉM,Xilofon,"Csáki-Zeke Berill
 Balla Viktória
 Sági Tamás","10
@@ -720,7 +720,7 @@ D,Hatvan,ÉM,Energia,"Lauber Anna
 Kiss Petra Dominika
 Szepesi Szabolcs","11
 11
-11",Hatvani Bajza József Gimnázium és Szakgimnázium,Szénási Andrea,13,4,3,0,,6
+11",Hatvani Bajza József Gimnázium és Szakgimnázium,Szénási Andrea,13,4,3,0,NA,6
 D,Hatvan,ÉM,Harci pockok,"Pál Zsófia
 Orbán Flóra Lili
 Ádám Balázs","11
@@ -735,17 +735,17 @@ F,Nagyvárad,HT,HáthaNyerünkValamiJót,"Agócs Henrietta-Viktória
 Bodor Albert-Bence
 Forgács Péter","11
 11
-11","Horváth János Elméleti Líceum, Margitta",Bondár Piroska,0,,,,,
+11","Horváth János Elméleti Líceum, Margitta",Bondár Piroska,0,NA,NA,NA,NA,NA
 D,Budapest,KM,Balkerkri,"Balbisi Zsuzsa
 Kerekes Bálint
 Kristály Álmos","12
 11
-11",Jedlik Ányos Gimnázium,Fodor Mária,32,10,3,9,,10
+11",Jedlik Ányos Gimnázium,Fodor Mária,32,10,3,9,NA,10
 K,Budapest,KM,SOMA,"Strobel Soma 
 Beke-Szabó Csenge 
 Pallagi Patrik","11
 10
-12",Jedlik Ányos Gimnázium,Elekné Becz Beatrix,41.5,6.5,15,13,7,
+12",Jedlik Ányos Gimnázium,Elekné Becz Beatrix,41.5,6.5,15,13,7,NA
 K+,Budapest,KM,Fehling feeling,"Balbisi Mirjam
 Fekete Zsófia
 Fraknói Ádám","12
@@ -767,7 +767,7 @@ Joháczi Virág
 Oláh Emese","10
 10
 9",Kaposvári Táncsics Mihály Gimnázium,"Ruffné Szakály Zsuzsanna,
-Kubatov Antal",0,,,,,
+Kubatov Antal",0,NA,NA,NA,NA,NA
 C,Kaposvár,DD,Karfiol,"Balla Ábel
 Kiss Antónia Véda
 Tóth Emma","9
@@ -791,7 +791,7 @@ Jelinek Boglárka","12
 11",Kaposvári Táncsics Mihály Gimnázium,"Biczóné Lengyel Beáta
 Tóthné Berzsán Gabriella
 Kubatov Antal
-Szigeti Tamás",25,10,9,,0,6
+Szigeti Tamás",25,10,9,NA,0,6
 D,Kaposvár,DD,Aggregátor,"Horváth Fanni
 Ambrus Áron
 Schifferer András","12
@@ -799,7 +799,7 @@ Schifferer András","12
 11",Kaposvári Táncsics Mihály Gimnázium,"Biczóné Lengyel Beáta
 Tóthné Berzsán Gabriella
 Kubatov Antal
-Szigeti Tamás",15,4,9,,0,2
+Szigeti Tamás",15,4,9,NA,0,2
 D,Veszprém,DD,Repülj velünk a derivált szárnyán!,"Andrásofszky Péter
 Máté Lilla
 Marits Márton","12
@@ -818,7 +818,7 @@ Kolics Kíra
 Árvai Barbara","12
 12
 9",Kaposvári Táncsics Mihály Gimnázium,"Kertészné Bagi Beatrix
-Dr. Miklós Endréné",17.5,2,,4.5,7,4
+Dr. Miklós Endréné",17.5,2,NA,4.5,7,4
 K,Kaposvár,DD,Kémcsövesek,"Huszka Szabolcs
 Magyary István
 Batta Sára","10
@@ -838,17 +838,17 @@ Müller Júlia
 Mózer Veronika","12
 9
 10",Kaposvári Táncsics Mihály Gimnázium,"Kertészné Baggi Beatrix
-Dr. Miklós Endréné",19,0,,13.5,,5.5
+Dr. Miklós Endréné",19,0,NA,13.5,NA,5.5
 K,Kaposvár,DD,Avogadro,"Lalák Katalin
 Major Balázs
 Peti Kamilla","9
 10
-9",Kaposvári Táncsics Mihály Gimnázium,Dr. Miklós Endréné,11.5,4.5,,5,2,
+9",Kaposvári Táncsics Mihály Gimnázium,Dr. Miklós Endréné,11.5,4.5,NA,5,2,NA
 D+,Veszprém,DD,Van,"Csuha Boglárka
 Borbényi Márton
 Tóth Viktor","11
 12
-12","Kaposvári Táncsics Mihály Gimnázium; Keszthelyi Vajda János Gimnázium","Fonyóné Németh Ildikó
+12",Kaposvári Táncsics Mihály Gimnázium; Keszthelyi Vajda János Gimnázium,"Fonyóné Németh Ildikó
 Tóthné Berzsán Gabriella
 Kubatov Antal
 Pósa Lajos",27,7,6,5,4,5
@@ -883,7 +883,7 @@ Vidovics Gergő","10
 10
 11",Kecskeméti Bányai Júlia Gimnázium,"Borsos Katalin
 Reiterné Makra Zsuzsanna
-Vargáné Hajdú Mária",29.5,,1,11.5,9,8
+Vargáné Hajdú Mária",29.5,NA,1,11.5,9,8
 K+,Kecskemét,DA,Difoszfor-pentoxid,"Kiss Dávid
 Molnár Balázs
 Venyingi Fanni","12
@@ -938,12 +938,12 @@ F,Pécs,DD,ATT,"Krasznai Anna
 Marozsák Tóbiás
 Páhoki Tamás","11
 11
-11","Keszthelyi Vajda János Gimnázium; Óbudai Árpád Gimnázium; Pécsi Leőwey Klára Gimnázium","Farkas László, Gärtner István, Simon Péter, Dr. Kotek László",71,17,6,20,8,20
+11",Keszthelyi Vajda János Gimnázium; Óbudai Árpád Gimnázium; Pécsi Leőwey Klára Gimnázium,"Farkas László, Gärtner István, Simon Péter, Dr. Kotek László",71,17,6,20,8,20
 C,Nyíregyháza,ÉA,Málna,"Kázmér Evelin
 Szabó Panna
 Kovács Ádám","9
 9
-9",Kisvárdai Bessenyei György Gimnázium és Kollégium,Tóth Sándor,5,1,4,0,,
+9",Kisvárdai Bessenyei György Gimnázium és Kollégium,Tóth Sándor,5,1,4,0,NA,NA
 C,Nyíregyháza,ÉA,Pipik,"Molnár Éva
 Tóth Marcell
 Győry Bence","9
@@ -966,7 +966,7 @@ Dienes Dániel
 Hosszú Gréta","11
 11
 11",Kisvárdai Bessenyei György Gimnázium és Kollégium,"Tóth Sándor
-Seszták Katalin Mária",23,4,9,9,,1
+Seszták Katalin Mária",23,4,9,9,NA,1
 D,Nyíregyháza,ÉA,Észbontók,"Baráth Ákos
 Bezzegh Ildikó Eszter
 Lipécz Ákos András","11
@@ -983,7 +983,7 @@ D,Nyíregyháza,ÉA,Effesek,"Gégény Zsófia
 Fehér Attila
 Nagy Ádám","11
 11
-11",Kisvárdai Bessenyei György Gimnázium és Kollégium,Tóth Sándor,1,0,0,1,,0
+11",Kisvárdai Bessenyei György Gimnázium és Kollégium,Tóth Sándor,1,0,0,1,NA,0
 K,Nyíregyháza,ÉA,Kémcsövesek,"Kovács Lilla
 Filipcsuk Péter
 Potyók Zoltán","11
@@ -999,22 +999,22 @@ K,Nyíregyháza,ÉA,Kam-ion,"Rompa Alexandra
 Vedres Péter 
 Ahmed Al-Hamati","12
 12
-10",Kisvárdai Bessenyei György Gimnázium és Kollégium,"Machnikné Széplaki Tünde, Tóth-Gál Napsugár Zsuzsanna",4,2,,,,2
+10",Kisvárdai Bessenyei György Gimnázium és Kollégium,"Machnikné Széplaki Tünde, Tóth-Gál Napsugár Zsuzsanna",4,2,NA,NA,NA,2
 C,Budapest,KM,Köbgyökbé,"Kis Dorottya
 Bányai Alex
 Szabó Miléna","10
 9
-10","Klebelsberg Kuno Általános Iskola és Gimnázium; Városmajori Gimnázium és Kós Károly Általános Iskola",Tar Judit,19,10,4,3,2,0
+10",Klebelsberg Kuno Általános Iskola és Gimnázium; Városmajori Gimnázium és Kós Károly Általános Iskola,Tar Judit,19,10,4,3,2,0
 D,Szolnok,ÉA,Mivan?,"Horváth Hilda
 Tóth Csenger
 Gyarmati Zalán","11
 11
-11","Lehel Vezér Gimnázium, Jászberény",Szabóné Gecse Anikó,32,10,7,10,,5
+11","Lehel Vezér Gimnázium, Jászberény",Szabóné Gecse Anikó,32,10,7,10,NA,5
 D+,Veszprém,KD,RBD^2BVUE,"RADNAI BÁLINT
 Varga-Umbrich Eszter
 Döbröntei Dávid Bence","11
 11
-11","Lovassy László Gimnázium, Veszprém; Pápai Református Gimnázium; Türr István Gimnázium, Pápa","Tollnerné Csörgő Veronika, Varga Vince, Radnai István, Németh Zsolt, Varga Mária",18,10,,3,0,5
+11","Lovassy László Gimnázium, Veszprém; Pápai Református Gimnázium; Türr István Gimnázium, Pápa","Tollnerné Csörgő Veronika, Varga Vince, Radnai István, Németh Zsolt, Varga Mária",18,10,NA,3,0,5
 C,Nyíregyháza,ÉA,Fekete lyuk,"Mizsei Gréta
 Májer Nándor
 Csicsák Izsák","10
@@ -1026,7 +1026,7 @@ Nagy Patrícia
 Kósa Ádám","10
 9
 9",Mátészalkai Esze Tamás Gimnázium,"Rozgonyi Dezső,
-Jászai Gyöngyvér",3,1,1,,0,1
+Jászai Gyöngyvér",3,1,1,NA,0,1
 C,Fonyód,DD,Királyok,"Király Ákos
 Balázs Bálint
 Fekír Nadja","10
@@ -1049,19 +1049,19 @@ Göncz Mihály
 Horváth Ádám","12
 12
 11","Mátyás Király Gimnázium, Fonyód","Kasztl Rozália
-Göncz Attila",4,,0,4,,
+Göncz Attila",4,NA,0,4,NA,NA
 D,Fonyód,DD,Matek fakt a gyökediken,"Tóth Hanna
 Sajti Zsolt
 Varga Márton","12
 12
 11","Mátyás Király Gimnázium, Fonyód","Kasztl Rozália
-Köllő Csaba",6,0,0,6,,0
+Köllő Csaba",6,0,0,6,NA,0
 D,Fonyód,DD,RandoMKG,"Németh Dorina
 Sefcsik Márk
 Nagy Barnabás","12
 12
 11","Mátyás Király Gimnázium, Fonyód","Kasztl Rozália
-Göncz Attila",7,6,0,0,,1
+Göncz Attila",7,6,0,0,NA,1
 F,Fonyód,DD,HKIEBRA,"Harmath Klaudia
 Iván Efraim Balázs
 Radó Albert","11
@@ -1073,7 +1073,7 @@ Orosz Dávid
 Antalffy Réka","12
 12
 11",Miskolci Herman Ottó Gimnázium,"Pilzné Nagylaki Tünde
-Pántyáné Kuzder Mária",18,4,0,9,,5
+Pántyáné Kuzder Mária",18,4,0,9,NA,5
 K+,Miskolc,ÉM,Qlombik,"Kosáry Boglárka
 Botos Kamilla Blanka
 Fodor Nikolett","12
@@ -1106,7 +1106,7 @@ Nagy Miron","9
 10
 10",Miskolci Herman Ottó Gimnázium,"Pilzné Nagylaki Tünde,
 Madarász Péter,
-Dezsőfi György",17,10,4,,1,2
+Dezsőfi György",17,10,4,NA,1,2
 C,Miskolc,ÉM,Kiskutyák,"Csák Anna
 Kiss Dávid
 Koleszár Panna","10
@@ -1136,52 +1136,52 @@ Gál Marcell Péter","10
 9
 10",Miskolci Herman Ottó Gimnázium,"Pilzné Nagylaki Tünde
 Madarász Péter
-Dezsőfi György",20,10,4,4,,2
+Dezsőfi György",20,10,4,4,NA,2
 C,Miskolc,ÉM,Valós,"Horkai Hajnalka
 Csiszár Levente
 Nagy Soma","10
 10
-9",Miskolci Herman Ottó Gimnázium,"Pilzné Nagylaki Tünde, Gulyásné Nemes Katalin, Madarász Péter, Dezsőfi György",11,10,1,,,
+9",Miskolci Herman Ottó Gimnázium,"Pilzné Nagylaki Tünde, Gulyásné Nemes Katalin, Madarász Péter, Dezsőfi György",11,10,1,NA,NA,NA
 D,Miskolc,ÉM,1000es,"Lovas Petra
 Pólik Ádám
 Kondor Máté","11
 11
-11",Miskolci Herman Ottó Gimnázium,Kóródi Zoltán,0,,,,,
+11",Miskolci Herman Ottó Gimnázium,Kóródi Zoltán,0,NA,NA,NA,NA,NA
 D,Miskolc,ÉM,2x2 néha 5,"Fülöp Fanni
 Szűcs Levente
 Mihály Bence","11
 12
 12",Miskolci Herman Ottó Gimnázium,"Pilz Olivér,
-Pántyáné Kuzder Mária",0,,,,,
+Pántyáné Kuzder Mária",0,NA,NA,NA,NA,NA
 D,Miskolc,ÉM,impopriusz,"Bujtás Anna
 Tóth Gergő
 Orosz Sándor","11
 12
-12",Miskolci Herman Ottó Gimnázium,"Pilz Olivér, Pántyáné Kuzder Mária",11,4,7,0,,0
+12",Miskolci Herman Ottó Gimnázium,"Pilz Olivér, Pántyáné Kuzder Mária",11,4,7,0,NA,0
 D,Miskolc,ÉM,Kaktuszok,"Tóth Gergely György
 Kalmár Péter
 Bartus Ildikó","12
 12
 11",Miskolci Herman Ottó Gimnázium,"Pilzné Nagylaki Tünde
-Pántyáné Kuzder Mária",10,4,1,5,,0
+Pántyáné Kuzder Mária",10,4,1,5,NA,0
 D,Miskolc,ÉM,Schulbesuchbescheinigung,"Barta Dénes
 Nagy Fruzsina
 Vanczák Zsolt","11
 12
 12",Miskolci Herman Ottó Gimnázium,"Pilz Olivér
-Pántyáné Kuzder Mária",0,,,,,
+Pántyáné Kuzder Mária",0,NA,NA,NA,NA,NA
 D,Győr,NyD,CERUZA,"Bekő Zsuzsanna
 Munkácsi Soma
 Budai Judit","11
 12
 11",Mosonmagyaróvári Kossuth Lajos Gimnázium,"Dr. Némethné Pap Krisztina
 Horváth László
-Pap Éva",9,1,0,1,,7
+Pap Éva",9,1,0,1,NA,7
 D,Kaposvár,DD,Három a köbön,"Bostyai Virág
 Rohán Katalin
 Spengler Márton","12
 11
-11","Nagyboldogasszony Római Katolikus Gimnázium, Kaposvár",Benkő Katalin,7,4,3,,0,0
+11","Nagyboldogasszony Római Katolikus Gimnázium, Kaposvár",Benkő Katalin,7,4,3,NA,0,0
 K,Kaposvár,DD,Acél,"Korontos Petra
 Pál Dorián
 Darabos Dominik","11
@@ -1191,22 +1191,22 @@ K,Kaposvár,DD,ikerionos szerkezet,"Rohán Eszter
 Pfeifer Angéla
 Rajnics Miklós","9
 11
-11","Nagyboldogasszony Római Katolikus Gimnázium, Kaposvár",Rangits Gábor,9,4.5,1,2.5,,1
+11","Nagyboldogasszony Római Katolikus Gimnázium, Kaposvár",Rangits Gábor,9,4.5,1,2.5,NA,1
 K,Kaposvár,DD,Platina,"Vigh Borbála
 Vas Virág
 Kovács Boglárka","10
 10
-10","Nagyboldogasszony Római Katolikus Gimnázium, Kaposvár",Rangits Gábor,15,4.5,4,6.5,,
+10","Nagyboldogasszony Római Katolikus Gimnázium, Kaposvár",Rangits Gábor,15,4.5,4,6.5,NA,NA
 K,Kaposvár,DD,Titánok,"Bednyák Gabriella
 Czaltig Johanna
 Jenei Tamás","10
 12
-10","Nagyboldogasszony Római Katolikus Gimnázium, Kaposvár",Rangits Gábor,22,,1,5.5,5,10.5
+10","Nagyboldogasszony Római Katolikus Gimnázium, Kaposvár",Rangits Gábor,22,NA,1,5.5,5,10.5
 K,Kaposvár,DD,Ununoctium,"Lakatos Emese
 Mogyorósi András
 Fülöp Ádám","11
 11
-10","Nagyboldogasszony Római Katolikus Gimnázium, Kaposvár",Rangits Gábor,5,0,,4,,1
+10","Nagyboldogasszony Római Katolikus Gimnázium, Kaposvár",Rangits Gábor,5,0,NA,4,NA,1
 C+,Szeged,DA,42,"Gilinger Tibor
 Kádár Beatrix
 Kovács Ádám","10
@@ -1216,12 +1216,12 @@ K,Nyíregyháza,ÉA,5Fe,"Répási Marcell
 Ferku Bence Péter
 Herman Fanni","10
 10
-9",Nyíregyházi Eötvös József Gimnázium,Hajdu Brigitta,36.5,3.5,15,13,5,
+9",Nyíregyházi Eötvös József Gimnázium,Hajdu Brigitta,36.5,3.5,15,13,5,NA
 D,Nyíregyháza,ÉA,Darts Tigers,"Bartovics Milán
 Csorba Anikó
 Hajdú Franciska","12
 11
-12",Nyíregyházi Zrínyi Ilona Gimnázium és Kollégium,Sánta József,6,4,0,1,,1
+12",Nyíregyházi Zrínyi Ilona Gimnázium és Kollégium,Sánta József,6,4,0,1,NA,1
 D,Nyíregyháza,ÉA,Ikerprímek,"Kosztin Máté
 Kosztin Péter
 Vilmányi Ágnes","12
@@ -1249,7 +1249,7 @@ F,Budapest,KM,LichtEinstein,"Kostyál Domonkos
 Peőcz Krisztián
 Benda Orsolya","11
 11
-11",Óbudai Árpád Gimnázium,Gärtner István,27,,2,10,7,8
+11",Óbudai Árpád Gimnázium,Gärtner István,27,NA,2,10,7,8
 C,Budapest,KM,Bogim,"Gedai András Máté
 Hajdu Ákos
 Varga Krisztina","10
@@ -1259,7 +1259,7 @@ D,Veszprém,DD,LIT,"Souly Alexandra
 Knoch Júlia
 Kassai Levente","12
 12
-11","Pécsi Janus Pannonius Gimnázium; Ciszterci Rend Nagy Lajos Gimnáziuma és Kollégiuma; Szegedi Radnóti Miklós Kísérleti Gimnázium","Lehőcz Mária
+11",Pécsi Janus Pannonius Gimnázium; Ciszterci Rend Nagy Lajos Gimnáziuma és Kollégiuma; Szegedi Radnóti Miklós Kísérleti Gimnázium,"Lehőcz Mária
 Páll Csaba
 Tigyi István, Szaszkó-Bogárné Eckert Bernadett",45,10,9,8,8,10
 C,Pécs,DD,Origonál,"Rostás Krisztina
@@ -1296,17 +1296,17 @@ D,Pécs,DD,Bartaliga,"Bobula Dalma
 Pál Gergő
 Wolos András","12
 12
-11","PTE Gyakorló Általános Iskola, Gimnázium, Szakközépiskola és Óvoda","Bartal Zsolt, Király Lilla",12,4,6,2,,0
+11","PTE Gyakorló Általános Iskola, Gimnázium, Szakközépiskola és Óvoda","Bartal Zsolt, Király Lilla",12,4,6,2,NA,0
 D,Miskolc,ÉM,∫√2,"Borz Barbara
 Koncz Flórián
 Leitner Csaba","11
 11
-12",Sárospataki Árpád Vezér Gimnázium és Kollégium,Maszkály Ágnes,12,5,1,3,,3
+12",Sárospataki Árpád Vezér Gimnázium és Kollégium,Maszkály Ágnes,12,5,1,3,NA,3
 K+,Miskolc,ÉM,Titánok,"Bolbás Brigitta
 Monyók Helga
 Fedor Zsófia","11
 12
-12",Sárospataki Református Kollégium Gimnáziuma,Búzásné Nagy Gabriella,0,,,,,
+12",Sárospataki Református Kollégium Gimnáziuma,Búzásné Nagy Gabriella,0,NA,NA,NA,NA,NA
 D,Fonyód,DD,Agymenők,"Szőke Beatrix
 Rentler Ferenc
 Sándor Norbert","11
@@ -1331,7 +1331,7 @@ D+,Veszprém,KM,CSI,"Szemerédi Levente
 Kocsis Júlia
 Hegyi Krisztina","11
 12
-12",Szegedi Radnóti Miklós Kísérleti Gimnázium; Dunakeszi Radnóti Miklós Gimnázium; Pécsi Janus Pannonius Gimnázium,"Tigyi István, Szaszkó-Bogárné Eckert Bernadett; Szilágyiné Manasses Melinda; Lányi Vera, Lehőcz Mária",24,10,,3,1,10
+12",Szegedi Radnóti Miklós Kísérleti Gimnázium; Dunakeszi Radnóti Miklós Gimnázium; Pécsi Janus Pannonius Gimnázium,"Tigyi István, Szaszkó-Bogárné Eckert Bernadett; Szilágyiné Manasses Melinda; Lányi Vera, Lehőcz Mária",24,10,NA,3,1,10
 K,Veszprém,KD,Szuperagyak,"Fent Máté
 Puklics Barbara
 Jászai Viktória","10
@@ -1347,7 +1347,7 @@ Nagy Zsófia
 Havasi Dániel","10
 10
 9","Szent Imre Katolikus Gimnázium, Általános Iskola, Kollégium, Óvoda és Alapfokú Művészeti Iskola","Tamás Éva,
-Orosz Erzsébet",0,,,,,
+Orosz Erzsébet",0,NA,NA,NA,NA,NA
 C,Nyíregyháza,ÉA,UMA,"Sajtos Áron Vid
 Szabó Csenge
 Mészáros Regő","10
@@ -1360,7 +1360,7 @@ Somogyi Ádám","12
 12
 11","Szent Imre Katolikus Gimnázium, Általános Iskola, Kollégium, Óvoda és Alapfokú Művészeti Iskola","Lajtosné Krajnyák Éva
 Orosz Erzsébet
-Dr, Kiss Sándor",15,4,5,4,,2
+Dr, Kiss Sándor",15,4,5,4,NA,2
 C,Budapest,KM,Óicíoprepuszmutnavk-Útopalláték,"Kulcsár Boglárka
 Csabai Bendegúz
 Kulcsár Gergely","8
@@ -1378,7 +1378,7 @@ K,Budapest,KM,Berillium,"Győrfi Sára
 Mészáros Bence Balázs
 Szücs Pál","9
 10
-10","Szent István Gimnázium, Budapest","dr. Borbás Réka, Kiss Andrea, Magyar László",50.5,14.5,,15,12.5,8.5
+10","Szent István Gimnázium, Budapest","dr. Borbás Réka, Kiss Andrea, Magyar László",50.5,14.5,NA,15,12.5,8.5
 K,Budapest,KM,Bór,"Németh Násfa
 Pomlényi Petra
 Gyulai Marcell","11
@@ -1388,7 +1388,7 @@ K,Budapest,KM,Ez itt a csapatnév helye,"Adorján Viktória
 Gajdán Gréta
 Szabó Dávid","9
 9
-9","Szent István Gimnázium, Budapest",Kiss Andrea,2.5,0,,1,0,1.5
+9","Szent István Gimnázium, Budapest",Kiss Andrea,2.5,0,NA,1,0,1.5
 K,Budapest,KM,H2OPOK,"Madár Valentina
 Kovács Márton
 Molnár Dániel","11
@@ -1408,7 +1408,7 @@ K,Budapest,KM,Lítium,"Do Hong My Phung Diána
 Kádárkúti Soma
 Szabó Dávid","9
 10
-10","Szent István Gimnázium, Budapest","Horváthné Molnár Emília, Kiss Andrea, Magyar László",10,8,0,,,2
+10","Szent István Gimnázium, Budapest","Horváthné Molnár Emília, Kiss Andrea, Magyar László",10,8,0,NA,NA,2
 K,Budapest,KM,Rénium,"Dömölki Borbála
 Papp Eszter
 Czirják Janka Lili","11
@@ -1419,7 +1419,7 @@ Varga Réka Angéla
 Tallósi Máté","11
 11
 11","Szent István Gimnázium, Budapest","Juhász István 
-Magyar Zsolt",0,,,,,
+Magyar Zsolt",0,NA,NA,NA,NA,NA
 D+,Budapest,KM,Hármacska,"Filip Krisztina
 Matyasi Lilla Nóra
 Oláh Kristóf","11
@@ -1444,7 +1444,7 @@ F,Budapest,KM,Gammasugárzó jókedv,"Adorján Dániel
 Czurkó Szabolcs Dániel
 Világos Blanka","12
 12
-11","Szent István Gimnázium, Budapest","Gyimesi Éva, Szatmáry Zsolt",45,20,14,0,,11
+11","Szent István Gimnázium, Budapest","Gyimesi Éva, Szatmáry Zsolt",45,20,14,0,NA,11
 D+,Budapest,KM,Feketevarjak,"Timár Paula
 Timár Gellért
 Uzonyi Ákos","11
@@ -1459,12 +1459,12 @@ C,Nyíregyháza,ÉA,MAMMA-MIA,"Gyetkó Lilla
 Rozinka Ádám
 Turóci Szintia","9
 9
-9","Szent László Katolikus Gimnázium, Szakgimnázium, Általános Iskola, Kollégium és Óvoda, Kisvárda",Szolnokné Szepessy Éva Dóra,8,7,1,0,,0
+9","Szent László Katolikus Gimnázium, Szakgimnázium, Általános Iskola, Kollégium és Óvoda, Kisvárda",Szolnokné Szepessy Éva Dóra,8,7,1,0,NA,0
 C,Nyíregyháza,ÉA,TRI-LOGO,"Kovács Marcell Balázs
 Szokolai Ágnes
 Barta Krisztián","9
 10
-10","Szent László Katolikus Gimnázium, Szakgimnázium, Általános Iskola, Kollégium és Óvoda, Kisvárda",Szolnokné Szepessy Éva Dóra,14,8,4,,2,0
+10","Szent László Katolikus Gimnázium, Szakgimnázium, Általános Iskola, Kollégium és Óvoda, Kisvárda",Szolnokné Szepessy Éva Dóra,14,8,4,NA,2,0
 D,Nyíregyháza,ÉA,best,"Kiss Róbert
 Balogh László
 Bacsó Enikő","11
@@ -1474,35 +1474,35 @@ D,Nyíregyháza,ÉA,ROTHMANS,"Berecz Richárd
 Mitru Viktória
 Darmai Csaba","11
 11
-10","Szent László Katolikus Gimnázium, Szakgimnázium, Általános Iskola, Kollégium és Óvoda, Kisvárda",Makláriné Almási Judit,0,0,0,0,,0
+10","Szent László Katolikus Gimnázium, Szakgimnázium, Általános Iskola, Kollégium és Óvoda, Kisvárda",Makláriné Almási Judit,0,0,0,0,NA,0
 K,Budapest,KM,TAU,"Lángos Gyula
 Prókay Petra
 Nagy Kristóf Bence","12
 11
-10","Szentendrei II. Rákóczi Ferenc Általános Iskola és Gimnázium","Ferencz Csilla, Bednarikné Vizkeleti Beáta",13.5,,6,7.5,,
+10",Szentendrei II. Rákóczi Ferenc Általános Iskola és Gimnázium,"Ferencz Csilla, Bednarikné Vizkeleti Beáta",13.5,NA,6,7.5,NA,NA
 C,Budapest,KM,Kreatív,"Borbély Katalin
 Juhász Bianka
 Kiss Vince","9
 9
-10","Szentendrei Móricz Zsigmond Gimnázium",Mucsi Dezső,13,10,1,,0,2
+10",Szentendrei Móricz Zsigmond Gimnázium,Mucsi Dezső,13,10,1,NA,0,2
 C,Budapest,KM,Vegyes Csapat,"Bálint Gergely
 Tóth Marcell
 Prónai Sára","9
 10
-9","Szentendrei Móricz Zsigmond Gimnázium","Mucsi Dezső,
+9",Szentendrei Móricz Zsigmond Gimnázium,"Mucsi Dezső,
 Pluhár Viktória",22,10,4,3,5,0
 C,Budapest,KM,Vegyes Csapat 2,"Balázs Villő
 Gáti Attila
 Vass Balázs","9
 10
-9","Szentendrei Móricz Zsigmond Gimnázium","Mucsi Dezső,
+9",Szentendrei Móricz Zsigmond Gimnázium,"Mucsi Dezső,
 Pluhár Viktória",18,10,1,3,2,2
 D,Budapest,KM,Irracionális immagináriusok,"Csorba Gábor
 Sáfár József
 Geyer Fanni","12
 12
-11","Szentendrei Móricz Zsigmond Gimnázium","Mucsi Dezső
-Pluhár Viktória",7,0,0,7,,0
+11",Szentendrei Móricz Zsigmond Gimnázium,"Mucsi Dezső
+Pluhár Viktória",7,0,0,7,NA,0
 C,Szombathely,NyD,Normálalakok,"Nagy Máté
 Inzsöl Réka
 Vörös Dávid","9
@@ -1529,7 +1529,7 @@ Emmer Marcell
 Bakucz Liliána","10
 10
 9",Szombathelyi Nagy Lajos Gimnázium,"Valaska Ferdinánd
-Barczi Péter",11,8,1,,2,0
+Barczi Péter",11,8,1,NA,2,0
 C,Szombathely,NyD,Spárta:CCC,"Lesznik Ákos
 Pungor Péter
 Pócza Csenge","10
@@ -1541,20 +1541,20 @@ Németh Adrián
 Tóth Dávid","12
 11
 11",Szombathelyi Nagy Lajos Gimnázium,"Finta Zsanett
-Valaska Ferdinánd",4,4,0,,0,0
+Valaska Ferdinánd",4,4,0,NA,0,0
 D,Szombathely,NyD,TIPPMIX,"Bartalis Zoltán
 Sinkó Sára
 Labancz Tamás","12
 12
 11",Szombathelyi Nagy Lajos Gimnázium,"Barczi Péter
-Finta Zsanett",15,10,4,,0,1
+Finta Zsanett",15,10,4,NA,0,1
 D,Szombathely,NyD,VIDRA,"Vida Balázs
 Balhási Zalán
 Kiss Laura","12
 12
 11",Szombathelyi Nagy Lajos Gimnázium,"Barczi Péter
 Finta Zsanett
-Valaska Ferdinánd",1,,1,,,0
+Valaska Ferdinánd",1,NA,1,NA,NA,0
 F,Szombathely,NyD,FŐNIX RENDJE,"Jakab Bálint
 Marosits Ádám
 Horváth Fanni","11
@@ -1564,29 +1564,29 @@ F,Szombathely,NyD,SCHUKI,"Koltai Kristóf
 Horváth Áron
 Horváth Fanni Sarolta","11
 12
-12",Szombathelyi Nagy Lajos Gimnázium,Finta Zsanett,5,,2,0,,3
+12",Szombathelyi Nagy Lajos Gimnázium,Finta Zsanett,5,NA,2,0,NA,3
 K+,Szombathely,NyD,Éxtrapiramidális,"Kovács Kamilla
 Sulyok Gergő
 Milisits Máté","12
 12
-11",Szombathelyi Nagy Lajos Gimnázium,Szinetárné Márkus Teréz,10.5,5.5,1,3,1,
+11",Szombathelyi Nagy Lajos Gimnázium,Szinetárné Márkus Teréz,10.5,5.5,1,3,1,NA
 K+,Szombathely,NyD,Kémcsövek,"Örkényi Boglárka
 Labancz Patrik
 Varga Martin","11
 11
-11",Szombathelyi Nagy Lajos Gimnázium,Szinetárné Márkus Teréz,5,2,2,0,1,
+11",Szombathelyi Nagy Lajos Gimnázium,Szinetárné Márkus Teréz,5,2,2,0,1,NA
 C,Szeged,DA,Matek tenger kalózai,"Juhász Dóra
 Ruzsa Kata
 Csiky Gergely","10
 10
 9","SZTE Gyakorló Gimnázium és Általános Iskola, Szeged","Kovács István
-Dr. Dobi János",18,10,4,,2,2
+Dr. Dobi János",18,10,4,NA,2,2
 F,Szeged,DA,Tibi atya gyermekei,"Pesti Laura
 Guba Zoltán
 Ónodi Gergely","11
 11
 11","SZTE Gyakorló Gimnázium és Általános Iskola, Szeged","Nagy Tibor
-",0,,,,,
+",0,NA,NA,NA,NA,NA
 C+,Szeged,DA,Együtthatók,"Gárgyán Barnabás
 Szemerédi Előd
 Szilágy Anna","10
@@ -1600,7 +1600,7 @@ Madarász Àron
 Mészàros Bence","10
 11
 11",Tatai Református Gimnázium,"Szabó Ildikó
-Illés Dàniel",31,0,,12,8,11
+Illés Dàniel",31,0,NA,12,8,11
 K,Tatabánya,KD,Pupákok,"Engelbrecht Patrícia
 Bene Balázs
 Sólyom Panna Viktória","12
@@ -1612,7 +1612,7 @@ D,Debrecen,ÉA,nemszűk.q.e.d,"Budai Éva
 Kovács Máté
 Kinczel Zoltán Árpád","12
 12
-11","Tóth Árpád Gimnázium, Debrecen","Dr. Bajza Istvánné, Hajzer György, Kovács Ákos",1,0,0,0,,1
+11","Tóth Árpád Gimnázium, Debrecen","Dr. Bajza Istvánné, Hajzer György, Kovács Ákos",1,0,0,0,NA,1
 C,Veszprém,KD,BUKTA,"Mészáros Márton
 Piller Ádám
 Nagy Ágnes","10
@@ -1622,17 +1622,17 @@ D,Veszprém,KD,Kéne egy csapatnév,"Simon Ákos
 Szalóky Krisztina
 Steiner Csaba","12
 11
-12","Türr István Gimnázium, Pápa","Németh Zsolt, Nagy Réka",28,10,3,9,,6
+12","Türr István Gimnázium, Pápa","Németh Zsolt, Nagy Réka",28,10,3,9,NA,6
 C,Budapest,KM,PEF,"Miklós Levente
 Németh Emese
 Csonka Ferenc","9
 10
-9","Újpesti Műszaki Két Tanítási Nyelvű Szakközép Iskola (UMSZKI) Kozma Lajos Faipari Szakközép Iskola, Budapest",Kámán Ildikó,17,10,5,,2,0
+9","Újpesti Műszaki Két Tanítási Nyelvű Szakközép Iskola (UMSZKI) Kozma Lajos Faipari Szakközép Iskola, Budapest",Kámán Ildikó,17,10,5,NA,2,0
 C,Szolnok,ÉA,BeTaAn,"Gál Bence
 Pádár Tamás
 Kovács Annamária","9
 10
-8","Varga Katalin Gimnázium, Szolnok",Berkó Erzsébet,17,7,4,3,3,
+8","Varga Katalin Gimnázium, Szolnok",Berkó Erzsébet,17,7,4,3,3,NA
 C,Szolnok,ÉA,Antikreatívak,"Katona Tíra Panna
 Lapu Kolo
 Kovács Gábor","10
@@ -1657,7 +1657,7 @@ Baráth László","10
 9","Verseghy Ferenc Gimnázium, Szolnok","Drávucz Anita
 Pécsi István
 Lapu Béla
-Algayné Varga Éva",26,10,5,,10,1
+Algayné Varga Éva",26,10,5,NA,10,1
 C,Szolnok,ÉA,VFG3,"Bevíz Zoltán
 Gál Milán
 Soós Petra","10
@@ -1674,4 +1674,4 @@ Pató Ákos Gábor","10
 Pécsi István
 Lapu Béla
 Algayné Varga Éva",21,10,4,3,2,2
-D,Miskolc,ÉM,Földes lányok,,,,,8,4,0,4,,0
+D,Miskolc,ÉM,Földes lányok,NA,NA,NA,NA,8,4,0,4,NA,0
