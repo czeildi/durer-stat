@@ -5,5 +5,6 @@ install.packages(c(
     'maps',
     'RSQLite',
     'shiny',
-    'googlesheets'
+    'googlesheets',
+    'ggrepel'
 ))

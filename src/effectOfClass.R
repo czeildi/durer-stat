@@ -14,8 +14,10 @@ classDataForTeams <- function(scores_in_category) {
 
 plotEffectOfClass <- function(class_data) {
     class_data %>% 
+        .[, number_member_in_lower_class := as.integer(num_member_in_lower_class)] %>% 
         ggplot(aes(x = num_member_in_lower_class, y = total, group = num_member_in_lower_class)) +
-        geom_jitter(aes(col = num_member_in_lower_class), width = 0.2) +
+        geom_jitter(aes(col = num_member_in_lower_class), alpha = 0.5, width = 0.1) +
+        ggrepel::geom_text_repel(aes(label = team)) + 
         theme(legend.position = 'none')
 }
 

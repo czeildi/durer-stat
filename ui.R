@@ -9,7 +9,7 @@ shinyUI(fluidPage(
                 choices = str_replace(list.files('raw_data'), '.csv', '')
             ),
             radioButtons(
-                'category', 'Select category', choices = c('A', 'B', 'C', 'D', 'F', 'K'), inline = T
+                'category', 'Select category', choices = c('A', 'B', 'C', 'C+', 'D', 'D+', 'F', 'K', 'K+'), inline = T
             ),
             plotOutput('effect_of_age'),
             dataTableOutput('scores')
