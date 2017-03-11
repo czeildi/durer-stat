@@ -1,6 +1,7 @@
 shinyServer(function(input, output) {
     scores <- reactive({
-        fread(str_c('data/', input$raw_data, '.csv'))
+        read_csv(str_c('data/', input$raw_data, '.csv')) %>% 
+            data.table()
     })
     
     output$scores <- renderDataTable({
@@ -20,7 +21,8 @@ shinyServer(function(input, output) {
             'Hungary', 'Croatia', 'Austria', 'Ukraine', 'Slovakia',
             'Slovenia', 'Romania', 'Serbia and Montenegro'
         )
-        prepared_dt <- fread(str_c('data/', input$data_for_map, '.csv'))
+        prepared_dt <- read_csv(str_c('data/', input$data_for_map, '.csv')) %>% 
+            data.table()
         if ('city' %in% names(prepared_dt)) {
             raw_cities <- prepared_dt[, city]
         } else {

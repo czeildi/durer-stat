@@ -3,7 +3,7 @@ library("RSQLite")
 
 durer_db <- dbConnect(RSQLite::SQLite(), "data/durer-stat.sqlite")
 
-dt <- fread(file.path('data', '8H-cdfk-scores.csv'))
+dt <- read_csv(file.path('data', '8H-cdfk-scores.csv')) %>% data.table()
 
 schools <- unique(dt[, .(school = stringi::stri_trans_totitle(school), address = '', city, region)])
 

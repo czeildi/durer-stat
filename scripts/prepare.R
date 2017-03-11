@@ -1,7 +1,7 @@
 purrr::walk(
     list.files('raw_data', full.names = TRUE),
     ~ {
-        read_csv(.) %>% 
+        read_csv(.x) %>% 
             translateColName() %>% 
             separateMembers() %>% 
             separateClasses() %>% 
