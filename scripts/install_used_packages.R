@@ -4,5 +4,6 @@ install.packages(c(
     'leaflet',
     'maps',
     'RSQLite',
-    'shiny'
+    'shiny',
+    'googlesheets'
 ))
