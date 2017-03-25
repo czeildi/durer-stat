@@ -4,7 +4,7 @@ classDataForTeams <- function(scores_in_category) {
     }
     scores_in_category %>% 
         melt(
-            id.vars = c('team', 'total'),
+            id.vars = c('team', 'school', 'total'),
             measure.vars = paste0('class_', 1:3),
             value.name = 'class'
         ) %>% 
@@ -22,7 +22,7 @@ plotEffectOfClass <- function(class_data) {
 }
 
 countMembersInLowerClass <- function(dt) {
-    dt[, lowest_class := min(as.integer(class)), by = 'team'] %>% 
-        .[, num_member_in_lower_class := sum(class == lowest_class), by = 'team'] %>% 
+    dt[, lowest_class := min(as.integer(class)), by = c('team', 'school')] %>% 
+        .[, num_member_in_lower_class := sum(class == lowest_class), by = c('team', 'school')] %>% 
         .[,lowest_class := NULL]
 }
