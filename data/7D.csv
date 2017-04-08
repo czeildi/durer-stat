@@ -1,0 +1,64 @@
+category,team,school,city,member_1,member_2,member_3,teachers,Péntek,Szombat,total
+C,White Walkers,Bajai III. Béla Gimnázium,Baja,Könyves Zsófia, Ritter Áron, Marton Szabolcs,NA,34,20.0,54.0
+D,Miért?,Bajai III. Béla Gimnázium,Baja,Kertész Hanga, Lentner Balázs, Erős Gábor,"Sasfalvi Ildikó, Lakner Attila",15,15.0,30.0
+D,"Pjorotkblkd öö, izé nem tudom elolvasni",Békásmegyeri Veres Péter Gimnázium,Budapest,Pizág Levente, Csilling Tamás, Tatai Daniella,"Simon János, Varga Mária, Tassy Gergely",55,31.0,86.0
+F,"Elnézést, tévedés történt",Békásmegyeri Veres Péter Gimnázium,Budapest,Szanyi Erik,Ujváry Patrick,Wiand Bianka,"Székely György, Erdősi Katalin, Csaba György",34,30.0,64.0
+C,Exponenciálisok,"Bornemisza Péter Gimnázium, Általános Iskola, Alapfokú Művészetoktatási Intézmény és Sportiskola",Budapest,Lakatos Joshua, Cserkó Priszcilla, Zaszlavik Sára,"Varga Eszter, Zádori Erika",45,31.0,76.0
+C,Farkaséhes birkák,"Bornemisza Péter Gimnázium, Általános Iskola, Alapfokú Művészetoktatási Intézmény és Sportiskola",Budapest,Nagy Salamon, Szopkó Rebeka, Tóth Olivér,"Varga Eszter, Rimay Zoé",28,29.0,57.0
+D,Számtanúk,"Bornemisza Péter Gimnázium, Általános Iskola, Alapfokú Művészetoktatási Intézmény és Sportiskola",Budapest,Horváth Áron, Román Dávid, Millner Viola,Varga Eszter,48,17.0,65.0
+D,kétszer kettő néha öt,"Bornemisza Péter Gimnázium, Általános Iskola, Alapfokú Művészetoktatási Intézmény és Sportiskola",Budapest,Krisztián Jonatán, Bakó Dávid, Dornai Zsófia,"Varga Eszter, Zsilinszky Eszter",41,17.0,58.0
+D,AAA,ELTE Radnóti Miklós Gyakorló Általános Iskola és Gyakorló Gimnázium,Budapest,Temesvári Fanni, Koppány Gergő, Lenkovics Karolina,"Morvai Éva, Harró Ágota",29,19.0,48.0
+C,eyjafjallajökull,Budapesti Fazekas Mihály Gyakorló Általános Iskola és Gimnázium,Budapest,Gulyás Claudia, Bátorfi Botond Péter, Kovács Benedek,"Hujter Bálint, Kovács Kálmán, Fazakas Tönde, Szűcs Gábor",46,64.0,110.0
+C,Nyctea scandiaca,Budapesti Fazekas Mihály Gyakorló Általános Iskola és Gimnázium,Budapest,Nagy Benjámin Boldizsár, Vadász András, Szabó Csenge Krisztina,"Szűcs Gábor, Fazakas Tünde, Gyenes Zoltán, Kovács Kálmán",38,41.0,79.0
+B,2 + 3 = 5,"Lauder Javne Zsidó Közösségi Óvoda, Ált. Isk. és Középisk.",Budapest,Kiss Dorottya, Forgács Dániel, Götz Ádám,"Pataki János, Szép János, Kósa Tamás",62,19.0,NA
+C,szigma,"Szent István Gimnázium, Budapest",Budapest,Korom Gergely, Klapper Balázs, Szécsi Dominika,Jeneiné Bicsák Krisztina,37,29.0,66.0
+D,Balázs és az Eperfák,"Szent István Gimnázium, Budapest",Budapest,Gáti Balázs Antal, Ruszbánszki Nándor, Koller Henrietta,"Jeneiné Bicsák Krisztina, Halek Tamás, Magyar Zsolt, Kovács Péter",37,41.0,78.0
+D,SZIGet,"Szent István Gimnázium, Budapest",Budapest,Weisz Szilvia, Hartvig Áron, Ruzicska György,"Halek Tamás, Jeneiné Bicsák Krisztina",26,34.0,60.0
+F,"Nincsen nekem olyanom, de várjál majd hozok","Szent István Gimnázium, Budapest",Budapest,Kálmán Botond,Sveiczer András,Dénes Dorottya,"Gyimesi Éva, Szabó Sándor",30,31.0,61.0
+F,Atomtengeralattjáró,Debreceni Református Kollégium Dóczy Gimnáziuma,Debrecen,Csáky Pál,Csathó Botond,Csige Sára,Tófalusi Péter,24,37.0,61.0
+C,szűkgyök.de,"Tóth Árpád Gimnázium, Debrecen",Debrecen,Illyés Gabriella, Budai Éva, Dudás Zoltán,Dr. Bajza Istvánné,37,46.0,83.0
+C,A kocka el van vetve,Radnóti Miklós Gimnázium,Dunakeszi,Cseh Noémi, Kocsis Júlia, Végh András,NA,33,57.0,90.0
+D,Dunakeszi Radnóti,Radnóti Miklós Gimnázium,Dunakeszi,Kovács Márton, Csépai András, Kisrákói Andrea,"Viczencz Katalin, Szoldatics József",51,9.0,60.0
+A,FEJTÖRŐK,"Eszterházy Károly Gyakorló Iskola, Eger",Eger,Csák Ádám, Kucsma Lehel Péter, Fónagy Fanni,Garbaczné Olasz Andrea,56,30.0,86.0
+A,2x6+5,"Eszterházy Károly Gyakorló Iskola, Eger",Eger,Kocsik Nóra, Szauer András, Fülep Dániel,Garbaczné Olasz Andrea,44,23.0,67.0
+A,RECIPRÓKÁK,"Eszterházy Károly Gyakorló Iskola, Eger",Eger,Fejes Botond, Szabó Péter Krisztián, Koczka Szófia,"Tóthné Szűk Erzsébet,Garbaczné Olasz Andrea",25,21.0,46.0
+B,Nyúl'z,"Eszterházy Károly Gyakorló Iskola, Eger",Eger,Lakatos Veronika, Tóth Marco, Hoffmann Balázs,Garbaczné Olasz Andrea,45,38.0,NA
+B,KJG 2,Kecskeméti Katona József Gimnázium,Kecskemét,Nagy Virág, Pottondi Csaba Tamás, Kovács Marcell,Csordás Péter,33,22.0,NA
+A,005a006d Refi Kecskemét,Kecskeméti Református Általános Iskola,Kecskemét,Aczél-Szabó János, Miszler Levente, Tóth Lili Anna,"Nagy Tibor, Háriné Kun Éva, Brenyó Mihályné, Brenyó Mihály",36,46.0,82.0
+C,Vajda-trió,Keszthelyi Vajda János Gimnázium,Keszthely,Németh Flóra, Horváth Fanni, Szántó Benedek,Fonyó Lajos,40,57.0,97.0
+D,Kőpapírolló,Kisvárdai Bessenyei György Gimnázium és Kollégium; Budapesti Fazekas Mihály Gyakorló Általános Iskola és Gimnázium; Jedlik Ányos Gimnázium; Erdős Pál Matematikai Iskola,Kisvárda; Debrecen; Budapest; Veszprém,Borsi Tímea, Varga Dániel, Leipold Péter Zoltán,"Árváné Doba Mária, Makláriné Gubik Anna,
+ Remeténé Orvos Viola, Dr. Pintér Ferenc",71,54.0,125.0
+A,2x2néha5,Kossuth Lajos Magyar-Angol Két Tanítási Nyelvű Általános Iskola,Mezőtúr,Bíró Ádám Márk, Tömösközi Panna, Benke Laura,"Farkas Sándorné, Bíróné Drágán Enikő",33,45.0,78.0
+A,Mütyűrök,"Fényi Gyula Jezsuita Gimnázium és Kollégium, Miskolc",Miskolc,Mérai Lilian, Simkó Gergő, Oláh Marcell,Németh Anna,35,25.0,60.0
+B,Tojások,"Földes Ferenc Gimnázium, Miskolc",Miskolc,Gáspár Attila, Debreczeni Ákos, Szász Eszter,"Kovács Attiláné, Győry Ákos, Dr. Szabadfalviné Kormányos Anikó",72,66.0,NA
+B,590x390x250 a köbgyökér alatt,"Földes Ferenc Gimnázium, Miskolc",Miskolc,Tóth Tamás, Vadon Enikő, Illés Dorottya Lilla,"Kovács Attiláné, Győry Ákos, Dr. Szabadfalviné Kormányos Anikó",58,30.0,NA
+B,Mini Einsteinek,"Földes Ferenc Gimnázium, Miskolc",Miskolc,Soós Gergely, Kovács Zsófia, Leskó Laura,"Kovács Attiláné, Győry Ákos, Dr. Szabadfalviné Kormányos Anikó",24,23.0,NA
+B,Nekem8,"Földes Ferenc Gimnázium, Miskolc",Miskolc,Kádár Bálint, Mócz Márton, Bíró Hanna,Kovács Attiláné,28,15.0,NA
+B,Törpokosok,"Földes Ferenc Gimnázium, Miskolc",Miskolc,Poncsák Ákos, Vass Lívia, Almássy Tekla,"Kovács Attiláné, Győry Ákos, Dr. Szabadfalviné Kormányos Anikó",15,18.0,NA
+B,Tetraéder,"Földes Ferenc Gimnázium, Miskolc",Miskolc,Tóth Ádám, Szász Kristóf, Nagy Klaudia,"Kovács Attiláné, Győry Ákos, Dr. Szabadfalviné Kormányos Anikó",36,29.0,NA
+C,Földes urak és egy Hölgy,"Földes Ferenc Gimnázium, Miskolc",Miskolc,Szabadfalvi Dániel, Bodolai Enikő, Osztermann Anna,"Gulyás Tibor, Győry Ákos",38,35.0,73.0
+C,PI-TEAM,"Földes Ferenc Gimnázium, Miskolc",Miskolc,Benkő Glória, Csordás Márk, Révy Gábor,"Gulyás Tibor, Győry Ákos, Vass István, Veres Pál",32,26.0,58.0
+D,PoliGnómok,"Földes Ferenc Gimnázium, Miskolc",Miskolc,Juhász Melinda, Matkovics Gábor, Simkó Irén,"Kovács Attiláné, Vass István, Veres Pál",75,38.0,113.0
+D,Hazament,"Földes Ferenc Gimnázium, Miskolc",Miskolc,Mihók Anna, Szőke Tamás, Szabó Dániel,"Dr. Szabadfalviné Kormányos Anikó, Gulyás Tibor, Kovács Attiláné",62,50.0,112.0
+D,Vesztettem!,"Földes Ferenc Gimnázium, Miskolc",Miskolc,Gulyás Eszter, Tari Balázs, Porupsánszki István,"Kovács Attiláné, Vas Iván, Fejér Szabolcs",45,45.0,90.0
+C,Logika,Fráter György Katolikus Gimnázium,Miskolc,Kádár Hanna, Tóth Bernadett, Fenyvesi Mátyás,Svidróné Grallert Marianna,23,13.0,36.0
+A,Négyzetgyök,Miskolci Herman Ottó Gimnázium,Miskolc,Juhász Ákos, Rem Soma, Sógor Luca,"Gulyásné Nemes Katalin, Pilzné Nagylaki Tünde",52,41.0,93.0
+A,n!,Miskolci Herman Ottó Gimnázium,Miskolc,Ambrus Zsombor, Palencsár Enikő, Szabó Barbara Noémi,"Gulyásné Nemes Katalin, Pilzné Nagylaki Tünde",53,33.0,86.0
+A,Kicsik,Miskolci Herman Ottó Gimnázium,Miskolc,Galgóczy Gábor, Karsai János, Vater Vanda,Pilzné Nagylaki Tünde,51,27.0,78.0
+A,Aranykoponyák,Miskolci Herman Ottó Gimnázium,Miskolc,Pedruska Bence, Nagy Soma, Fodor Sarolta Katinka,"Gulyásné Nemes Katalin, Pilzné Nagylaki Tünde",36,27.0,63.0
+B,Pikácsú,Miskolci Herman Ottó Gimnázium,Miskolc,"Lakatos Levente,", Soós Antónia, Vitelki Balázs,Kóródi Zoltán,42,18.0,NA
+B,Tippszmix,Miskolci Herman Ottó Gimnázium,Miskolc,Bertóti Laura, Pólik Ádám, Kondor Máté,Kóródi Zoltán,57,21.0,NA
+A,Vár-Ady-ZRN,"Ady Endre Elméleti Líceum, Nagyvárad",Nagyvárad,Erdei Roland, Árva Norbert, Kohán Zsófia,"Bődi János, Ridi Enikő",42,37.0,79.0
+B,Triász,Figedy János Általános Iskola,Noszvaj,Dósa Attila, Marczis Bettina, Zentai Márton,Ivády Tamásné,38,20.0,NA
+C,Tabura rasa triumvirátusa,Nyíregyházi Krúdy Gyula Gimnázium,Nyíregyháza,Balogh Júlia, Nagy Kristóf Máté, Szabó Eszter,"Botrágyi Tibor, Dr. Kiss Sándor",39,40.0,79.0
+A,ALFA,"Szent Imre Katolikus Gimnázium, Általános Iskola, Kollégium, Óvoda és Alapfokú Művészeti Iskola",Nyíregyháza,Mészáros Regő, Ványi Bence, Mészáros Bori Anna,Szaploczay Mihályné Orosz Erzsébet,49,23.0,72.0
+B,X Faktoriális,"Szent Imre Katolikus Gimnázium, Általános Iskola, Kollégium, Óvoda és Alapfokú Művészeti Iskola",Nyíregyháza,Felföldi Áron György, Szabó Csenge, Havasi Gergely,"Istvánné Gál Krisztina, Szaplonczay Mihályné",71,29.0,NA
+B,A-team,Sárospataki Árpád Vezér Gimnázium és Kollégium,Sárospatak,Dékány Kolos, Sipos Balázs, Klima Odett,Zsilinszky Anett,19,9.0,NA
+C,Matek-tenger kalózai,Sárospataki Árpád Vezér Gimnázium és Kollégium,Sárospatak,Vigh András Zsolt, Dékány Lea, Ulimájer Donát,"Zsilinszky Anett, Maszkály Ágnes",30,22.0,52.0
+A,Törtek,Sárospataki II. Rákóczi Ferenc Általános Iskola,Sárospatak,Koncz Valentin, Hüllik Emma, Füssi-Nagy Regő,Bartus Györgyné,27,19.0,46.0
+F,Heisenbergcsoport,Szegedi Radnóti Miklós Kísérleti Gimnázium,Szeged,Mező Judit,Márton Boldizsár,Géczi Péter,Dr. Mező Tamás,39,37.0,76.0
+F,Luxus moszkvics slusszkulcsok,"Varga Katalin Gimnázium, Szolnok",Szolnok,Csibi Levente,Ladányi Zsuzsanna,Tóth Márton,NA,38,30.5,68.5
+B,gyököcskék,Taktaharkányi Apáczai Csere János Általános Iskola,Taktaharkány,Majoros Dávid, Bukovenszki Réka, Pálfalusi Diána,Orosz Istvánné,26,18.0,NA
+A,World of Maths,Tiszaújvárosi Általános Iskola és Alapfokú Művészeti Iskola,Tiszaújváros,Makrányi Kata, Gönczi Gabriella, Kébel Zsolt,"Hevesiné Cserés Margit, Dózsa Imre",61,35.0,96.0
+B,Észbontó,Tiszaújvárosi Általános Iskola és Alapfokú Művészeti Iskola,Tiszaújváros,Csák Anna, Lovász Péter, Kovács Evelin,"Hevesiné Cserés Margit, Kovácsné Pintér Éva",52,16.0,NA
+D,Őrjöngő Magyar,Erdős Pál Matematikai Iskola,Veszprém,Kóródi Brúnó Zoltán, Kiss Tibor, Vu Lien Viola,"Pintér Ferenc, Varga József",22,55.0,77.0
