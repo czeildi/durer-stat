@@ -43,7 +43,6 @@ attachAmbiguousSchools <- function(schools, unambiguous_schools) {
   if (length(ambiguous_schools) >= 1) {
       dt_of_additional_schools <- data.table(
           school = ambiguous_schools,
-          address = '',
           city = '',
           region = ''
       )
